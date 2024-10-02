@@ -3013,6 +3013,7 @@
 62678,Q1427707,1730,Northwestern Europe,15.0,Painter,1700,15.0
 62685,Q14278,1830,Northwestern Europe,16.0,Writer,1800,16.0
 62686,Q14278,1830,United Kingdom,16.0,Writer,1800,16.0
+62761,Q142999,310,Arabic world,10.0,Writer,300,10.0
 62762,Q142999,310,Greek World,10.0,Writer,300,10.0
 62766,Q1430,160,Latin World,30.0,Writer,200,30.0
 62768,Q1430,160,Northwestern Europe,30.0,Writer,200,30.0
@@ -5296,6 +5297,7 @@
 106924,Q1704563,1840,German world,9.0,Painter,1800,9.0
 106925,Q1704563,1840,Northwestern Europe,9.0,Painter,1800,9.0
 106931,Q1704589,1870,Central Europe,5.0,Musician,1900,5.0
+106953,Q170472,220,Arabic world,7.0,Writer,200,7.0
 106954,Q170472,220,Greek World,7.0,Writer,200,7.0
 106957,Q17047212,1880,Southwestern Europe,8.0,Writer,1900,8.0
 106958,Q17047212,1880,Spain,8.0,Writer,1900,8.0
@@ -5305,6 +5307,7 @@
 107028,Q1705056,1790,Northwestern Europe,10.0,Sculptor,1800,10.0
 107035,Q170509,1880,Northwestern Europe,136.0,Writer,1900,136.0
 107036,Q170509,1880,United Kingdom,136.0,Writer,1900,136.0
+107047,Q170512,160,Arabic world,15.0,Writer,200,15.0
 107048,Q170512,160,Latin World,15.0,Writer,200,15.0
 107152,Q1705960,1880,Central Europe,713.0,Writer,1900,713.0
 107158,Q1706029,1840,Central Europe,5.0,Performing Artist,1800,5.0
@@ -7390,6 +7393,7 @@
 135353,Q189454,1870,United Kingdom,16.0,Writer,1900,16.0
 135643,Q18954156,1870,Northwestern Europe,9.0,Painter,1900,9.0
 135644,Q18954156,1870,United Kingdom,9.0,Painter,1900,9.0
+135793,Q189597,20,Arabic world,10.0,Writer,0,10.0
 135794,Q189597,20,Greek World,10.0,Writer,0,10.0
 135877,Q189725,-460,Indian world,4.0,Writer,-500,4.0
 136036,Q189869,1880,Southwestern Europe,159.0,Performing Artist,1900,159.0
@@ -7588,6 +7592,7 @@
 138005,Q192365,520,Southwestern Europe,4.0,Writer,500,4.0
 138037,Q19238826,1880,German world,4.0,Writer,1900,4.0
 138039,Q19238826,1880,Northwestern Europe,4.0,Writer,1900,4.0
+138048,Q192417,-260,Arabic world,19.0,Writer,-300,19.0
 138049,Q192417,-260,Greek World,19.0,Writer,-300,19.0
 138053,Q192428,1810,France,7.0,Writer,1800,7.0
 138054,Q192428,1810,Northwestern Europe,7.0,Writer,1800,7.0
@@ -7606,6 +7611,7 @@
 138103,Q19257696,1870,Northwestern Europe,5.0,Painter,1900,5.0
 138167,Q19259805,1880,German world,4.0,Painter,1900,4.0
 138169,Q19259805,1880,Northwestern Europe,4.0,Painter,1900,4.0
+138186,Q192638,-260,Arabic world,4.0,Writer,-300,4.0
 138187,Q192638,-260,Greek World,4.0,Writer,-300,4.0
 138195,Q1926505,1850,Nordic countries,15.0,Writer,1800,15.0
 138196,Q1926505,1850,Northwestern Europe,15.0,Writer,1800,15.0
@@ -7683,6 +7689,7 @@
 139625,Q193064,1870,East Slavic,247.0,Painter,1900,247.0
 139631,Q1930688,1840,France,51.0,Writer,1800,51.0
 139632,Q1930688,1840,Northwestern Europe,51.0,Writer,1800,51.0
+139655,Q19309,480,Arabic world,50.0,Writer,500,50.0
 139698,Q1931055,1520,Italy,4.0,Painter,1500,4.0
 139699,Q1931055,1520,Southwestern Europe,4.0,Painter,1500,4.0
 139761,Q1932338,1680,Low countries,6.0,Painter,1700,6.0
@@ -8910,6 +8917,7 @@
 160843,Q2126562,1840,Northwestern Europe,8.0,Painter,1800,8.0
 160846,Q212657,1630,Italy,98.0,Painter,1600,98.0
 160847,Q212657,1630,Southwestern Europe,98.0,Painter,1600,98.0
+160853,Q212667,-240,Arabic world,8.0,Writer,-200,8.0
 160860,Q2126833,1790,France,11.0,Painter,1800,11.0
 160861,Q2126833,1790,Northwestern Europe,11.0,Painter,1800,11.0
 160893,Q212754,1880,Northwestern Europe,135.0,Painter,1900,135.0
@@ -14444,6 +14452,7 @@
 238418,Q313925,1640,United Kingdom,13.0,Writer,1600,13.0
 238425,Q313932,1620,Northwestern Europe,12.0,Writer,1600,12.0
 238426,Q313932,1620,United Kingdom,12.0,Writer,1600,12.0
+238431,Q313934,400,Arabic world,6.0,Writer,400,6.0
 238432,Q313934,400,Greek World,6.0,Writer,400,6.0
 238444,Q3139920,1590,Southern Japan,12.0,Painter,1600,12.0
 238445,Q3139920,1590,Japan,12.0,Painter,1600,12.0
@@ -16342,6 +16351,7 @@
 258864,Q3391815,1840,Spain,9.0,Writer,1800,9.0
 258891,Q339270,1650,Low countries,55.0,Painter,1600,55.0
 258893,Q339270,1650,Northwestern Europe,55.0,Painter,1600,55.0
+258920,Q33941,360,Arabic world,6.0,Writer,400,6.0
 258921,Q33941,360,Greek World,6.0,Writer,400,6.0
 258942,Q3394913,1870,Southwestern Europe,10.0,Painter,1900,10.0
 258943,Q3394913,1870,Spain,10.0,Painter,1900,10.0
@@ -16573,6 +16583,7 @@
 261783,Q3483541,1670,Southwestern Europe,5.0,Painter,1700,5.0
 261785,Q348377,1570,German world,4.0,Writer,1600,4.0
 261786,Q348377,1570,Northwestern Europe,4.0,Writer,1600,4.0
+261817,Q348408,400,Arabic world,8.0,Writer,400,8.0
 261818,Q348408,400,Latin World,8.0,Writer,400,8.0
 261837,Q348421,1720,France,40.0,Painter,1700,40.0
 261838,Q348421,1720,Northwestern Europe,40.0,Painter,1700,40.0
@@ -16627,6 +16638,7 @@
 262212,Q349352,1730,Northwestern Europe,189.0,Musician,1700,189.0
 262222,Q349377,1670,France,117.0,Painter,1700,117.0
 262223,Q349377,1670,Northwestern Europe,117.0,Painter,1700,117.0
+262236,Q34943,140,Arabic world,13.0,Writer,100,13.0
 262237,Q34943,140,Greek World,13.0,Writer,100,13.0
 262240,Q3494527,1870,Northern Japan,4.0,Performing Artist,1900,4.0
 262241,Q3494527,1870,Japan,4.0,Performing Artist,1900,4.0
@@ -18756,6 +18768,7 @@
 299666,Q4316720,1790,East Slavic,4.0,Writer,1800,4.0
 299672,Q43174,1520,Italy,16.0,Painter,1500,16.0
 299673,Q43174,1520,Southwestern Europe,16.0,Painter,1500,16.0
+299679,Q4318,-360,Arabic world,8.0,Writer,-400,8.0
 299718,Q43189023,1620,German world,4.0,Painter,1600,4.0
 299720,Q43189023,1620,Northwestern Europe,4.0,Painter,1600,4.0
 299741,Q43198250,1860,Italy,7.0,Painter,1900,7.0
@@ -18966,6 +18979,7 @@
 302157,Q4400397,1720,Low countries,4.0,Writer,1700,4.0
 302159,Q4400397,1720,Northwestern Europe,4.0,Writer,1700,4.0
 302187,Q44011,360,Greek World,24.0,Writer,400,24.0
+302237,Q44024,330,Arabic world,11.0,Writer,300,11.0
 302238,Q44024,330,Greek World,11.0,Writer,300,11.0
 302319,Q4404114,1880,East Slavic,4.0,Writer,1900,4.0
 302333,Q4404551,1570,Persian world,5.0,Writer,1600,5.0
@@ -19003,6 +19017,7 @@
 302787,Q4424123,1880,Northwestern Europe,10.0,Writer,1900,10.0
 302788,Q4424123,1880,United Kingdom,10.0,Writer,1900,10.0
 302793,Q4424743,1800,East Slavic,6.0,Writer,1800,6.0
+302798,Q44248,380,Arabic world,17.0,Writer,400,17.0
 302799,Q44248,380,Greek World,17.0,Writer,400,17.0
 302800,Q442484,1600,Low countries,218.0,Architect,1600,218.0
 302802,Q442484,1600,Northwestern Europe,218.0,Architect,1600,218.0
@@ -27244,6 +27259,7 @@
 428528,Q8017566,1850,United Kingdom,28.0,Painter,1800,28.0
 428542,Q8017750,1840,Northwestern Europe,34.0,Sculptor,1800,34.0
 428543,Q8017750,1840,United Kingdom,34.0,Sculptor,1800,34.0
+428564,Q8018,390,Arabic world,89.0,Writer,400,89.0
 428565,Q8018,390,Latin World,89.0,Writer,400,89.0
 428574,Q8018052,1560,Northwestern Europe,6.0,Writer,1600,6.0
 428575,Q8018052,1560,United Kingdom,6.0,Writer,1600,6.0
