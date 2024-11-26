@@ -1,0 +1,8 @@
+,OLS Without FE,MixedLM With FE
+Intercept,0.90 (0.04),1.12 (0.07)
+infant_mortality Coef,0.10 (0.04),-0.13 (0.07)
+infant_mortality p-value,0.019,0.066
+Log-Likelihood,79.74,92.14
+infant_mortality Correlation,0.35,-0.41
+N,44,44
+R-squared,0.12,N/A

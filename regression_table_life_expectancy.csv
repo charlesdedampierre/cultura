@@ -1,0 +1,9 @@
+,OLS Without FE,MixedLM With FE
+Intercept,-0.83 (0.68),-1.04 (0.42)
+life_expectancy Coef,1.78 (0.67),2.04 (0.41)
+life_expectancy p-value,0.010,0.000
+Log-Likelihood,41.00,70.37
+Correlation,0.30,0.76
+Correlation p-value,0.010,N/A
+N,75,75
+R-squared,0.09,N/A

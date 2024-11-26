@@ -1,0 +1,8 @@
+,OLS Without FE,MixedLM With FE
+Intercept,0.99 (0.00),0.99 (0.01)
+Gender_equality_num Coef,0.01 (0.00),0.01 (0.01)
+Gender_equality_num p-value,0.001,0.142
+Log-Likelihood,278.91,284.32
+Gender_equality_num Correlation,0.36,0.16
+N,78,78
+R-squared,0.13,N/A

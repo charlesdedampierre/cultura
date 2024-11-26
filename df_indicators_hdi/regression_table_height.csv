@@ -1,0 +1,8 @@
+,OLS Without FE,MixedLM With FE
+Intercept,1.00 (0.00),1.00 (0.00)
+height Coef,0.00 (0.00),0.00 (0.00)
+height p-value,0.004,0.749
+Log-Likelihood,763.97,790.64
+height Correlation,0.22,-0.13
+N,168,168
+R-squared,0.05,N/A

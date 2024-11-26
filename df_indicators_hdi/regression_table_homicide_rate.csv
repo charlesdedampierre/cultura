@@ -1,0 +1,8 @@
+,OLS Without FE,MixedLM With FE
+Intercept,1.90 (0.58),1.19 (0.41)
+homicide_rate Coef,-1.02 (0.60),-0.28 (0.32)
+homicide_rate p-value,0.093,0.391
+Log-Likelihood,-79.35,11.14
+homicide_rate Correlation,-0.20,-0.38
+N,72,72
+R-squared,0.04,N/A

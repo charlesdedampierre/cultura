@@ -1,0 +1,8 @@
+,OLS Without FE,MixedLM With FE
+Intercept,0.77 (0.04),0.78 (0.04)
+numeracy Coef,0.22 (0.04),0.21 (0.02)
+numeracy p-value,0.000,0.000
+Log-Likelihood,114.07,292.00
+numeracy Correlation,0.41,0.68
+N,185,185
+R-squared,0.17,N/A

@@ -1,0 +1,8 @@
+,OLS Without FE,MixedLM With FE
+Intercept,-1.70 (0.45),-1.09 (0.77)
+wellbeing Coef,2.64 (0.42),2.05 (0.69)
+wellbeing p-value,0.000,0.003
+Log-Likelihood,-176.21,-132.89
+wellbeing Correlation,0.53,0.28
+N,105,105
+R-squared,0.28,N/A
