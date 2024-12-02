@@ -1,8 +1,14 @@
-,OLS Without FE,MixedLM With FE
-Intercept,-1.70 (0.45),-1.09 (0.77)
-wellbeing Coef,2.64 (0.42),2.05 (0.69)
-wellbeing p-value,0.000,0.003
-Log-Likelihood,-176.21,-132.89
-wellbeing Correlation,0.53,0.28
-N,105,105
-R-squared,0.28,N/A
+,OLS Without FE,MixedLM With FE,Variable
+Intercept,-1.70,-1.09,wellbeing
+Intercept_SE,0.45,0.77,wellbeing
+Intercept_CI,"(-2.58, -0.81)","(-2.59, 0.42)",wellbeing
+Intercept_t-value,-3.79,-1.42,wellbeing
+Coef,2.64,2.05,wellbeing
+Coef_SE,0.42,0.69,wellbeing
+Coef_CI,"(1.81, 3.47)","(0.70, 3.39)",wellbeing
+Coef_t-value,6.32,2.99,wellbeing
+Coef_p-value,0.000,0.003,wellbeing
+Log-Likelihood,-176.21,-132.89,wellbeing
+Correlation,0.53,0.28,wellbeing
+N,105,105,wellbeing
+R-squared,0.28,N/A,wellbeing

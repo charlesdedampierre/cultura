@@ -1,8 +1,14 @@
-,OLS Without FE,MixedLM With FE
-Intercept,0.96 (0.02),0.89 (0.03)
-life_expectancy Coef,0.05 (0.02),0.11 (0.03)
-life_expectancy p-value,0.010,0.000
-Log-Likelihood,175.61,172.24
-life_expectancy Correlation,0.30,0.76
-N,75,75
-R-squared,0.09,N/A
+,OLS Without FE,MixedLM With FE,Variable
+Intercept,0.96,0.89,life_expectancy
+Intercept_SE,0.02,0.03,life_expectancy
+Intercept_CI,"(0.92, 0.99)","(0.83, 0.95)",life_expectancy
+Intercept_t-value,53.51,29.08,life_expectancy
+Coef,0.05,0.11,life_expectancy
+Coef_SE,0.02,0.03,life_expectancy
+Coef_CI,"(0.01, 0.09)","(0.05, 0.16)",life_expectancy
+Coef_t-value,2.64,3.91,life_expectancy
+Coef_p-value,0.010,0.000,life_expectancy
+Log-Likelihood,175.61,172.24,life_expectancy
+Correlation,0.30,0.76,life_expectancy
+N,75,75,life_expectancy
+R-squared,0.09,N/A,life_expectancy

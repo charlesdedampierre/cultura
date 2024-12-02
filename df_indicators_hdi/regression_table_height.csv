@@ -1,8 +1,14 @@
-,OLS Without FE,MixedLM With FE
-Intercept,1.00 (0.00),1.00 (0.00)
-height Coef,0.00 (0.00),0.00 (0.00)
-height p-value,0.004,0.749
-Log-Likelihood,763.97,790.64
-height Correlation,0.22,-0.13
-N,168,168
-R-squared,0.05,N/A
+,OLS Without FE,MixedLM With FE,Variable
+Intercept,1.00,1.00,height
+Intercept_SE,0.00,0.00,height
+Intercept_CI,"(1.00, 1.00)","(1.00, 1.00)",height
+Intercept_t-value,1230.46,770.61,height
+Coef,0.00,0.00,height
+Coef_SE,0.00,0.00,height
+Coef_CI,"(0.00, 0.00)","(-0.00, 0.00)",height
+Coef_t-value,2.94,0.32,height
+Coef_p-value,0.004,0.749,height
+Log-Likelihood,763.97,790.64,height
+Correlation,0.22,-0.13,height
+N,168,168,height
+R-squared,0.05,N/A,height
