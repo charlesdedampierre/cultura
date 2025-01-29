@@ -4,7 +4,7 @@
 [![PyPI - Python](https://img.shields.io/badge/python-v3.10-blue.svg)](https://pypi.org/project/bunkatopics/)
 [![PyPI - Python](https://img.shields.io/badge/python-v3.11-blue.svg)](https://pypi.org/project/bunkatopics/)
 
-<img src="images/Cultura 1.0 - cultura_logo.png" width="20%">
+<img src="images/Cultura 1.0 - cultura_logo.png" width="50%">
 
 This repository contains the code for the paper "Cultural Production Reveals Transitions to Sustained Growth Development in both European and Non-European Societies." The repository provides tools and scripts for extracting, analyzing, and visualizing cultural data from the 'Cultura' database.
 
@@ -16,7 +16,9 @@ The main data from the unseen-species model are in the following file:
 
 ## Cultura database
 
-The database used in that project can be extracted here: <https://osf.io/2euxr/>
+The scripts created to compile the database can be found in scraping/ and the DB compilation in raw_to_db/
+
+The database compiled can be extracted here: <https://osf.io/2euxr/>
 
 Add the environement of the cultura database to access it
 
