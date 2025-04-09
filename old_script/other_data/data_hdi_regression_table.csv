@@ -1,0 +1,105 @@
+,measure,OLS Without FE,MixedLM With FE,Variable
+0,Intercept,0.96,0.89,life_expectancy
+1,Intercept_SE,0.02,0.03,life_expectancy
+2,Intercept_CI,"(0.92, 0.99)","(0.83, 0.95)",life_expectancy
+3,Intercept_t-value,53.51,29.08,life_expectancy
+4,Coef,0.05,0.11,life_expectancy
+5,Coef_SE,0.02,0.03,life_expectancy
+6,Coef_CI,"(0.01, 0.09)","(0.05, 0.16)",life_expectancy
+7,Coef_t-value,2.64,3.91,life_expectancy
+8,Coef_p-value,0.010,0.000,life_expectancy
+9,Log-Likelihood,175.61,172.24,life_expectancy
+10,Correlation,0.30,0.76,life_expectancy
+11,N,75,75,life_expectancy
+12,R-squared,0.09,,life_expectancy
+13,Intercept,0.77,0.78,numeracy
+14,Intercept_SE,0.04,0.04,numeracy
+15,Intercept_CI,"(0.70, 0.84)","(0.69, 0.86)",numeracy
+16,Intercept_t-value,21.10,18.31,numeracy
+17,Coef,0.22,0.21,numeracy
+18,Coef_SE,0.04,0.02,numeracy
+19,Coef_CI,"(0.15, 0.29)","(0.17, 0.26)",numeracy
+20,Coef_t-value,6.16,9.12,numeracy
+21,Coef_p-value,0.000,0.000,numeracy
+22,Log-Likelihood,114.07,292.00,numeracy
+23,Correlation,0.41,0.68,numeracy
+24,N,185,185,numeracy
+25,R-squared,0.17,,numeracy
+26,Intercept,1.00,1.00,height
+27,Intercept_SE,0.00,0.00,height
+28,Intercept_CI,"(1.00, 1.00)","(1.00, 1.00)",height
+29,Intercept_t-value,1230.46,770.61,height
+30,Coef,0.00,0.00,height
+31,Coef_SE,0.00,0.00,height
+32,Coef_CI,"(0.00, 0.00)","(-0.00, 0.00)",height
+33,Coef_t-value,2.94,0.32,height
+34,Coef_p-value,0.004,0.749,height
+35,Log-Likelihood,763.97,790.64,height
+36,Correlation,0.22,-0.13,height
+37,N,168,168,height
+38,R-squared,0.05,,height
+39,Intercept,0.93,0.92,gdp
+40,Intercept_SE,0.01,0.01,gdp
+41,Intercept_CI,"(0.92, 0.94)","(0.90, 0.94)",gdp
+42,Intercept_t-value,165.58,86.06,gdp
+43,Coef,0.07,0.06,gdp
+44,Coef_SE,0.01,0.00,gdp
+45,Coef_CI,"(0.06, 0.08)","(0.05, 0.07)",gdp
+46,Coef_t-value,12.59,15.40,gdp
+47,Coef_p-value,0.000,0.000,gdp
+48,Log-Likelihood,883.24,1119.16,gdp
+49,Correlation,0.49,0.46,gdp
+50,N,508,508,gdp
+51,R-squared,0.24,,gdp
+52,Intercept,0.90,1.12,infant_mortality
+53,Intercept_SE,0.04,0.07,infant_mortality
+54,Intercept_CI,"(0.82, 0.98)","(0.98, 1.27)",infant_mortality
+55,Intercept_t-value,22.38,15.50,infant_mortality
+56,Coef,0.10,-0.13,infant_mortality
+57,Coef_SE,0.04,0.07,infant_mortality
+58,Coef_CI,"(0.02, 0.19)","(-0.27, 0.01)",infant_mortality
+59,Coef_t-value,2.44,-1.84,infant_mortality
+60,Coef_p-value,0.019,0.066,infant_mortality
+61,Log-Likelihood,79.74,92.14,infant_mortality
+62,Correlation,0.35,-0.41,infant_mortality
+63,N,44,44,infant_mortality
+64,R-squared,0.12,,infant_mortality
+65,Intercept,1.90,1.19,homicide_rate
+66,Intercept_SE,0.58,0.41,homicide_rate
+67,Intercept_CI,"(0.74, 3.07)","(0.38, 2.01)",homicide_rate
+68,Intercept_t-value,3.27,2.88,homicide_rate
+69,Coef,-1.02,-0.28,homicide_rate
+70,Coef_SE,0.60,0.32,homicide_rate
+71,Coef_CI,"(-2.21, 0.18)","(-0.92, 0.36)",homicide_rate
+72,Coef_t-value,-1.70,-0.86,homicide_rate
+73,Coef_p-value,0.093,0.391,homicide_rate
+74,Log-Likelihood,-79.35,11.14,homicide_rate
+75,Correlation,-0.20,-0.38,homicide_rate
+76,N,72,72,homicide_rate
+77,R-squared,0.04,,homicide_rate
+78,Intercept,0.99,0.99,Gender_equality_num
+79,Intercept_SE,0.00,0.01,Gender_equality_num
+80,Intercept_CI,"(0.98, 1.00)","(0.98, 1.00)",Gender_equality_num
+81,Intercept_t-value,260.72,155.74,Gender_equality_num
+82,Coef,0.01,0.01,Gender_equality_num
+83,Coef_SE,0.00,0.01,Gender_equality_num
+84,Coef_CI,"(0.01, 0.02)","(-0.00, 0.02)",Gender_equality_num
+85,Coef_t-value,3.42,1.47,Gender_equality_num
+86,Coef_p-value,0.001,0.142,Gender_equality_num
+87,Log-Likelihood,278.91,284.32,Gender_equality_num
+88,Correlation,0.36,0.16,Gender_equality_num
+89,N,78,78,Gender_equality_num
+90,R-squared,0.13,,Gender_equality_num
+91,Intercept,-1.70,-1.09,wellbeing
+92,Intercept_SE,0.45,0.77,wellbeing
+93,Intercept_CI,"(-2.58, -0.81)","(-2.59, 0.42)",wellbeing
+94,Intercept_t-value,-3.79,-1.42,wellbeing
+95,Coef,2.64,2.05,wellbeing
+96,Coef_SE,0.42,0.69,wellbeing
+97,Coef_CI,"(1.81, 3.47)","(0.70, 3.39)",wellbeing
+98,Coef_t-value,6.32,2.99,wellbeing
+99,Coef_p-value,0.000,0.003,wellbeing
+100,Log-Likelihood,-176.21,-132.89,wellbeing
+101,Correlation,0.53,0.28,wellbeing
+102,N,105,105,wellbeing
+103,R-squared,0.28,,wellbeing

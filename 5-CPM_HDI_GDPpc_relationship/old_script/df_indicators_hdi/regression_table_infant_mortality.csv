@@ -1,0 +1,14 @@
+,OLS Without FE,MixedLM With FE,Variable
+Intercept,0.90,1.12,infant_mortality
+Intercept_SE,0.04,0.07,infant_mortality
+Intercept_CI,"(0.82, 0.98)","(0.98, 1.27)",infant_mortality
+Intercept_t-value,22.38,15.50,infant_mortality
+Coef,0.10,-0.13,infant_mortality
+Coef_SE,0.04,0.07,infant_mortality
+Coef_CI,"(0.02, 0.19)","(-0.27, 0.01)",infant_mortality
+Coef_t-value,2.44,-1.84,infant_mortality
+Coef_p-value,0.019,0.066,infant_mortality
+Log-Likelihood,79.74,92.14,infant_mortality
+Correlation,0.35,-0.41,infant_mortality
+N,44,44,infant_mortality
+R-squared,0.12,N/A,infant_mortality
