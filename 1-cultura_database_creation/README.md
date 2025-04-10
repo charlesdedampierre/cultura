@@ -10,7 +10,8 @@ The data is organized in a SQLite3 format, making it easy to query and retrieve 
 
 On the OSF Forum, there are two files:
 
-- the Sqlite3 Database: 'cultura_1.db'
+- the Sqlite3 Database: 'cultura_03_2025.db' <https://osf.io/d78tw>
+-raw_data.zip <https://osf.io/5c9xy>, the data scraped from wikidata and used to make the Cultura Database
 
 ## Database Structure
 
@@ -34,7 +35,7 @@ The merging of the id is carried out thanks to the Wikidata_id of entities.
 - `created_work_identifiers`: store information about Authority Files Identifiers of works.
 - `created_work`: store information about the meta-data of individuals' works.
 - `notable_work`: store information about the meta-data of individuals' notable
-- `DEATH`
+- `death_year`: the death year of the individuals
 
 <!-- - `gpd`: store information about the GDP per capita of main regions
 - `population`: store information about the population of main regions -->
@@ -53,7 +54,7 @@ pip install sqlite3
 import sqlite3
 import pandas as pd
 
-conn = sqlite3.connect('cultura_1.db')
+conn = sqlite3.connect('cultura_03_2025.db')
 
 # Chose a table to extract
 table_name = 'individuals_main_information'
@@ -62,22 +63,18 @@ table_name = 'individuals_main_information'
 df = pd.read_sql_query(f"SELECT * FROM {table_name}", conn)
 ```
 
-Other files called environnement data can be found [here](../environnement_data/). The directory contains:
-
-- [Association between regions and modern countries](../environnement_data/ENS%20-%20Cultural%20Index%20-%20Countries%20Databases%20-%20consolidate_table.csv)
-- [Manual changes of individuals' change nationality](../environnement_data/manual_individuals_check/Golden%20Age%20-%20Individuals%20Check.xlsx)
-
-# Cultura 1.0 Database Data Extraction
+## Cultura 1.0 Database Data Extraction
 
 The database is a mix of data coming from Wikidata, Wikipedia and enriched Data from other sources.
 
 <img src="pipeline.png" width="80%" height="80%" align="center" />
 
-Here is the process
--Data Extraction from Wikidata
-    - Extarction of Individuals (Artists and Scientist)
-    - Extarction of  Works of Arts and Science
-    - ETL Process, from CSVs to a strcutured sqluite3 database
+Here is the process:
+
+1) Data Extraction from Wikidata
+2) Extraction of Individuals (Artists and Scientists)
+3) Extraction of Works of Art and Science
+4) ETL Process, from CSVs to a structured SQLite database
 
 Data are extracted from Wikidata
 
@@ -112,9 +109,3 @@ Then the subset of individuals kept is made thought the following notebook: [jso
 The scripts regarding the Wikidata Extraction can be found [here](scraping/individuals/wikipedia/)
 
 Initially information about individuals have been extracted from Wikipedia, using the Wikipedia API though python.
-
-<!-- ### Data Enriched for Population & GDP per capita
-
-The GDP per capita & Population are added thought the following notebook [raw_to_db/insert_gdp_population_to_db.ipynb](raw_to_db/insert_gdp_population_to_db.ipynb).
-
-To get information on how regions are associated to countries, check the [Google Sheet](<https://docs.google.com/spreadsheets/d/1MGNzF-CcGMDkyYR0M1CS2lzJrGc4bGDVR9zj7H68uA8/edit#gid=1495995572>) -->

@@ -103,3 +103,29 @@
 101,Log-Likelihood,-176.21,-132.89,wellbeing,-130.06
 102,N,105,105,wellbeing,105
 103,R-squared,0.28,,wellbeing,
+0,Intercept,0.93,0.92,gdp,0.74
+1,Intercept_SE,0.01,0.01,gdp,0.03
+2,Intercept_CI,"(0.92, 0.94)","(0.90, 0.94)",gdp,"(0.68, 0.80)"
+3,Intercept_t-value,168.23,90.74,gdp,22.97
+4,Coef,0.07,0.06,gdp,0.03
+5,Coef_SE,0.01,0.00,gdp,0.01
+6,Coef_CI,"(0.06, 0.08)","(0.06, 0.07)",gdp,"(0.02, 0.04)"
+7,Coef_t-value,13.04,15.80,gdp,5.40
+8,Coef_p-value,0.000,0.000,gdp,0.000
+9,Log-Likelihood,893.08,1127.51,gdp,1145.61
+10,Correlation,0.50,0.46,gdp,0.46
+11,N,514,514,gdp,514
+12,R-squared,0.25,,gdp,
+0,Intercept,0.93,0.92,gdp,0.74
+1,Intercept_SE,0.01,0.01,gdp,0.03
+2,Intercept_CI,"(0.92, 0.94)","(0.90, 0.94)",gdp,"(0.68, 0.80)"
+3,Intercept_t-value,168.23,90.74,gdp,22.97
+4,Coef,0.07,0.06,gdp,0.03
+5,Coef_SE,0.01,0.00,gdp,0.01
+6,Coef_CI,"(0.06, 0.08)","(0.06, 0.07)",gdp,"(0.02, 0.04)"
+7,Coef_t-value,13.04,15.80,gdp,5.40
+8,Coef_p-value,0.000,0.000,gdp,0.000
+9,Log-Likelihood,893.08,1127.51,gdp,1145.61
+10,Correlation,0.50,0.46,gdp,0.46
+11,N,514,514,gdp,514
+12,R-squared,0.25,,gdp,

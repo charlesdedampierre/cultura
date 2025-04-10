@@ -48,6 +48,7 @@ Cultura mainly depends on few packages:
 - dotenv
 - scipy
 - copia
+- sparqlwrapper
 
 ### Installation
 
