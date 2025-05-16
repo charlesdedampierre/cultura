@@ -1,0 +1,4544 @@
+,region_name,classification,decade
+0,Chinese world,Middle Class,1590
+1,Chinese world,Middle Class,1780
+2,Chinese world,Elite,1600
+3,Chinese world,Middle Class,1870
+4,Chinese world,Middle Class,1650
+5,Chinese world,Elite,630
+6,Chinese world,Elite,1770
+7,Chinese world,Middle Class,1600
+8,Chinese world,Middle Class,1530
+9,Chinese world,Elite,1120
+10,Chinese world,Middle Class,1630
+11,Chinese world,Middle Class,1640
+12,Chinese world,Elite,960
+13,Chinese world,Elite,1830
+14,Chinese world,Middle Class,1720
+15,Chinese world,Middle Class,1750
+16,Chinese world,Elite,1030
+17,Chinese world,Elite,1850
+18,Chinese world,Middle Class,1870
+19,Chinese world,Elite,1310
+20,Chinese world,Elite,550
+21,Chinese world,Middle Class,1420
+22,Chinese world,Elite,360
+23,Chinese world,Elite,1160
+24,Chinese world,Middle Class,230
+25,Chinese world,Elite,950
+26,Chinese world,Middle Class,890
+27,Chinese world,Elite,920
+28,Chinese world,Middle Class,1620
+29,Chinese world,Elite,1000
+30,Chinese world,Middle Class,1370
+31,Chinese world,Middle Class,1460
+32,Chinese world,Elite,1520
+33,Chinese world,Middle Class,1830
+34,Chinese world,Middle Class,1860
+35,Chinese world,Middle Class,1740
+36,Chinese world,Middle Class,1680
+37,Chinese world,Elite,1850
+38,Chinese world,Elite,1810
+39,Chinese world,Middle Class,1810
+40,Chinese world,Middle Class,1870
+41,Chinese world,Middle Class,1750
+42,Chinese world,Elite,1740
+43,Chinese world,Elite,1640
+44,Chinese world,Middle Class,1730
+45,Chinese world,Middle Class,1660
+46,Chinese world,Middle Class,1670
+47,Chinese world,Middle Class,1470
+48,Chinese world,Middle Class,1880
+49,Chinese world,Elite,1270
+50,Chinese world,Elite,1090
+51,Chinese world,Middle Class,1720
+52,Chinese world,Elite,1630
+53,Chinese world,Middle Class,1660
+54,Chinese world,Elite,1760
+55,Chinese world,Middle Class,1790
+56,Chinese world,Middle Class,1620
+57,Chinese world,Elite,1880
+58,Chinese world,Middle Class,1560
+59,Chinese world,Middle Class,1700
+60,Chinese world,Middle Class,1810
+61,Chinese world,Middle Class,1860
+62,Chinese world,Middle Class,1660
+63,Chinese world,Middle Class,1660
+64,Chinese world,Middle Class,1610
+65,Chinese world,Middle Class,1610
+66,Chinese world,Middle Class,1800
+67,Chinese world,Middle Class,1610
+68,Chinese world,Middle Class,1700
+69,Chinese world,Middle Class,1670
+70,Chinese world,Middle Class,1680
+71,Chinese world,Middle Class,1850
+72,Chinese world,Elite,1510
+73,Chinese world,Middle Class,1730
+74,Chinese world,Middle Class,1700
+75,Chinese world,Middle Class,1650
+76,Chinese world,Elite,1030
+77,Chinese world,Elite,1690
+78,Chinese world,Elite,280
+79,Chinese world,Elite,1120
+80,Chinese world,Middle Class,1710
+81,Chinese world,Middle Class,1660
+82,Chinese world,Elite,1410
+83,Chinese world,Middle Class,1390
+84,Chinese world,Elite,1390
+85,Chinese world,Middle Class,1760
+86,Chinese world,Elite,1070
+87,Chinese world,Elite,1680
+88,Chinese world,Middle Class,1510
+89,Chinese world,Elite,750
+90,Chinese world,Elite,1550
+91,Chinese world,Elite,1600
+92,Chinese world,Elite,1150
+93,Chinese world,Middle Class,1540
+94,Chinese world,Middle Class,1680
+95,Chinese world,Elite,1640
+96,Chinese world,Elite,1770
+97,Chinese world,Middle Class,1660
+98,Chinese world,Middle Class,1830
+99,Chinese world,Middle Class,1670
+100,Chinese world,Middle Class,1720
+101,Chinese world,Elite,1490
+102,Chinese world,Middle Class,1870
+103,Chinese world,Middle Class,1850
+104,Chinese world,Elite,1760
+105,Chinese world,Middle Class,1720
+106,Chinese world,Middle Class,1660
+107,Chinese world,Middle Class,1730
+108,Chinese world,Elite,1620
+109,Chinese world,Middle Class,1710
+110,Chinese world,Middle Class,1850
+111,Chinese world,Middle Class,1650
+112,Chinese world,Elite,1160
+113,Chinese world,Middle Class,1280
+114,Chinese world,Middle Class,1830
+115,Chinese world,Middle Class,1780
+116,Chinese world,Middle Class,900
+117,Chinese world,Elite,0
+118,Chinese world,Elite,1680
+119,Chinese world,Elite,700
+120,Chinese world,Elite,1650
+121,Chinese world,Middle Class,1670
+122,Chinese world,Elite,170
+123,Chinese world,Elite,200
+124,Chinese world,Elite,280
+125,Chinese world,Middle Class,1840
+126,Chinese world,Middle Class,1670
+127,Chinese world,Elite,640
+128,Chinese world,Middle Class,1640
+129,Chinese world,Elite,1070
+130,Chinese world,Middle Class,1180
+131,Chinese world,Elite,230
+132,Chinese world,Middle Class,1580
+133,Chinese world,Middle Class,1870
+134,Chinese world,Middle Class,1880
+135,Chinese world,Elite,1800
+136,Chinese world,Middle Class,1880
+137,Chinese world,Elite,1210
+138,Chinese world,Middle Class,1860
+139,Chinese world,Middle Class,1880
+140,Chinese world,Middle Class,1770
+141,Chinese world,Middle Class,1590
+142,Chinese world,Elite,180
+143,Chinese world,Middle Class,1570
+144,Chinese world,Elite,650
+145,Chinese world,Middle Class,1840
+146,Chinese world,Middle Class,1840
+147,Chinese world,Middle Class,1820
+148,Chinese world,Middle Class,1670
+149,Chinese world,Elite,1220
+150,Chinese world,Middle Class,790
+151,Chinese world,Elite,1740
+152,Chinese world,Elite,630
+153,Chinese world,Elite,260
+154,Chinese world,Elite,460
+155,Chinese world,Middle Class,1650
+156,Chinese world,Elite,1870
+157,Chinese world,Elite,1280
+158,Chinese world,Elite,240
+159,Chinese world,Elite,590
+160,Chinese world,Elite,1630
+161,Chinese world,Middle Class,1360
+162,Chinese world,Middle Class,1650
+163,Chinese world,Middle Class,1650
+164,Chinese world,Elite,1040
+165,Chinese world,Middle Class,1040
+166,Chinese world,Elite,1840
+167,Chinese world,Elite,1060
+168,Chinese world,Elite,250
+169,Chinese world,Middle Class,1050
+170,Chinese world,Elite,950
+171,Chinese world,Middle Class,280
+172,Chinese world,Elite,760
+173,Chinese world,Elite,680
+174,Chinese world,Elite,700
+175,Chinese world,Elite,570
+176,Chinese world,Middle Class,1050
+177,Chinese world,Middle Class,730
+178,Chinese world,Elite,610
+179,Chinese world,Elite,870
+180,Chinese world,Elite,350
+181,Chinese world,Elite,290
+182,Chinese world,Middle Class,1670
+183,Chinese world,Middle Class,1500
+184,Chinese world,Middle Class,1870
+185,Chinese world,Middle Class,1620
+186,Chinese world,Elite,850
+187,Chinese world,Elite,1690
+188,Chinese world,Middle Class,1620
+189,Chinese world,Middle Class,1740
+190,Chinese world,Elite,240
+191,Chinese world,Elite,960
+192,Chinese world,Middle Class,1750
+193,Chinese world,Elite,1600
+194,Chinese world,Middle Class,-240
+195,Chinese world,Middle Class,1620
+196,Chinese world,Middle Class,1800
+197,Chinese world,Elite,610
+198,Chinese world,Elite,540
+199,Chinese world,Elite,1640
+200,Chinese world,Middle Class,1780
+201,Chinese world,Elite,1550
+202,Chinese world,Middle Class,1410
+203,Chinese world,Elite,1480
+204,Chinese world,Middle Class,1620
+205,Chinese world,Elite,1800
+206,Chinese world,Elite,990
+207,Chinese world,Elite,1080
+208,Chinese world,Elite,1620
+209,Chinese world,Middle Class,1710
+210,Chinese world,Elite,1410
+211,Chinese world,Middle Class,1210
+212,Chinese world,Middle Class,1610
+213,Chinese world,Middle Class,1800
+214,Chinese world,Elite,730
+215,Chinese world,Elite,1810
+216,Chinese world,Middle Class,1670
+217,Chinese world,Middle Class,1830
+218,Chinese world,Middle Class,1760
+219,Chinese world,Middle Class,1360
+220,Chinese world,Elite,1810
+221,Chinese world,Elite,1360
+222,Chinese world,Middle Class,1760
+223,Chinese world,Middle Class,1500
+224,Chinese world,Middle Class,1680
+225,Chinese world,Middle Class,1510
+226,Chinese world,Elite,1870
+227,Chinese world,Elite,1490
+228,Chinese world,Middle Class,1730
+229,Chinese world,Middle Class,1650
+230,Chinese world,Elite,970
+231,Chinese world,Elite,180
+232,Chinese world,Middle Class,1790
+233,Chinese world,Middle Class,1570
+234,Chinese world,Middle Class,1710
+235,Chinese world,Elite,980
+236,Chinese world,Middle Class,1610
+237,Chinese world,Elite,1760
+238,Chinese world,Middle Class,1790
+239,Chinese world,Elite,1530
+240,Chinese world,Middle Class,1680
+241,Chinese world,Middle Class,1620
+242,Chinese world,Elite,1860
+243,Chinese world,Elite,1660
+244,Chinese world,Middle Class,1340
+245,Chinese world,Elite,80
+246,Chinese world,Elite,1690
+247,Chinese world,Middle Class,1800
+248,Chinese world,Middle Class,1070
+249,Chinese world,Middle Class,390
+250,Chinese world,Elite,1760
+251,Chinese world,Middle Class,1820
+252,Chinese world,Middle Class,1840
+253,Chinese world,Elite,520
+254,Chinese world,Elite,-270
+255,Chinese world,Middle Class,1650
+256,Chinese world,Elite,1750
+257,Chinese world,Middle Class,740
+258,Chinese world,Middle Class,70
+259,Chinese world,Middle Class,110
+260,Chinese world,Elite,-160
+261,Chinese world,Middle Class,1710
+262,Chinese world,Elite,1060
+263,Chinese world,Elite,1290
+264,Chinese world,Elite,160
+265,Chinese world,Middle Class,570
+266,Chinese world,Elite,260
+267,Chinese world,Elite,1050
+268,Chinese world,Elite,1660
+269,Chinese world,Elite,1570
+270,Chinese world,Elite,1750
+271,Chinese world,Elite,1640
+272,Chinese world,Elite,1620
+273,Chinese world,Elite,210
+274,Chinese world,Middle Class,1660
+275,Chinese world,Elite,450
+276,Chinese world,Middle Class,1290
+277,Chinese world,Middle Class,1860
+278,Chinese world,Elite,1830
+279,Chinese world,Elite,850
+280,Chinese world,Elite,190
+281,Chinese world,Elite,1640
+282,Chinese world,Elite,1610
+283,Chinese world,Middle Class,1600
+284,Chinese world,Middle Class,1880
+285,Chinese world,Middle Class,-280
+286,Chinese world,Middle Class,1500
+287,Chinese world,Elite,460
+288,Chinese world,Middle Class,1540
+289,Chinese world,Middle Class,1400
+290,Chinese world,Elite,300
+291,Chinese world,Elite,1590
+292,Chinese world,Middle Class,1720
+293,Chinese world,Middle Class,1690
+294,Chinese world,Middle Class,1660
+295,Chinese world,Elite,-130
+296,Chinese world,Elite,350
+297,Chinese world,Middle Class,1170
+298,Chinese world,Elite,1320
+299,Chinese world,Elite,1700
+300,Chinese world,Elite,1710
+301,Chinese world,Elite,1510
+302,Chinese world,Elite,960
+303,Chinese world,Middle Class,1800
+304,Chinese world,Elite,1530
+305,Chinese world,Middle Class,1640
+306,Chinese world,Elite,540
+307,Chinese world,Middle Class,1550
+308,Chinese world,Elite,1350
+309,Chinese world,Middle Class,1860
+310,Chinese world,Elite,890
+311,Chinese world,Elite,1650
+312,Chinese world,Elite,1070
+313,Chinese world,Elite,1300
+314,Chinese world,Middle Class,1620
+315,Chinese world,Middle Class,1340
+316,Chinese world,Elite,1240
+317,Chinese world,Elite,1880
+318,Chinese world,Elite,740
+319,Chinese world,Middle Class,1870
+320,Chinese world,Middle Class,1810
+321,Chinese world,Middle Class,1160
+322,Chinese world,Elite,1000
+323,Chinese world,Middle Class,1330
+324,Chinese world,Elite,-240
+325,Chinese world,Elite,1120
+326,Chinese world,Elite,1040
+327,Chinese world,Elite,1060
+328,Chinese world,Elite,1090
+329,Chinese world,Elite,620
+330,Chinese world,Middle Class,110
+331,Chinese world,Elite,720
+332,Chinese world,Elite,1230
+333,Chinese world,Elite,270
+334,Chinese world,Middle Class,1680
+335,Chinese world,Elite,1700
+336,Chinese world,Middle Class,1640
+337,Chinese world,Elite,210
+338,Chinese world,Elite,-10
+339,Chinese world,Middle Class,1600
+340,Chinese world,Elite,310
+341,Chinese world,Elite,-170
+342,Chinese world,Middle Class,1770
+343,Chinese world,Middle Class,1880
+344,Chinese world,Middle Class,1340
+345,Chinese world,Elite,1500
+346,Chinese world,Middle Class,1860
+347,Chinese world,Middle Class,1860
+348,Chinese world,Middle Class,1690
+349,Chinese world,Middle Class,1620
+350,Chinese world,Middle Class,1640
+351,Chinese world,Middle Class,1280
+352,Chinese world,Middle Class,1490
+353,Chinese world,Elite,1660
+354,Chinese world,Middle Class,1640
+355,Chinese world,Middle Class,1650
+356,Chinese world,Elite,1260
+357,Chinese world,Elite,870
+358,Chinese world,Middle Class,1860
+359,Chinese world,Middle Class,810
+360,Chinese world,Elite,-310
+361,Chinese world,Elite,220
+362,Chinese world,Elite,730
+363,Chinese world,Elite,920
+364,Chinese world,Middle Class,1800
+365,Chinese world,Middle Class,1620
+366,Chinese world,Elite,400
+367,Chinese world,Elite,1640
+368,Chinese world,Elite,760
+369,Chinese world,Elite,1120
+370,Chinese world,Elite,1370
+371,Chinese world,Middle Class,1760
+372,Chinese world,Middle Class,1680
+373,Chinese world,Middle Class,1830
+374,Chinese world,Elite,800
+375,Chinese world,Middle Class,60
+376,Chinese world,Elite,1060
+377,Chinese world,Middle Class,1650
+378,Chinese world,Elite,1090
+379,Chinese world,Elite,1020
+380,Chinese world,Middle Class,1770
+381,Chinese world,Middle Class,1720
+382,Chinese world,Middle Class,1680
+383,Chinese world,Middle Class,1680
+384,Chinese world,Middle Class,1390
+385,Chinese world,Elite,480
+386,Chinese world,Middle Class,1610
+387,Chinese world,Elite,440
+388,Chinese world,Elite,1880
+389,Chinese world,Middle Class,1580
+390,Chinese world,Elite,750
+391,Chinese world,Middle Class,1640
+392,Chinese world,Middle Class,1770
+393,Chinese world,Middle Class,1630
+394,Chinese world,Middle Class,1500
+395,Chinese world,Middle Class,1600
+396,Chinese world,Middle Class,1540
+397,Chinese world,Elite,-360
+398,Chinese world,Elite,840
+399,Chinese world,Middle Class,1040
+400,Chinese world,Elite,380
+401,Chinese world,Elite,1050
+402,Chinese world,Elite,-140
+403,Chinese world,Middle Class,1840
+404,Chinese world,Middle Class,1620
+405,Chinese world,Elite,750
+406,Chinese world,Elite,810
+407,Chinese world,Middle Class,1870
+408,Chinese world,Middle Class,1850
+409,Chinese world,Middle Class,1530
+410,Chinese world,Middle Class,1860
+411,Chinese world,Subsistence,670
+412,Chinese world,Middle Class,1630
+413,Chinese world,Middle Class,1740
+414,Chinese world,Middle Class,1400
+415,Chinese world,Elite,1510
+416,Chinese world,Middle Class,1540
+417,Chinese world,Subsistence,1850
+418,Chinese world,Middle Class,1570
+419,Chinese world,Elite,-350
+420,Chinese world,Middle Class,1680
+421,Chinese world,Elite,1070
+422,Chinese world,Elite,1540
+423,Chinese world,Middle Class,1630
+424,Chinese world,Middle Class,1630
+425,Chinese world,Middle Class,1400
+426,Chinese world,Middle Class,1520
+427,Chinese world,Elite,1370
+428,Chinese world,Middle Class,1600
+429,Chinese world,Middle Class,1680
+430,Chinese world,Elite,1320
+431,Chinese world,Elite,1500
+432,Chinese world,Middle Class,1500
+433,Chinese world,Elite,410
+434,Chinese world,Middle Class,1720
+435,Chinese world,Elite,1230
+436,Chinese world,Elite,1070
+437,Chinese world,Middle Class,-260
+438,Chinese world,Elite,70
+439,Chinese world,Elite,1780
+440,Chinese world,Elite,880
+441,Chinese world,Middle Class,1610
+442,Chinese world,Middle Class,1660
+443,Chinese world,Middle Class,620
+444,Chinese world,Elite,1510
+445,Chinese world,Elite,970
+446,Chinese world,Elite,380
+447,Chinese world,Elite,340
+448,Chinese world,Middle Class,1050
+449,Chinese world,Elite,200
+450,Chinese world,Middle Class,1020
+451,Chinese world,Middle Class,1550
+452,Chinese world,Elite,690
+453,Chinese world,Middle Class,1600
+454,Chinese world,Middle Class,640
+455,Chinese world,Middle Class,1170
+456,Chinese world,Middle Class,1870
+457,Chinese world,Elite,-260
+458,Chinese world,Elite,1200
+459,Chinese world,Middle Class,1760
+460,Chinese world,Elite,70
+461,Chinese world,Middle Class,1530
+462,Chinese world,Elite,1110
+463,Chinese world,Middle Class,1860
+464,Chinese world,Elite,1120
+465,Chinese world,Elite,1640
+466,Chinese world,Middle Class,1300
+467,Chinese world,Middle Class,1300
+468,Chinese world,Elite,-10
+469,Chinese world,Middle Class,1290
+470,Chinese world,Middle Class,1640
+471,Chinese world,Middle Class,1650
+472,Chinese world,Middle Class,1640
+473,Chinese world,Elite,780
+474,Chinese world,Middle Class,1650
+475,Chinese world,Middle Class,1800
+476,Chinese world,Middle Class,1880
+477,Chinese world,Elite,1630
+478,Chinese world,Elite,1710
+479,Chinese world,Elite,720
+480,Chinese world,Middle Class,1710
+481,Chinese world,Elite,1630
+482,Chinese world,Middle Class,1680
+483,Chinese world,Elite,1700
+484,Chinese world,Middle Class,1580
+485,Chinese world,Elite,1800
+486,Chinese world,Elite,1800
+487,Chinese world,Middle Class,1840
+488,Chinese world,Middle Class,1790
+489,Chinese world,Middle Class,1660
+490,Chinese world,Middle Class,1630
+491,Chinese world,Elite,670
+492,Chinese world,Middle Class,1730
+493,Chinese world,Middle Class,1720
+494,Chinese world,Middle Class,1630
+495,Chinese world,Elite,250
+496,Chinese world,Elite,1120
+497,Chinese world,Elite,-40
+498,Chinese world,Elite,810
+499,Chinese world,Elite,260
+500,Chinese world,Elite,270
+501,Chinese world,Elite,1680
+502,Chinese world,Middle Class,1870
+503,Chinese world,Elite,1830
+504,Chinese world,Middle Class,1860
+505,Chinese world,Middle Class,1870
+506,Chinese world,Elite,730
+507,Chinese world,Elite,1310
+508,Chinese world,Elite,820
+509,Chinese world,Middle Class,1860
+510,Chinese world,Elite,330
+511,Chinese world,Elite,1620
+512,Chinese world,Elite,1730
+513,Chinese world,Middle Class,1840
+514,Chinese world,Middle Class,1840
+515,Chinese world,Middle Class,1430
+516,Chinese world,Elite,960
+517,Chinese world,Middle Class,1570
+518,Chinese world,Middle Class,1060
+519,Chinese world,Elite,1870
+520,Chinese world,Elite,610
+521,Chinese world,Elite,680
+522,Chinese world,Middle Class,1590
+523,Chinese world,Elite,40
+524,Chinese world,Middle Class,1260
+525,Chinese world,Middle Class,1840
+526,Chinese world,Middle Class,1840
+527,Chinese world,Elite,1660
+528,Chinese world,Elite,1320
+529,Chinese world,Elite,260
+530,Chinese world,Middle Class,1310
+531,Chinese world,Middle Class,1380
+532,Chinese world,Middle Class,1820
+533,Chinese world,Middle Class,-20
+534,Chinese world,Elite,320
+535,Chinese world,Elite,1500
+536,Chinese world,Elite,1650
+537,Chinese world,Elite,1070
+538,Chinese world,Middle Class,1520
+539,Chinese world,Elite,1070
+540,Chinese world,Elite,1460
+541,Chinese world,Elite,590
+542,Chinese world,Elite,380
+543,Chinese world,Elite,190
+544,Chinese world,Middle Class,-140
+545,Chinese world,Middle Class,1820
+546,Chinese world,Elite,480
+547,Chinese world,Middle Class,780
+548,Chinese world,Elite,1060
+549,Chinese world,Middle Class,1180
+550,Chinese world,Middle Class,1240
+551,Chinese world,Middle Class,1330
+552,Chinese world,Elite,1270
+553,Chinese world,Elite,210
+554,Chinese world,Middle Class,1090
+555,Chinese world,Middle Class,1720
+556,Chinese world,Middle Class,1630
+557,Chinese world,Middle Class,1700
+558,Chinese world,Middle Class,1770
+559,Chinese world,Elite,1090
+560,Chinese world,Middle Class,1550
+561,Chinese world,Elite,360
+562,Chinese world,Middle Class,1520
+563,Chinese world,Middle Class,1830
+564,Chinese world,Elite,640
+565,Chinese world,Middle Class,1400
+566,Chinese world,Middle Class,1580
+567,Chinese world,Elite,1560
+568,Chinese world,Middle Class,1820
+569,Chinese world,Middle Class,1810
+570,Chinese world,Elite,1880
+571,Chinese world,Middle Class,820
+572,Chinese world,Middle Class,1810
+573,Chinese world,Elite,950
+574,Chinese world,Middle Class,1620
+575,Chinese world,Elite,1640
+576,Chinese world,Middle Class,1830
+577,Chinese world,Middle Class,1760
+578,Chinese world,Middle Class,1870
+579,Chinese world,Elite,1020
+580,Chinese world,Middle Class,1660
+581,Chinese world,Middle Class,1280
+582,Chinese world,Elite,1160
+583,Chinese world,Middle Class,1280
+584,Chinese world,Elite,420
+585,Chinese world,Middle Class,1210
+586,Chinese world,Elite,870
+587,Chinese world,Elite,280
+588,Chinese world,Middle Class,1560
+589,Chinese world,Middle Class,1870
+590,Chinese world,Middle Class,1700
+591,Chinese world,Middle Class,1560
+592,Chinese world,Elite,110
+593,Chinese world,Elite,1870
+594,Chinese world,Middle Class,1650
+595,Chinese world,Middle Class,1750
+596,Chinese world,Middle Class,1660
+597,Chinese world,Elite,790
+598,Chinese world,Middle Class,1650
+599,Chinese world,Middle Class,1840
+600,Chinese world,Middle Class,1400
+601,Chinese world,Middle Class,1400
+602,Chinese world,Middle Class,1860
+603,Chinese world,Middle Class,1750
+604,Chinese world,Middle Class,1870
+605,Chinese world,Middle Class,1880
+606,Chinese world,Middle Class,1180
+607,Chinese world,Middle Class,1640
+608,Chinese world,Middle Class,1780
+609,Chinese world,Elite,980
+610,Chinese world,Elite,710
+611,Chinese world,Middle Class,1560
+612,Chinese world,Elite,1480
+613,Chinese world,Elite,1700
+614,Chinese world,Middle Class,1460
+615,Chinese world,Middle Class,1660
+616,Chinese world,Elite,1200
+617,Chinese world,Middle Class,1550
+618,Chinese world,Middle Class,1140
+619,Chinese world,Middle Class,1580
+620,Chinese world,Elite,1740
+621,Chinese world,Middle Class,1350
+622,Chinese world,Middle Class,1320
+623,Chinese world,Elite,1780
+624,Chinese world,Elite,810
+625,Chinese world,Elite,1340
+626,Chinese world,Elite,-10
+627,Chinese world,Middle Class,1720
+628,Chinese world,Middle Class,700
+629,Chinese world,Middle Class,1730
+630,Chinese world,Elite,270
+631,Chinese world,Middle Class,1630
+632,Chinese world,Middle Class,1300
+633,Chinese world,Elite,1630
+634,Chinese world,Middle Class,1420
+635,Chinese world,Elite,640
+636,Chinese world,Middle Class,1660
+637,Chinese world,Elite,730
+638,Chinese world,Elite,-140
+639,Chinese world,Middle Class,1320
+640,Chinese world,Middle Class,1260
+641,Chinese world,Elite,1630
+642,Chinese world,Middle Class,1040
+643,Chinese world,Elite,610
+644,Chinese world,Elite,810
+645,Chinese world,Middle Class,1430
+646,Chinese world,Elite,260
+647,Chinese world,Middle Class,1830
+648,Chinese world,Elite,740
+649,Chinese world,Elite,170
+650,Chinese world,Elite,1390
+651,Chinese world,Middle Class,1860
+652,Chinese world,Middle Class,1880
+653,Chinese world,Elite,1780
+654,Chinese world,Elite,1080
+655,Chinese world,Middle Class,1860
+656,Chinese world,Middle Class,1720
+657,Chinese world,Elite,410
+658,Chinese world,Middle Class,1380
+659,Chinese world,Elite,720
+660,Chinese world,Middle Class,1550
+661,Chinese world,Elite,750
+662,Chinese world,Elite,580
+663,Chinese world,Elite,340
+664,Chinese world,Elite,870
+665,Chinese world,Elite,1520
+666,Chinese world,Middle Class,1670
+667,Chinese world,Middle Class,1760
+668,Chinese world,Middle Class,1730
+669,Chinese world,Elite,300
+670,Chinese world,Elite,710
+671,Chinese world,Middle Class,1370
+672,Chinese world,Middle Class,580
+673,Chinese world,Elite,270
+674,Chinese world,Middle Class,640
+675,Chinese world,Middle Class,1340
+676,Chinese world,Elite,230
+677,Chinese world,Elite,200
+678,Chinese world,Middle Class,840
+679,Chinese world,Elite,850
+680,Chinese world,Middle Class,1760
+681,Chinese world,Middle Class,1650
+682,Chinese world,Middle Class,1880
+683,Chinese world,Elite,-40
+684,Chinese world,Elite,740
+685,Chinese world,Middle Class,1850
+686,Chinese world,Elite,1630
+687,Chinese world,Elite,1880
+688,Chinese world,Middle Class,1670
+689,Chinese world,Elite,950
+690,Chinese world,Elite,1080
+691,Chinese world,Elite,1680
+692,Chinese world,Elite,1800
+693,Chinese world,Elite,760
+694,Chinese world,Elite,1080
+695,Chinese world,Elite,910
+696,Chinese world,Elite,990
+697,Chinese world,Middle Class,1700
+698,Chinese world,Middle Class,1230
+699,Chinese world,Elite,720
+700,Chinese world,Elite,680
+701,Chinese world,Elite,950
+702,Chinese world,Elite,810
+703,Chinese world,Middle Class,1260
+704,Chinese world,Middle Class,1850
+705,Chinese world,Middle Class,1870
+706,Chinese world,Middle Class,1050
+707,Chinese world,Elite,-120
+708,Chinese world,Elite,1410
+709,Chinese world,Middle Class,410
+710,Chinese world,Middle Class,1750
+711,Chinese world,Middle Class,1870
+712,Chinese world,Middle Class,1800
+713,Chinese world,Middle Class,1760
+714,Chinese world,Middle Class,1540
+715,Chinese world,Middle Class,1880
+716,Chinese world,Elite,190
+717,Chinese world,Elite,1340
+718,Chinese world,Middle Class,1270
+719,Chinese world,Subsistence,1410
+720,Chinese world,Elite,1670
+721,Chinese world,Elite,1730
+722,Chinese world,Elite,610
+723,Chinese world,Elite,500
+724,Chinese world,Elite,430
+725,Chinese world,Middle Class,1780
+726,Chinese world,Middle Class,1420
+727,Chinese world,Elite,600
+728,Chinese world,Elite,1040
+729,Chinese world,Elite,1120
+730,Chinese world,Elite,1140
+731,Chinese world,Middle Class,1840
+732,Chinese world,Elite,1310
+733,Chinese world,Elite,920
+734,Chinese world,Elite,310
+735,Chinese world,Middle Class,1630
+736,Chinese world,Middle Class,1530
+737,Chinese world,Middle Class,1320
+738,Chinese world,Elite,1780
+739,Chinese world,Elite,1790
+740,Chinese world,Middle Class,270
+741,Chinese world,Middle Class,1880
+742,Chinese world,Elite,1600
+743,Chinese world,Middle Class,1640
+744,Chinese world,Elite,390
+745,Chinese world,Elite,1610
+746,Chinese world,Elite,1870
+747,Chinese world,Middle Class,1860
+748,Chinese world,Middle Class,1520
+749,Chinese world,Elite,380
+750,Chinese world,Elite,1320
+751,Chinese world,Middle Class,1550
+752,Chinese world,Middle Class,1870
+753,Chinese world,Elite,1110
+754,Chinese world,Middle Class,1680
+755,Chinese world,Middle Class,1810
+756,Chinese world,Middle Class,1580
+757,Chinese world,Middle Class,1650
+758,Chinese world,Middle Class,1770
+759,Chinese world,Subsistence,1800
+760,Chinese world,Middle Class,1590
+761,Chinese world,Middle Class,1750
+762,Chinese world,Middle Class,1600
+763,Chinese world,Middle Class,1660
+764,Chinese world,Elite,1650
+765,Chinese world,Elite,800
+766,Chinese world,Elite,800
+767,Chinese world,Elite,1680
+768,Chinese world,Elite,1280
+769,Chinese world,Middle Class,1720
+770,Chinese world,Elite,1620
+771,Chinese world,Middle Class,1660
+772,Chinese world,Elite,800
+773,Chinese world,Middle Class,1860
+774,Chinese world,Elite,1400
+775,Chinese world,Elite,400
+776,Chinese world,Elite,180
+777,Chinese world,Middle Class,1670
+778,Chinese world,Middle Class,1240
+779,Chinese world,Elite,1270
+780,Chinese world,Middle Class,1880
+781,Chinese world,Middle Class,-460
+782,Chinese world,Elite,860
+783,Chinese world,Elite,820
+784,Chinese world,Elite,180
+785,Chinese world,Elite,240
+786,Chinese world,Elite,1330
+787,Chinese world,Middle Class,1540
+788,Chinese world,Elite,1360
+789,Chinese world,Middle Class,1560
+790,Chinese world,Middle Class,1720
+791,Chinese world,Middle Class,960
+792,Chinese world,Middle Class,1390
+793,Chinese world,Elite,1590
+794,Chinese world,Elite,-110
+795,Chinese world,Elite,1160
+796,Chinese world,Middle Class,1650
+797,Chinese world,Elite,1580
+798,Chinese world,Middle Class,1040
+799,Chinese world,Elite,1430
+800,Chinese world,Subsistence,770
+801,Chinese world,Elite,1270
+802,Chinese world,Middle Class,1720
+803,Chinese world,Middle Class,1500
+804,Chinese world,Elite,1400
+805,Chinese world,Elite,1850
+806,Chinese world,Elite,630
+807,Chinese world,Elite,660
+808,Chinese world,Elite,720
+809,Chinese world,Elite,780
+810,Chinese world,Elite,800
+811,Chinese world,Middle Class,620
+812,Chinese world,Elite,490
+813,Chinese world,Elite,1410
+814,Chinese world,Middle Class,1860
+815,Chinese world,Elite,630
+816,Chinese world,Middle Class,1280
+817,Chinese world,Elite,1830
+818,Chinese world,Middle Class,1600
+819,Chinese world,Middle Class,640
+820,Chinese world,Elite,870
+821,Chinese world,Elite,1630
+822,Chinese world,Elite,1430
+823,Chinese world,Elite,1480
+824,Chinese world,Elite,1500
+825,Italy,Middle Class,1560
+826,Italy,Middle Class,1820
+827,Italy,Middle Class,1500
+828,Italy,Elite,1860
+829,Italy,Middle Class,1440
+830,Italy,Subsistence,1830
+831,Italy,Middle Class,1640
+832,Italy,Elite,1450
+833,Italy,Middle Class,1370
+834,Italy,Middle Class,1830
+835,Italy,Middle Class,1720
+836,Italy,Middle Class,1840
+837,Italy,Elite,1880
+838,Italy,Middle Class,1690
+839,Italy,Middle Class,1790
+840,Italy,Elite,1830
+841,Italy,Elite,1830
+842,Italy,Elite,1620
+843,Italy,Middle Class,1880
+844,Italy,Middle Class,1850
+845,Italy,Middle Class,1660
+846,Italy,Middle Class,1870
+847,Italy,Middle Class,1530
+848,Italy,Middle Class,1850
+849,Italy,Middle Class,1800
+850,Italy,Middle Class,1620
+851,Italy,Middle Class,1600
+852,Italy,Middle Class,1610
+853,Italy,Elite,1820
+854,Italy,Middle Class,1510
+855,Italy,Middle Class,1630
+856,Italy,Middle Class,1880
+857,Italy,Middle Class,1440
+858,Italy,Middle Class,1840
+859,Italy,Middle Class,1600
+860,Italy,Elite,1820
+861,Italy,Middle Class,1860
+862,Italy,Middle Class,1830
+863,Italy,Elite,1300
+864,Italy,Middle Class,1640
+865,Italy,Middle Class,1850
+866,Italy,Middle Class,1690
+867,Italy,Middle Class,1570
+868,Italy,Middle Class,1730
+869,Italy,Middle Class,1720
+870,Italy,Middle Class,1610
+871,Italy,Middle Class,1620
+872,Italy,Middle Class,1530
+873,Italy,Middle Class,1610
+874,Italy,Middle Class,1590
+875,Italy,Middle Class,1810
+876,Italy,Middle Class,1880
+877,Italy,Middle Class,1670
+878,Italy,Elite,1510
+879,Italy,Middle Class,1740
+880,Italy,Middle Class,1810
+881,Italy,Middle Class,1780
+882,Italy,Middle Class,1610
+883,Italy,Middle Class,1760
+884,Italy,Elite,1840
+885,Italy,Middle Class,1640
+886,Italy,Middle Class,1600
+887,Italy,Middle Class,1660
+888,Italy,Middle Class,1860
+889,Italy,Middle Class,1540
+890,Italy,Middle Class,1620
+891,Italy,Middle Class,1880
+892,Italy,Middle Class,1870
+893,Italy,Elite,1750
+894,Italy,Middle Class,1870
+895,Italy,Elite,1750
+896,Italy,Middle Class,1870
+897,Italy,Middle Class,1780
+898,Italy,Middle Class,1800
+899,Italy,Elite,1650
+900,Italy,Middle Class,1720
+901,Italy,Middle Class,1650
+902,Italy,Middle Class,1670
+903,Italy,Middle Class,1590
+904,Italy,Middle Class,1640
+905,Italy,Middle Class,1640
+906,Italy,Middle Class,1440
+907,Italy,Middle Class,1690
+908,Italy,Elite,1720
+909,Italy,Middle Class,1860
+910,Italy,Middle Class,1780
+911,Italy,Middle Class,1630
+912,Italy,Middle Class,1750
+913,Italy,Middle Class,1840
+914,Italy,Middle Class,1560
+915,Italy,Middle Class,1870
+916,Italy,Middle Class,1400
+917,Italy,Elite,1790
+918,Italy,Elite,1490
+919,Italy,Middle Class,1540
+920,Italy,Middle Class,1860
+921,Italy,Elite,1560
+922,Italy,Elite,1460
+923,Italy,Middle Class,1500
+924,Italy,Middle Class,1840
+925,Italy,Middle Class,1270
+926,Italy,Middle Class,1310
+927,Italy,Middle Class,1280
+928,Italy,Middle Class,1810
+929,Italy,Elite,1240
+930,Italy,Middle Class,1640
+931,Italy,Elite,1860
+932,Italy,Elite,1840
+933,Italy,Middle Class,1480
+934,Italy,Elite,1520
+935,Italy,Middle Class,1660
+936,Italy,Middle Class,1860
+937,Italy,Middle Class,1710
+938,Italy,Middle Class,1840
+939,Italy,Middle Class,1550
+940,Italy,Middle Class,1860
+941,Italy,Middle Class,1750
+942,Italy,Middle Class,1570
+943,Italy,Elite,1630
+944,Italy,Elite,1850
+945,Italy,Elite,1880
+946,Italy,Middle Class,1580
+947,Italy,Middle Class,1630
+948,Italy,Elite,1500
+949,Italy,Middle Class,1880
+950,Italy,Middle Class,1520
+951,Italy,Middle Class,1530
+952,Italy,Elite,1640
+953,Italy,Middle Class,1640
+954,Italy,Middle Class,1560
+955,Italy,Middle Class,1560
+956,Italy,Middle Class,1790
+957,Italy,Middle Class,1740
+958,Italy,Middle Class,1610
+959,Italy,Middle Class,1590
+960,Italy,Middle Class,1590
+961,Italy,Middle Class,1610
+962,Italy,Middle Class,1530
+963,Italy,Middle Class,1840
+964,Italy,Middle Class,1650
+965,Italy,Middle Class,1820
+966,Italy,Middle Class,1690
+967,Italy,Middle Class,1710
+968,Italy,Middle Class,1640
+969,Italy,Middle Class,1730
+970,Italy,Middle Class,1710
+971,Italy,Elite,1760
+972,Italy,Middle Class,1730
+973,Italy,Middle Class,1540
+974,Italy,Elite,1610
+975,Italy,Middle Class,1240
+976,Italy,Middle Class,1700
+977,Italy,Middle Class,1660
+978,Italy,Middle Class,1850
+979,Italy,Middle Class,1840
+980,Italy,Middle Class,1470
+981,Italy,Middle Class,1740
+982,Italy,Middle Class,1440
+983,Italy,Middle Class,1480
+984,Italy,Middle Class,1700
+985,Italy,Middle Class,1580
+986,Italy,Elite,1580
+987,Italy,Middle Class,1560
+988,Italy,Middle Class,1520
+989,Italy,Middle Class,1710
+990,Italy,Middle Class,1440
+991,Italy,Middle Class,1850
+992,Italy,Middle Class,1680
+993,Italy,Middle Class,1760
+994,Italy,Middle Class,1870
+995,Italy,Middle Class,1800
+996,Italy,Middle Class,1650
+997,Italy,Middle Class,1790
+998,Italy,Middle Class,1760
+999,Italy,Middle Class,1840
+1000,Italy,Middle Class,1880
+1001,Italy,Elite,1600
+1002,Italy,Middle Class,1840
+1003,Italy,Elite,1600
+1004,Italy,Middle Class,1860
+1005,Italy,Middle Class,1670
+1006,Italy,Middle Class,1600
+1007,Italy,Middle Class,1480
+1008,Italy,Middle Class,1500
+1009,Italy,Middle Class,1340
+1010,Italy,Middle Class,1350
+1011,Italy,Middle Class,1830
+1012,Italy,Middle Class,1620
+1013,Italy,Middle Class,1780
+1014,Italy,Middle Class,1870
+1015,Italy,Middle Class,1660
+1016,Italy,Middle Class,1560
+1017,Italy,Middle Class,1690
+1018,Italy,Middle Class,1750
+1019,Italy,Middle Class,1700
+1020,Italy,Middle Class,1690
+1021,Italy,Middle Class,1620
+1022,Italy,Middle Class,1840
+1023,Italy,Middle Class,1730
+1024,Italy,Middle Class,1440
+1025,Italy,Elite,1520
+1026,Italy,Middle Class,1770
+1027,Italy,Middle Class,1810
+1028,Italy,Elite,1760
+1029,Italy,Middle Class,1880
+1030,Italy,Middle Class,1830
+1031,Italy,Middle Class,1850
+1032,Italy,Middle Class,1860
+1033,Italy,Middle Class,1480
+1034,Italy,Middle Class,1580
+1035,Italy,Middle Class,1610
+1036,Italy,Middle Class,1620
+1037,Italy,Middle Class,1540
+1038,Italy,Middle Class,1530
+1039,Italy,Middle Class,1540
+1040,Italy,Middle Class,1540
+1041,Italy,Middle Class,1650
+1042,Italy,Middle Class,1690
+1043,Italy,Middle Class,1880
+1044,Italy,Middle Class,1750
+1045,Italy,Middle Class,1640
+1046,Italy,Middle Class,1850
+1047,Italy,Middle Class,1440
+1048,Italy,Middle Class,1780
+1049,Italy,Elite,1570
+1050,Italy,Elite,1640
+1051,Italy,Elite,1560
+1052,Italy,Middle Class,1870
+1053,Italy,Middle Class,1840
+1054,Italy,Middle Class,1560
+1055,Italy,Middle Class,1280
+1056,Italy,Middle Class,1290
+1057,Italy,Elite,1270
+1058,Italy,Elite,1710
+1059,Italy,Middle Class,1770
+1060,Italy,Middle Class,1870
+1061,Italy,Middle Class,1880
+1062,Italy,Middle Class,1630
+1063,Italy,Middle Class,1760
+1064,Italy,Elite,1640
+1065,Italy,Middle Class,1550
+1066,Italy,Middle Class,1690
+1067,Italy,Middle Class,1660
+1068,Italy,Middle Class,1730
+1069,Italy,Middle Class,1490
+1070,Italy,Elite,1270
+1071,Italy,Middle Class,1670
+1072,Italy,Middle Class,1760
+1073,Italy,Middle Class,1570
+1074,Italy,Middle Class,1820
+1075,Italy,Middle Class,1880
+1076,Italy,Elite,1420
+1077,Italy,Middle Class,1700
+1078,Italy,Middle Class,1810
+1079,Italy,Middle Class,1570
+1080,Italy,Elite,1580
+1081,Italy,Middle Class,1820
+1082,Italy,Middle Class,1530
+1083,Italy,Elite,1620
+1084,Italy,Middle Class,1260
+1085,Italy,Middle Class,1350
+1086,Italy,Middle Class,1800
+1087,Italy,Middle Class,1610
+1088,Italy,Middle Class,1460
+1089,Italy,Elite,1830
+1090,Italy,Middle Class,1620
+1091,Italy,Middle Class,1250
+1092,Italy,Middle Class,1410
+1093,Italy,Middle Class,1710
+1094,Italy,Middle Class,1660
+1095,Italy,Middle Class,1660
+1096,Italy,Middle Class,1550
+1097,Italy,Middle Class,1570
+1098,Italy,Elite,1610
+1099,Italy,Elite,1850
+1100,Italy,Middle Class,1540
+1101,Italy,Middle Class,1620
+1102,Italy,Middle Class,1560
+1103,Italy,Middle Class,1520
+1104,Italy,Middle Class,1560
+1105,Italy,Middle Class,1360
+1106,Italy,Middle Class,1580
+1107,Italy,Middle Class,1540
+1108,Italy,Elite,1480
+1109,Italy,Middle Class,1560
+1110,Italy,Middle Class,1820
+1111,Italy,Middle Class,1700
+1112,Italy,Middle Class,1560
+1113,Italy,Middle Class,1860
+1114,Italy,Elite,1440
+1115,Italy,Elite,1490
+1116,Italy,Middle Class,1730
+1117,Italy,Middle Class,1700
+1118,Italy,Middle Class,1470
+1119,Italy,Middle Class,1540
+1120,Italy,Middle Class,1740
+1121,Italy,Middle Class,1690
+1122,Italy,Middle Class,1700
+1123,Italy,Middle Class,1610
+1124,Italy,Middle Class,1740
+1125,Italy,Middle Class,1770
+1126,Italy,Middle Class,1540
+1127,Italy,Middle Class,1840
+1128,Italy,Middle Class,1580
+1129,Italy,Elite,1830
+1130,Italy,Middle Class,1860
+1131,Italy,Middle Class,1540
+1132,Italy,Middle Class,1470
+1133,Italy,Middle Class,1480
+1134,Italy,Subsistence,1780
+1135,Italy,Middle Class,1470
+1136,Italy,Middle Class,1430
+1137,Italy,Elite,1600
+1138,Italy,Middle Class,1600
+1139,Italy,Middle Class,1270
+1140,Italy,Middle Class,1810
+1141,Italy,Middle Class,1430
+1142,Italy,Middle Class,1690
+1143,Italy,Elite,1820
+1144,Italy,Middle Class,1470
+1145,Italy,Middle Class,1630
+1146,Italy,Middle Class,1460
+1147,Italy,Elite,1630
+1148,Italy,Middle Class,1730
+1149,Italy,Middle Class,1520
+1150,Italy,Middle Class,1860
+1151,Italy,Elite,1750
+1152,Italy,Subsistence,1530
+1153,Italy,Middle Class,1520
+1154,Italy,Middle Class,1780
+1155,Italy,Middle Class,1870
+1156,Italy,Elite,1420
+1157,Italy,Elite,1340
+1158,Italy,Middle Class,1560
+1159,Italy,Subsistence,1440
+1160,Italy,Middle Class,1600
+1161,Italy,Middle Class,1400
+1162,Italy,Middle Class,1570
+1163,Italy,Middle Class,1870
+1164,Italy,Middle Class,1690
+1165,Italy,Middle Class,1530
+1166,Italy,Middle Class,1830
+1167,Italy,Middle Class,1410
+1168,Italy,Middle Class,1740
+1169,Italy,Elite,1710
+1170,Italy,Middle Class,1600
+1171,Italy,Middle Class,1620
+1172,Italy,Middle Class,1700
+1173,Italy,Subsistence,1760
+1174,Italy,Middle Class,1840
+1175,Italy,Middle Class,1880
+1176,Italy,Middle Class,1320
+1177,Italy,Middle Class,1780
+1178,Italy,Middle Class,1630
+1179,Italy,Middle Class,1480
+1180,Italy,Middle Class,1760
+1181,Italy,Subsistence,1640
+1182,Italy,Middle Class,1440
+1183,Italy,Middle Class,1790
+1184,Italy,Middle Class,1800
+1185,Italy,Middle Class,1630
+1186,Italy,Middle Class,1530
+1187,Italy,Middle Class,1590
+1188,Italy,Middle Class,1650
+1189,Italy,Middle Class,1790
+1190,Italy,Middle Class,1620
+1191,Italy,Middle Class,1790
+1192,Italy,Middle Class,1570
+1193,Italy,Middle Class,1740
+1194,Italy,Middle Class,1730
+1195,Italy,Middle Class,1840
+1196,Italy,Middle Class,1880
+1197,Italy,Middle Class,1600
+1198,Italy,Middle Class,1560
+1199,Italy,Middle Class,1780
+1200,Italy,Middle Class,1400
+1201,Italy,Middle Class,1460
+1202,Italy,Elite,1770
+1203,Italy,Middle Class,1830
+1204,Italy,Middle Class,1740
+1205,Italy,Middle Class,1750
+1206,Italy,Middle Class,1700
+1207,Italy,Middle Class,1610
+1208,Italy,Middle Class,1880
+1209,Italy,Middle Class,1390
+1210,Italy,Middle Class,1880
+1211,Italy,Middle Class,1740
+1212,Italy,Subsistence,1510
+1213,Italy,Elite,1560
+1214,Italy,Middle Class,1610
+1215,Italy,Middle Class,1760
+1216,Italy,Middle Class,1790
+1217,Italy,Middle Class,1790
+1218,Italy,Middle Class,1640
+1219,Italy,Elite,1840
+1220,Italy,Middle Class,1380
+1221,Italy,Middle Class,1580
+1222,Italy,Middle Class,1560
+1223,Italy,Middle Class,1680
+1224,Italy,Middle Class,1540
+1225,Italy,Middle Class,1620
+1226,Italy,Elite,1650
+1227,Italy,Middle Class,1800
+1228,Italy,Middle Class,1660
+1229,Italy,Middle Class,1870
+1230,Italy,Middle Class,1520
+1231,Italy,Elite,1260
+1232,Italy,Middle Class,1850
+1233,Italy,Elite,1690
+1234,Italy,Middle Class,1710
+1235,Italy,Middle Class,1590
+1236,Italy,Middle Class,1590
+1237,Italy,Middle Class,1860
+1238,Italy,Middle Class,1570
+1239,Italy,Middle Class,1590
+1240,Italy,Middle Class,1760
+1241,Italy,Middle Class,1710
+1242,Italy,Middle Class,1870
+1243,Italy,Middle Class,1870
+1244,Italy,Middle Class,1280
+1245,Italy,Middle Class,1660
+1246,Italy,Middle Class,1650
+1247,Italy,Middle Class,1880
+1248,Italy,Middle Class,1460
+1249,Italy,Middle Class,1830
+1250,Italy,Elite,1670
+1251,Italy,Middle Class,1840
+1252,Italy,Middle Class,1590
+1253,Italy,Middle Class,1880
+1254,Italy,Middle Class,1670
+1255,Italy,Middle Class,1570
+1256,Italy,Middle Class,1830
+1257,Italy,Middle Class,1460
+1258,Italy,Middle Class,1460
+1259,Italy,Elite,1540
+1260,Italy,Middle Class,1740
+1261,Italy,Middle Class,1860
+1262,Italy,Middle Class,1490
+1263,Italy,Middle Class,1860
+1264,Italy,Middle Class,1630
+1265,Italy,Elite,1590
+1266,Italy,Elite,1610
+1267,Italy,Middle Class,1630
+1268,Italy,Middle Class,1770
+1269,Italy,Elite,1770
+1270,Italy,Middle Class,1610
+1271,Italy,Middle Class,1680
+1272,Italy,Middle Class,1530
+1273,Italy,Elite,1620
+1274,Italy,Middle Class,1590
+1275,Italy,Elite,1530
+1276,Italy,Middle Class,1460
+1277,Italy,Middle Class,1400
+1278,Italy,Middle Class,1610
+1279,Italy,Middle Class,1880
+1280,Italy,Subsistence,1840
+1281,Italy,Middle Class,1580
+1282,Italy,Middle Class,1510
+1283,Italy,Middle Class,1860
+1284,Italy,Middle Class,1870
+1285,Italy,Middle Class,1480
+1286,Italy,Elite,1590
+1287,Italy,Middle Class,1860
+1288,Italy,Elite,1850
+1289,Italy,Middle Class,1620
+1290,Italy,Middle Class,1590
+1291,Italy,Middle Class,1580
+1292,Italy,Middle Class,1760
+1293,Italy,Subsistence,1800
+1294,Italy,Middle Class,1880
+1295,Italy,Subsistence,1580
+1296,Italy,Elite,1850
+1297,Italy,Elite,1580
+1298,Italy,Middle Class,1760
+1299,Italy,Middle Class,1700
+1300,Italy,Elite,1450
+1301,Italy,Middle Class,1780
+1302,Italy,Middle Class,1820
+1303,Italy,Middle Class,1540
+1304,Italy,Middle Class,1640
+1305,Italy,Middle Class,1610
+1306,Italy,Middle Class,1700
+1307,Italy,Middle Class,1690
+1308,Italy,Middle Class,1640
+1309,Italy,Middle Class,1820
+1310,Italy,Middle Class,1660
+1311,Italy,Middle Class,1880
+1312,Italy,Middle Class,1820
+1313,Italy,Elite,1730
+1314,Italy,Middle Class,1630
+1315,Italy,Middle Class,1610
+1316,Italy,Middle Class,1600
+1317,Italy,Middle Class,1730
+1318,Italy,Middle Class,1880
+1319,Italy,Middle Class,1800
+1320,Italy,Middle Class,1760
+1321,Italy,Middle Class,1780
+1322,Italy,Elite,1440
+1323,Italy,Middle Class,1870
+1324,Italy,Middle Class,1680
+1325,Italy,Middle Class,1850
+1326,Italy,Middle Class,1500
+1327,Italy,Middle Class,1530
+1328,Italy,Middle Class,1720
+1329,Italy,Middle Class,1860
+1330,Italy,Elite,1480
+1331,Italy,Middle Class,1500
+1332,Italy,Middle Class,1740
+1333,Italy,Middle Class,1480
+1334,Italy,Middle Class,1480
+1335,Italy,Middle Class,1520
+1336,Italy,Middle Class,1590
+1337,Italy,Middle Class,1840
+1338,Italy,Middle Class,1730
+1339,Italy,Middle Class,1840
+1340,Italy,Middle Class,1430
+1341,Italy,Middle Class,1380
+1342,Italy,Middle Class,1660
+1343,Italy,Middle Class,1700
+1344,Italy,Middle Class,1460
+1345,Italy,Elite,1560
+1346,Italy,Elite,1600
+1347,Italy,Middle Class,1470
+1348,Italy,Middle Class,1720
+1349,Italy,Elite,1780
+1350,Italy,Middle Class,1490
+1351,Italy,Subsistence,1530
+1352,Italy,Middle Class,1540
+1353,Italy,Middle Class,1630
+1354,Italy,Middle Class,1620
+1355,Italy,Middle Class,1640
+1356,Italy,Middle Class,1580
+1357,Italy,Middle Class,1440
+1358,Italy,Elite,1830
+1359,Italy,Middle Class,1690
+1360,Italy,Middle Class,1690
+1361,Italy,Middle Class,1530
+1362,Italy,Middle Class,1580
+1363,Italy,Middle Class,1820
+1364,Italy,Elite,1610
+1365,Italy,Elite,1670
+1366,Italy,Middle Class,1810
+1367,Italy,Middle Class,1440
+1368,Italy,Middle Class,1600
+1369,Italy,Middle Class,1490
+1370,Italy,Middle Class,1660
+1371,Italy,Elite,1570
+1372,Italy,Middle Class,1610
+1373,Italy,Middle Class,1840
+1374,Italy,Middle Class,1580
+1375,Italy,Middle Class,1580
+1376,Italy,Middle Class,1430
+1377,Italy,Middle Class,1850
+1378,Italy,Elite,1790
+1379,Italy,Middle Class,1610
+1380,Italy,Middle Class,1640
+1381,Italy,Middle Class,1800
+1382,Italy,Middle Class,1740
+1383,Italy,Middle Class,1710
+1384,Italy,Middle Class,1790
+1385,Italy,Middle Class,1860
+1386,Italy,Middle Class,1720
+1387,Italy,Middle Class,1710
+1388,Italy,Middle Class,1770
+1389,Italy,Middle Class,1750
+1390,Italy,Middle Class,1610
+1391,Italy,Middle Class,1670
+1392,Italy,Middle Class,1560
+1393,Italy,Middle Class,1700
+1394,Italy,Elite,1530
+1395,Italy,Middle Class,1520
+1396,Italy,Middle Class,1430
+1397,Italy,Elite,1660
+1398,Italy,Middle Class,1490
+1399,Italy,Middle Class,1360
+1400,Italy,Middle Class,1640
+1401,Italy,Middle Class,1670
+1402,Italy,Middle Class,1480
+1403,Italy,Middle Class,1550
+1404,Italy,Middle Class,1850
+1405,Italy,Middle Class,1520
+1406,Italy,Middle Class,1640
+1407,Italy,Elite,1710
+1408,Italy,Elite,1720
+1409,Italy,Middle Class,1720
+1410,Italy,Elite,1650
+1411,Italy,Middle Class,1750
+1412,Italy,Middle Class,1280
+1413,Italy,Middle Class,1440
+1414,Italy,Middle Class,1260
+1415,Italy,Middle Class,1560
+1416,Italy,Middle Class,1770
+1417,Italy,Middle Class,1830
+1418,Italy,Middle Class,1720
+1419,Italy,Middle Class,1400
+1420,Italy,Middle Class,1470
+1421,Italy,Elite,1680
+1422,Italy,Middle Class,1410
+1423,Italy,Middle Class,1280
+1424,Italy,Middle Class,1280
+1425,Italy,Elite,1650
+1426,Italy,Middle Class,1720
+1427,Italy,Middle Class,1520
+1428,Italy,Middle Class,1320
+1429,Italy,Middle Class,1580
+1430,Italy,Middle Class,1590
+1431,Italy,Middle Class,1420
+1432,Italy,Middle Class,1630
+1433,Italy,Middle Class,1760
+1434,Italy,Middle Class,1590
+1435,Italy,Middle Class,1570
+1436,Italy,Middle Class,1730
+1437,Italy,Elite,1290
+1438,Italy,Middle Class,1750
+1439,Italy,Elite,1270
+1440,Italy,Middle Class,1570
+1441,Italy,Middle Class,1660
+1442,Italy,Middle Class,1800
+1443,Italy,Middle Class,1420
+1444,Italy,Middle Class,1420
+1445,Italy,Elite,1510
+1446,Italy,Middle Class,1460
+1447,Italy,Middle Class,1750
+1448,Italy,Middle Class,1500
+1449,Italy,Elite,1480
+1450,Italy,Elite,1470
+1451,Italy,Middle Class,1620
+1452,Italy,Middle Class,1800
+1453,Italy,Elite,1560
+1454,Italy,Middle Class,1430
+1455,Italy,Middle Class,1660
+1456,Italy,Middle Class,1860
+1457,Italy,Elite,1620
+1458,Italy,Middle Class,1630
+1459,Italy,Middle Class,1760
+1460,Italy,Middle Class,1660
+1461,Italy,Middle Class,1800
+1462,Italy,Elite,1570
+1463,Italy,Middle Class,1790
+1464,Italy,Middle Class,1550
+1465,Italy,Middle Class,1440
+1466,Italy,Middle Class,1780
+1467,Italy,Middle Class,1460
+1468,Italy,Middle Class,1800
+1469,Italy,Middle Class,1740
+1470,Italy,Middle Class,1740
+1471,Italy,Middle Class,1710
+1472,Italy,Elite,1530
+1473,Italy,Middle Class,1640
+1474,Italy,Middle Class,1690
+1475,Italy,Middle Class,1640
+1476,Italy,Middle Class,1600
+1477,Italy,Middle Class,1800
+1478,Italy,Middle Class,1420
+1479,Italy,Middle Class,1760
+1480,Italy,Middle Class,1600
+1481,Italy,Middle Class,1670
+1482,Italy,Elite,1530
+1483,Italy,Middle Class,1630
+1484,Italy,Middle Class,1570
+1485,Italy,Middle Class,1880
+1486,Italy,Elite,1710
+1487,Italy,Middle Class,1650
+1488,Italy,Middle Class,1700
+1489,Italy,Elite,1570
+1490,Italy,Elite,1500
+1491,Italy,Middle Class,1840
+1492,Italy,Elite,1850
+1493,Italy,Middle Class,1630
+1494,Italy,Elite,1710
+1495,Italy,Elite,1710
+1496,Italy,Middle Class,1740
+1497,Italy,Middle Class,1630
+1498,Italy,Middle Class,1580
+1499,Italy,Elite,1830
+1500,Italy,Elite,1540
+1501,Italy,Middle Class,1850
+1502,Italy,Middle Class,1850
+1503,Italy,Middle Class,1280
+1504,Italy,Middle Class,1850
+1505,Italy,Elite,1490
+1506,Italy,Middle Class,1880
+1507,Italy,Middle Class,1840
+1508,Italy,Middle Class,1580
+1509,Italy,Middle Class,1570
+1510,Italy,Middle Class,1830
+1511,Italy,Middle Class,1590
+1512,Italy,Middle Class,1540
+1513,Italy,Middle Class,1560
+1514,Italy,Middle Class,1670
+1515,Italy,Middle Class,1600
+1516,Italy,Elite,1850
+1517,Italy,Middle Class,1460
+1518,Italy,Elite,1480
+1519,Italy,Middle Class,1690
+1520,Italy,Elite,1700
+1521,Italy,Middle Class,1570
+1522,Italy,Middle Class,1820
+1523,Italy,Middle Class,1530
+1524,Italy,Middle Class,1610
+1525,Italy,Middle Class,1510
+1526,Italy,Middle Class,1520
+1527,Italy,Middle Class,1540
+1528,Italy,Middle Class,1870
+1529,Italy,Middle Class,1860
+1530,Italy,Middle Class,1860
+1531,Italy,Elite,1710
+1532,Italy,Middle Class,1550
+1533,Italy,Middle Class,1660
+1534,Italy,Middle Class,1670
+1535,Italy,Elite,1270
+1536,Italy,Middle Class,1530
+1537,Italy,Middle Class,1520
+1538,Italy,Middle Class,1830
+1539,Italy,Middle Class,1520
+1540,Italy,Middle Class,1500
+1541,Italy,Middle Class,1640
+1542,Italy,Middle Class,1610
+1543,Italy,Middle Class,1520
+1544,Italy,Middle Class,1650
+1545,Italy,Middle Class,1740
+1546,Italy,Middle Class,1470
+1547,Italy,Elite,1580
+1548,Italy,Elite,1590
+1549,Italy,Middle Class,1810
+1550,Italy,Middle Class,1880
+1551,Italy,Middle Class,1600
+1552,Italy,Middle Class,1790
+1553,Italy,Middle Class,1520
+1554,Italy,Middle Class,1700
+1555,Italy,Middle Class,1640
+1556,Italy,Middle Class,1760
+1557,Italy,Middle Class,1810
+1558,Italy,Middle Class,1730
+1559,Italy,Middle Class,1460
+1560,Italy,Middle Class,1830
+1561,Italy,Middle Class,1430
+1562,Italy,Middle Class,1810
+1563,Italy,Middle Class,1510
+1564,Italy,Middle Class,1380
+1565,Italy,Middle Class,1580
+1566,Italy,Middle Class,1300
+1567,Italy,Middle Class,1760
+1568,Italy,Elite,1840
+1569,Italy,Middle Class,1870
+1570,Italy,Middle Class,1550
+1571,Italy,Elite,1650
+1572,Italy,Middle Class,1540
+1573,Italy,Elite,1260
+1574,Italy,Middle Class,1260
+1575,Italy,Middle Class,1360
+1576,Italy,Middle Class,1600
+1577,Italy,Subsistence,1820
+1578,Italy,Middle Class,1560
+1579,Italy,Middle Class,1860
+1580,Italy,Middle Class,1630
+1581,Italy,Middle Class,1860
+1582,Italy,Middle Class,1720
+1583,Italy,Middle Class,1870
+1584,Italy,Middle Class,1880
+1585,Italy,Middle Class,1650
+1586,Italy,Middle Class,1870
+1587,Italy,Middle Class,1590
+1588,Italy,Middle Class,1560
+1589,Italy,Middle Class,1880
+1590,Italy,Middle Class,1800
+1591,Italy,Middle Class,1870
+1592,Italy,Elite,1750
+1593,Italy,Middle Class,1880
+1594,Italy,Middle Class,1760
+1595,Italy,Middle Class,1800
+1596,Italy,Middle Class,1420
+1597,Italy,Middle Class,1880
+1598,Italy,Middle Class,1630
+1599,Italy,Middle Class,1580
+1600,Italy,Middle Class,1720
+1601,Italy,Elite,1760
+1602,Italy,Middle Class,1610
+1603,Italy,Middle Class,1560
+1604,Italy,Middle Class,1720
+1605,Italy,Middle Class,1680
+1606,Italy,Middle Class,1730
+1607,Italy,Middle Class,1670
+1608,Italy,Middle Class,1700
+1609,Italy,Elite,1620
+1610,Italy,Middle Class,1770
+1611,Italy,Middle Class,1860
+1612,Italy,Middle Class,1880
+1613,Italy,Middle Class,1400
+1614,Italy,Middle Class,1750
+1615,Italy,Elite,1550
+1616,Italy,Middle Class,1490
+1617,Italy,Middle Class,1820
+1618,Italy,Middle Class,1320
+1619,Italy,Middle Class,1870
+1620,Italy,Elite,1540
+1621,Italy,Middle Class,1570
+1622,Italy,Middle Class,1540
+1623,Italy,Middle Class,1590
+1624,Italy,Middle Class,1470
+1625,Italy,Middle Class,1500
+1626,Italy,Middle Class,1620
+1627,Italy,Middle Class,1550
+1628,Italy,Middle Class,1620
+1629,Italy,Middle Class,1820
+1630,Italy,Elite,1570
+1631,Italy,Middle Class,1820
+1632,Italy,Elite,1850
+1633,Italy,Middle Class,1320
+1634,Italy,Elite,1800
+1635,Italy,Middle Class,1460
+1636,Italy,Middle Class,1700
+1637,Italy,Middle Class,1610
+1638,Italy,Elite,1520
+1639,Italy,Middle Class,1480
+1640,Italy,Middle Class,1870
+1641,Italy,Middle Class,1610
+1642,Italy,Middle Class,1840
+1643,Italy,Middle Class,1860
+1644,Italy,Elite,1740
+1645,Italy,Middle Class,1610
+1646,Italy,Middle Class,1510
+1647,Italy,Middle Class,1670
+1648,Italy,Middle Class,1530
+1649,Italy,Middle Class,1620
+1650,Italy,Middle Class,1450
+1651,Italy,Middle Class,1650
+1652,Italy,Elite,1570
+1653,Italy,Middle Class,1560
+1654,Italy,Middle Class,1630
+1655,Italy,Middle Class,1280
+1656,Italy,Middle Class,1610
+1657,Italy,Middle Class,1840
+1658,Italy,Middle Class,1860
+1659,Italy,Elite,1850
+1660,Italy,Middle Class,1880
+1661,Italy,Middle Class,1810
+1662,Italy,Middle Class,1710
+1663,Italy,Middle Class,1560
+1664,Italy,Middle Class,1870
+1665,Italy,Middle Class,1470
+1666,Italy,Elite,1810
+1667,Italy,Middle Class,1430
+1668,Italy,Middle Class,1820
+1669,Italy,Middle Class,1570
+1670,Italy,Middle Class,1560
+1671,Italy,Middle Class,1760
+1672,Italy,Middle Class,1500
+1673,Italy,Elite,1510
+1674,Italy,Middle Class,1510
+1675,Italy,Middle Class,1810
+1676,Italy,Middle Class,1520
+1677,Italy,Elite,1520
+1678,Italy,Middle Class,1620
+1679,Italy,Middle Class,1350
+1680,Italy,Middle Class,1750
+1681,Italy,Middle Class,1810
+1682,Italy,Middle Class,1500
+1683,Italy,Middle Class,1670
+1684,Italy,Elite,1600
+1685,Italy,Elite,1540
+1686,Italy,Middle Class,1580
+1687,Italy,Middle Class,1690
+1688,Italy,Elite,1520
+1689,Italy,Middle Class,1700
+1690,Italy,Middle Class,1740
+1691,Italy,Middle Class,1800
+1692,Italy,Middle Class,1620
+1693,Italy,Middle Class,1740
+1694,Italy,Middle Class,1510
+1695,Italy,Middle Class,1860
+1696,Italy,Elite,1780
+1697,Italy,Middle Class,1440
+1698,Italy,Middle Class,1580
+1699,Italy,Elite,1840
+1700,Italy,Elite,1410
+1701,Italy,Middle Class,1560
+1702,Italy,Middle Class,1780
+1703,Italy,Subsistence,1540
+1704,Italy,Middle Class,1470
+1705,Italy,Middle Class,1460
+1706,Italy,Elite,1450
+1707,Italy,Middle Class,1520
+1708,Italy,Middle Class,1480
+1709,Italy,Elite,1620
+1710,Italy,Middle Class,1540
+1711,Italy,Elite,1540
+1712,Italy,Middle Class,1500
+1713,Italy,Middle Class,1470
+1714,Italy,Elite,1420
+1715,Italy,Elite,1790
+1716,Italy,Middle Class,1520
+1717,Italy,Middle Class,1550
+1718,Italy,Middle Class,1550
+1719,Italy,Middle Class,1850
+1720,Italy,Middle Class,1430
+1721,Italy,Middle Class,1690
+1722,Italy,Middle Class,1530
+1723,Italy,Middle Class,1730
+1724,Italy,Middle Class,1420
+1725,Italy,Middle Class,1720
+1726,Italy,Middle Class,1550
+1727,Italy,Elite,1500
+1728,Italy,Middle Class,1560
+1729,Italy,Middle Class,1650
+1730,Italy,Middle Class,1870
+1731,Italy,Elite,1830
+1732,Italy,Middle Class,1620
+1733,Italy,Subsistence,1880
+1734,Italy,Middle Class,1880
+1735,Italy,Middle Class,1790
+1736,Italy,Elite,1690
+1737,Italy,Middle Class,1510
+1738,Italy,Middle Class,1850
+1739,Italy,Middle Class,1710
+1740,Italy,Middle Class,1460
+1741,Italy,Middle Class,1860
+1742,Italy,Middle Class,1840
+1743,Italy,Middle Class,1630
+1744,Italy,Elite,1600
+1745,Italy,Middle Class,1520
+1746,Italy,Middle Class,1800
+1747,Italy,Middle Class,1830
+1748,Italy,Middle Class,1460
+1749,Italy,Middle Class,1830
+1750,Italy,Middle Class,1840
+1751,Italy,Middle Class,1880
+1752,Italy,Middle Class,1780
+1753,Italy,Middle Class,1710
+1754,Italy,Middle Class,1800
+1755,Italy,Middle Class,1570
+1756,Italy,Middle Class,1510
+1757,Italy,Elite,1720
+1758,Italy,Middle Class,1580
+1759,Italy,Middle Class,1790
+1760,Italy,Middle Class,1730
+1761,Italy,Middle Class,1630
+1762,Italy,Middle Class,1500
+1763,Italy,Middle Class,1500
+1764,Italy,Middle Class,1750
+1765,Italy,Middle Class,1540
+1766,Italy,Middle Class,1650
+1767,Italy,Elite,1580
+1768,Italy,Elite,1670
+1769,Italy,Middle Class,1570
+1770,Italy,Elite,1360
+1771,Italy,Middle Class,1560
+1772,Italy,Middle Class,1790
+1773,Italy,Middle Class,1740
+1774,Italy,Elite,1810
+1775,Italy,Middle Class,1690
+1776,Italy,Middle Class,1610
+1777,Italy,Middle Class,1640
+1778,Italy,Middle Class,1640
+1779,Italy,Elite,1490
+1780,Italy,Middle Class,1720
+1781,Italy,Middle Class,1840
+1782,Italy,Middle Class,1850
+1783,Italy,Middle Class,1870
+1784,Italy,Middle Class,1600
+1785,Italy,Middle Class,1700
+1786,Italy,Middle Class,1860
+1787,Italy,Middle Class,1530
+1788,Italy,Middle Class,1860
+1789,Italy,Middle Class,1640
+1790,Italy,Middle Class,1670
+1791,Italy,Middle Class,1830
+1792,Italy,Elite,1850
+1793,Italy,Middle Class,1730
+1794,Italy,Middle Class,1860
+1795,Italy,Middle Class,1320
+1796,Italy,Elite,1850
+1797,Italy,Elite,1870
+1798,Italy,Middle Class,1700
+1799,Italy,Subsistence,1760
+1800,Italy,Elite,1660
+1801,Italy,Middle Class,1600
+1802,Italy,Middle Class,1430
+1803,Italy,Middle Class,1880
+1804,Italy,Elite,1720
+1805,Italy,Middle Class,1880
+1806,Italy,Middle Class,1800
+1807,Italy,Middle Class,1520
+1808,Italy,Middle Class,1590
+1809,Italy,Elite,1880
+1810,Italy,Middle Class,1660
+1811,Italy,Middle Class,1410
+1812,Italy,Elite,1730
+1813,Italy,Middle Class,1540
+1814,Italy,Middle Class,1620
+1815,Italy,Middle Class,1590
+1816,Italy,Middle Class,1860
+1817,Italy,Elite,1570
+1818,Italy,Middle Class,1560
+1819,Italy,Middle Class,1580
+1820,Italy,Elite,1620
+1821,Italy,Middle Class,1850
+1822,Italy,Middle Class,1700
+1823,Italy,Middle Class,1880
+1824,Italy,Middle Class,1640
+1825,Italy,Middle Class,1860
+1826,Italy,Middle Class,1600
+1827,Italy,Middle Class,1860
+1828,Italy,Middle Class,1560
+1829,Italy,Middle Class,1810
+1830,Italy,Elite,1760
+1831,Italy,Middle Class,1760
+1832,Italy,Middle Class,1720
+1833,Italy,Middle Class,1620
+1834,Italy,Middle Class,1570
+1835,Italy,Middle Class,1650
+1836,Italy,Middle Class,1790
+1837,Italy,Middle Class,1720
+1838,Italy,Middle Class,1600
+1839,Italy,Middle Class,1600
+1840,Italy,Middle Class,1630
+1841,Italy,Middle Class,1730
+1842,Italy,Middle Class,1740
+1843,Italy,Middle Class,1520
+1844,Italy,Middle Class,1580
+1845,Italy,Middle Class,1430
+1846,Italy,Middle Class,1500
+1847,Italy,Middle Class,1840
+1848,Italy,Middle Class,1470
+1849,Italy,Middle Class,1490
+1850,Italy,Middle Class,1510
+1851,Italy,Middle Class,1460
+1852,Italy,Middle Class,1520
+1853,Italy,Middle Class,1770
+1854,Italy,Middle Class,1590
+1855,Italy,Middle Class,1600
+1856,Italy,Middle Class,1770
+1857,Italy,Middle Class,1680
+1858,Italy,Middle Class,1460
+1859,Italy,Middle Class,1430
+1860,Italy,Middle Class,1540
+1861,Italy,Middle Class,1480
+1862,Italy,Middle Class,1470
+1863,Italy,Subsistence,1470
+1864,Italy,Middle Class,1700
+1865,Italy,Middle Class,1490
+1866,Italy,Middle Class,1860
+1867,Italy,Middle Class,1750
+1868,Italy,Middle Class,1650
+1869,Italy,Middle Class,1430
+1870,Italy,Middle Class,1450
+1871,Italy,Middle Class,1480
+1872,Italy,Middle Class,1870
+1873,Italy,Middle Class,1750
+1874,Italy,Elite,1670
+1875,Italy,Middle Class,1730
+1876,Italy,Middle Class,1770
+1877,Italy,Middle Class,1850
+1878,Italy,Middle Class,1430
+1879,Italy,Middle Class,1570
+1880,Italy,Middle Class,1870
+1881,Italy,Middle Class,1610
+1882,Italy,Middle Class,1800
+1883,Italy,Middle Class,1860
+1884,Italy,Elite,1460
+1885,Italy,Middle Class,1550
+1886,Italy,Middle Class,1540
+1887,Italy,Middle Class,1750
+1888,Italy,Middle Class,1550
+1889,Italy,Middle Class,1790
+1890,Italy,Middle Class,1590
+1891,Italy,Middle Class,1720
+1892,Italy,Middle Class,1290
+1893,Italy,Middle Class,1580
+1894,Italy,Middle Class,1880
+1895,Italy,Middle Class,1840
+1896,Italy,Middle Class,1540
+1897,Italy,Middle Class,1540
+1898,Italy,Elite,1540
+1899,Italy,Middle Class,1850
+1900,Italy,Middle Class,1840
+1901,Italy,Elite,1570
+1902,Italy,Middle Class,1610
+1903,Italy,Middle Class,1460
+1904,Italy,Elite,1470
+1905,Italy,Middle Class,1630
+1906,Italy,Elite,1850
+1907,Italy,Elite,1810
+1908,Italy,Middle Class,1520
+1909,Italy,Elite,1540
+1910,Italy,Middle Class,1580
+1911,Italy,Middle Class,1880
+1912,Italy,Middle Class,1530
+1913,Italy,Middle Class,1780
+1914,Italy,Elite,1570
+1915,Italy,Middle Class,1820
+1916,Italy,Middle Class,1500
+1917,Italy,Middle Class,1560
+1918,Italy,Middle Class,1820
+1919,Italy,Middle Class,1640
+1920,Italy,Middle Class,1830
+1921,Italy,Middle Class,1780
+1922,Italy,Middle Class,1670
+1923,Italy,Elite,1540
+1924,Italy,Middle Class,1670
+1925,Italy,Middle Class,1820
+1926,Italy,Middle Class,1540
+1927,Italy,Middle Class,1490
+1928,Italy,Elite,1610
+1929,Italy,Middle Class,1820
+1930,Italy,Middle Class,1480
+1931,Italy,Middle Class,1780
+1932,Italy,Elite,1850
+1933,Italy,Middle Class,1820
+1934,Italy,Elite,1640
+1935,Italy,Middle Class,1880
+1936,Italy,Middle Class,1810
+1937,Italy,Middle Class,1860
+1938,Italy,Middle Class,1880
+1939,Italy,Middle Class,1840
+1940,Italy,Middle Class,1860
+1941,Italy,Middle Class,1810
+1942,Italy,Middle Class,1770
+1943,Italy,Middle Class,1690
+1944,Italy,Middle Class,1480
+1945,Italy,Middle Class,1840
+1946,Italy,Middle Class,1320
+1947,Italy,Middle Class,1870
+1948,Italy,Middle Class,1670
+1949,Italy,Middle Class,1540
+1950,Italy,Middle Class,1810
+1951,Italy,Middle Class,1580
+1952,Italy,Middle Class,1810
+1953,Italy,Middle Class,1700
+1954,Italy,Middle Class,1540
+1955,Italy,Middle Class,1580
+1956,Italy,Middle Class,1600
+1957,Italy,Middle Class,1480
+1958,Italy,Middle Class,1880
+1959,Italy,Elite,1710
+1960,Italy,Middle Class,1880
+1961,Italy,Middle Class,1540
+1962,Italy,Middle Class,1470
+1963,Italy,Middle Class,1850
+1964,Italy,Elite,1800
+1965,Italy,Middle Class,1880
+1966,Italy,Middle Class,1510
+1967,Italy,Middle Class,1860
+1968,Italy,Middle Class,1460
+1969,Italy,Middle Class,1460
+1970,Italy,Elite,1420
+1971,Italy,Middle Class,1600
+1972,Italy,Middle Class,1530
+1973,Italy,Middle Class,1780
+1974,Italy,Middle Class,1460
+1975,Italy,Middle Class,1610
+1976,Italy,Elite,1520
+1977,Italy,Middle Class,1720
+1978,Italy,Middle Class,1510
+1979,Italy,Middle Class,1650
+1980,Italy,Middle Class,1460
+1981,Italy,Middle Class,1430
+1982,Italy,Middle Class,1880
+1983,Italy,Middle Class,1880
+1984,Italy,Middle Class,1850
+1985,Italy,Middle Class,1470
+1986,Italy,Middle Class,1290
+1987,Italy,Middle Class,1500
+1988,Italy,Middle Class,1810
+1989,Italy,Elite,1830
+1990,Italy,Middle Class,1560
+1991,Italy,Middle Class,1850
+1992,Italy,Middle Class,1540
+1993,Italy,Middle Class,1800
+1994,Italy,Middle Class,1790
+1995,Italy,Subsistence,1840
+1996,Italy,Middle Class,1540
+1997,Italy,Elite,1560
+1998,Italy,Middle Class,1690
+1999,Italy,Middle Class,1840
+2000,Italy,Middle Class,1620
+2001,Italy,Elite,1700
+2002,Italy,Middle Class,1410
+2003,Italy,Middle Class,1580
+2004,Italy,Middle Class,1720
+2005,Italy,Middle Class,1700
+2006,Italy,Middle Class,1760
+2007,Italy,Middle Class,1520
+2008,Italy,Middle Class,1520
+2009,Italy,Middle Class,1300
+2010,Italy,Middle Class,1850
+2011,Italy,Middle Class,1620
+2012,Italy,Middle Class,1850
+2013,Italy,Middle Class,1520
+2014,Italy,Elite,1860
+2015,Italy,Middle Class,1510
+2016,Italy,Elite,1850
+2017,Italy,Middle Class,1690
+2018,Italy,Elite,1300
+2019,Italy,Middle Class,1860
+2020,Italy,Middle Class,1860
+2021,Italy,Middle Class,1820
+2022,Italy,Middle Class,1400
+2023,Italy,Middle Class,1740
+2024,Italy,Middle Class,1590
+2025,Italy,Middle Class,1500
+2026,Italy,Middle Class,1650
+2027,Italy,Middle Class,1880
+2028,Italy,Middle Class,1720
+2029,Italy,Middle Class,1520
+2030,Italy,Middle Class,1850
+2031,Italy,Middle Class,1850
+2032,Italy,Middle Class,1630
+2033,Italy,Middle Class,1770
+2034,Italy,Middle Class,1470
+2035,Italy,Middle Class,1850
+2036,Italy,Middle Class,1700
+2037,Italy,Middle Class,1760
+2038,Italy,Middle Class,1570
+2039,Italy,Middle Class,1870
+2040,Italy,Middle Class,1640
+2041,Italy,Middle Class,1410
+2042,Italy,Elite,1680
+2043,Italy,Middle Class,1420
+2044,Italy,Middle Class,1720
+2045,Italy,Middle Class,1560
+2046,Italy,Middle Class,1620
+2047,Italy,Middle Class,1630
+2048,Italy,Middle Class,1530
+2049,Italy,Middle Class,1820
+2050,Italy,Middle Class,1830
+2051,Italy,Middle Class,1510
+2052,Italy,Middle Class,1730
+2053,Italy,Middle Class,1490
+2054,Italy,Middle Class,1880
+2055,Italy,Middle Class,1480
+2056,Italy,Middle Class,1500
+2057,Italy,Middle Class,1540
+2058,Italy,Middle Class,1650
+2059,Italy,Elite,1780
+2060,Italy,Elite,1500
+2061,Italy,Middle Class,1310
+2062,Italy,Middle Class,1820
+2063,Italy,Middle Class,1600
+2064,Italy,Middle Class,1860
+2065,Italy,Middle Class,1860
+2066,Italy,Elite,1530
+2067,Italy,Elite,1660
+2068,Italy,Elite,1630
+2069,Italy,Elite,1260
+2070,Italy,Middle Class,1820
+2071,Italy,Middle Class,1560
+2072,Italy,Middle Class,1540
+2073,Italy,Middle Class,1700
+2074,Italy,Middle Class,1820
+2075,Italy,Middle Class,1560
+2076,Italy,Middle Class,1580
+2077,Italy,Middle Class,1570
+2078,Italy,Elite,1500
+2079,Italy,Elite,1530
+2080,Italy,Middle Class,1640
+2081,Italy,Middle Class,1850
+2082,Italy,Middle Class,1580
+2083,Italy,Middle Class,1760
+2084,Italy,Middle Class,1840
+2085,Italy,Middle Class,1880
+2086,Italy,Middle Class,1490
+2087,Italy,Middle Class,1520
+2088,Italy,Middle Class,1510
+2089,Italy,Middle Class,1510
+2090,Italy,Middle Class,1490
+2091,Italy,Middle Class,1740
+2092,Italy,Middle Class,1510
+2093,Italy,Middle Class,1740
+2094,Italy,Middle Class,1540
+2095,Italy,Middle Class,1560
+2096,Italy,Middle Class,1760
+2097,Italy,Middle Class,1610
+2098,Italy,Middle Class,1480
+2099,Italy,Middle Class,1810
+2100,Italy,Middle Class,1830
+2101,Italy,Middle Class,1690
+2102,Italy,Middle Class,1850
+2103,Italy,Middle Class,1520
+2104,Italy,Elite,1710
+2105,Italy,Middle Class,1860
+2106,Italy,Subsistence,1540
+2107,Italy,Middle Class,1500
+2108,Italy,Middle Class,1740
+2109,Italy,Middle Class,1670
+2110,Italy,Middle Class,1760
+2111,Italy,Middle Class,1510
+2112,Italy,Middle Class,1590
+2113,Italy,Middle Class,1300
+2114,Italy,Middle Class,1640
+2115,Italy,Middle Class,1850
+2116,Italy,Middle Class,1640
+2117,Italy,Middle Class,1630
+2118,Italy,Middle Class,1590
+2119,Italy,Middle Class,1710
+2120,Italy,Middle Class,1850
+2121,Italy,Middle Class,1460
+2122,Italy,Middle Class,1370
+2123,Italy,Middle Class,1550
+2124,Italy,Middle Class,1600
+2125,Italy,Elite,1820
+2126,Italy,Middle Class,1450
+2127,Italy,Middle Class,1520
+2128,Italy,Middle Class,1540
+2129,Italy,Middle Class,1450
+2130,Italy,Middle Class,1540
+2131,Italy,Middle Class,1660
+2132,Italy,Middle Class,1730
+2133,Italy,Middle Class,1880
+2134,Italy,Elite,1260
+2135,Italy,Middle Class,1560
+2136,Italy,Middle Class,1830
+2137,Italy,Middle Class,1610
+2138,Italy,Middle Class,1440
+2139,Italy,Elite,1570
+2140,Italy,Elite,1500
+2141,Italy,Middle Class,1490
+2142,Italy,Middle Class,1830
+2143,Italy,Middle Class,1780
+2144,Italy,Middle Class,1530
+2145,Italy,Middle Class,1300
+2146,Italy,Middle Class,1530
+2147,Italy,Middle Class,1460
+2148,Italy,Middle Class,1530
+2149,Italy,Middle Class,1880
+2150,Italy,Middle Class,1800
+2151,Italy,Elite,1640
+2152,Italy,Middle Class,1600
+2153,Italy,Middle Class,1830
+2154,Italy,Middle Class,1640
+2155,Italy,Middle Class,1860
+2156,Italy,Middle Class,1580
+2157,Italy,Middle Class,1690
+2158,Italy,Middle Class,1700
+2159,Italy,Middle Class,1590
+2160,Italy,Middle Class,1660
+2161,Italy,Middle Class,1770
+2162,Italy,Middle Class,1630
+2163,Italy,Middle Class,1670
+2164,Italy,Middle Class,1880
+2165,Italy,Middle Class,1770
+2166,Italy,Elite,1760
+2167,Italy,Middle Class,1660
+2168,Italy,Middle Class,1640
+2169,Italy,Middle Class,1560
+2170,Italy,Middle Class,1720
+2171,Italy,Middle Class,1710
+2172,Italy,Middle Class,1620
+2173,Italy,Middle Class,1840
+2174,Italy,Middle Class,1570
+2175,Italy,Middle Class,1690
+2176,Italy,Middle Class,1480
+2177,Italy,Middle Class,1600
+2178,Italy,Middle Class,1520
+2179,Italy,Middle Class,1520
+2180,Italy,Elite,1460
+2181,Italy,Middle Class,1860
+2182,United Kingdom,Elite,1730
+2183,United Kingdom,Middle Class,1790
+2184,United Kingdom,Elite,1640
+2185,United Kingdom,Elite,1840
+2186,United Kingdom,Elite,1820
+2187,United Kingdom,Middle Class,1780
+2188,United Kingdom,Middle Class,1590
+2189,United Kingdom,Middle Class,1670
+2190,United Kingdom,Middle Class,1780
+2191,United Kingdom,Middle Class,1850
+2192,United Kingdom,Middle Class,1790
+2193,United Kingdom,Elite,1670
+2194,United Kingdom,Middle Class,1770
+2195,United Kingdom,Middle Class,1800
+2196,United Kingdom,Subsistence,1660
+2197,United Kingdom,Elite,1610
+2198,United Kingdom,Subsistence,1730
+2199,United Kingdom,Subsistence,1830
+2200,United Kingdom,Middle Class,1700
+2201,United Kingdom,Elite,1630
+2202,United Kingdom,Middle Class,1850
+2203,United Kingdom,Middle Class,1880
+2204,United Kingdom,Middle Class,1760
+2205,United Kingdom,Subsistence,1780
+2206,United Kingdom,Middle Class,1830
+2207,United Kingdom,Middle Class,1780
+2208,United Kingdom,Middle Class,1840
+2209,United Kingdom,Middle Class,1860
+2210,United Kingdom,Elite,1840
+2211,United Kingdom,Middle Class,1870
+2212,United Kingdom,Middle Class,1690
+2213,United Kingdom,Middle Class,1840
+2214,United Kingdom,Middle Class,1760
+2215,United Kingdom,Elite,1840
+2216,United Kingdom,Middle Class,1780
+2217,United Kingdom,Middle Class,1820
+2218,United Kingdom,Middle Class,1690
+2219,United Kingdom,Middle Class,1840
+2220,United Kingdom,Middle Class,1850
+2221,United Kingdom,Middle Class,1790
+2222,United Kingdom,Elite,1860
+2223,United Kingdom,Middle Class,1820
+2224,United Kingdom,Elite,1810
+2225,United Kingdom,Middle Class,1570
+2226,United Kingdom,Middle Class,1850
+2227,United Kingdom,Middle Class,1780
+2228,United Kingdom,Middle Class,1820
+2229,United Kingdom,Middle Class,1860
+2230,United Kingdom,Middle Class,1540
+2231,United Kingdom,Elite,1780
+2232,United Kingdom,Elite,1840
+2233,United Kingdom,Elite,1840
+2234,United Kingdom,Middle Class,1820
+2235,United Kingdom,Middle Class,1680
+2236,United Kingdom,Middle Class,1880
+2237,United Kingdom,Middle Class,1750
+2238,United Kingdom,Middle Class,1820
+2239,United Kingdom,Middle Class,1810
+2240,United Kingdom,Middle Class,1850
+2241,United Kingdom,Middle Class,1710
+2242,United Kingdom,Middle Class,1760
+2243,United Kingdom,Elite,1870
+2244,United Kingdom,Elite,1880
+2245,United Kingdom,Elite,1780
+2246,United Kingdom,Middle Class,1760
+2247,United Kingdom,Elite,1800
+2248,United Kingdom,Elite,1650
+2249,United Kingdom,Middle Class,1640
+2250,United Kingdom,Elite,1860
+2251,United Kingdom,Middle Class,1700
+2252,United Kingdom,Middle Class,1810
+2253,United Kingdom,Middle Class,1850
+2254,United Kingdom,Middle Class,1850
+2255,United Kingdom,Middle Class,1860
+2256,United Kingdom,Middle Class,1870
+2257,United Kingdom,Middle Class,1660
+2258,United Kingdom,Middle Class,1850
+2259,United Kingdom,Middle Class,1880
+2260,United Kingdom,Middle Class,1820
+2261,United Kingdom,Middle Class,1630
+2262,United Kingdom,Middle Class,1850
+2263,United Kingdom,Middle Class,1820
+2264,United Kingdom,Middle Class,1870
+2265,United Kingdom,Middle Class,1820
+2266,United Kingdom,Elite,1800
+2267,United Kingdom,Middle Class,1850
+2268,United Kingdom,Middle Class,1790
+2269,United Kingdom,Middle Class,1640
+2270,United Kingdom,Elite,1770
+2271,United Kingdom,Middle Class,1880
+2272,United Kingdom,Middle Class,1880
+2273,United Kingdom,Elite,1880
+2274,United Kingdom,Elite,1820
+2275,United Kingdom,Middle Class,1790
+2276,United Kingdom,Middle Class,1760
+2277,United Kingdom,Middle Class,1730
+2278,United Kingdom,Middle Class,1600
+2279,United Kingdom,Middle Class,1860
+2280,United Kingdom,Middle Class,1820
+2281,United Kingdom,Middle Class,1820
+2282,United Kingdom,Middle Class,1830
+2283,United Kingdom,Middle Class,1680
+2284,United Kingdom,Elite,1740
+2285,United Kingdom,Middle Class,1860
+2286,United Kingdom,Middle Class,1630
+2287,United Kingdom,Middle Class,1630
+2288,United Kingdom,Middle Class,1780
+2289,United Kingdom,Middle Class,1860
+2290,United Kingdom,Middle Class,1720
+2291,United Kingdom,Middle Class,1800
+2292,United Kingdom,Middle Class,1850
+2293,United Kingdom,Middle Class,1880
+2294,United Kingdom,Middle Class,1750
+2295,United Kingdom,Elite,1840
+2296,United Kingdom,Middle Class,1880
+2297,United Kingdom,Middle Class,1860
+2298,United Kingdom,Middle Class,1830
+2299,United Kingdom,Middle Class,1860
+2300,United Kingdom,Middle Class,1720
+2301,United Kingdom,Elite,1860
+2302,United Kingdom,Middle Class,1850
+2303,United Kingdom,Middle Class,1870
+2304,United Kingdom,Elite,1880
+2305,United Kingdom,Middle Class,1860
+2306,United Kingdom,Elite,1540
+2307,United Kingdom,Middle Class,1780
+2308,United Kingdom,Middle Class,1840
+2309,United Kingdom,Elite,1600
+2310,United Kingdom,Middle Class,1720
+2311,United Kingdom,Elite,1690
+2312,United Kingdom,Middle Class,1840
+2313,United Kingdom,Elite,1710
+2314,United Kingdom,Middle Class,1640
+2315,United Kingdom,Middle Class,1600
+2316,United Kingdom,Elite,1830
+2317,United Kingdom,Middle Class,1780
+2318,United Kingdom,Elite,1600
+2319,United Kingdom,Middle Class,1640
+2320,United Kingdom,Middle Class,1840
+2321,United Kingdom,Middle Class,1850
+2322,United Kingdom,Middle Class,1820
+2323,United Kingdom,Middle Class,1690
+2324,United Kingdom,Middle Class,1880
+2325,United Kingdom,Middle Class,1610
+2326,United Kingdom,Middle Class,1850
+2327,United Kingdom,Middle Class,1870
+2328,United Kingdom,Middle Class,1870
+2329,United Kingdom,Middle Class,1770
+2330,United Kingdom,Elite,1830
+2331,United Kingdom,Middle Class,1770
+2332,United Kingdom,Middle Class,1630
+2333,United Kingdom,Middle Class,1740
+2334,United Kingdom,Middle Class,1880
+2335,United Kingdom,Middle Class,1860
+2336,United Kingdom,Middle Class,1590
+2337,United Kingdom,Middle Class,1810
+2338,United Kingdom,Middle Class,1770
+2339,United Kingdom,Middle Class,1860
+2340,United Kingdom,Middle Class,1840
+2341,United Kingdom,Middle Class,1820
+2342,United Kingdom,Middle Class,1820
+2343,United Kingdom,Middle Class,1840
+2344,United Kingdom,Middle Class,1630
+2345,United Kingdom,Middle Class,1710
+2346,United Kingdom,Middle Class,1820
+2347,United Kingdom,Middle Class,1860
+2348,United Kingdom,Middle Class,1860
+2349,United Kingdom,Middle Class,1880
+2350,United Kingdom,Middle Class,1830
+2351,United Kingdom,Middle Class,1840
+2352,United Kingdom,Elite,1850
+2353,United Kingdom,Elite,1880
+2354,United Kingdom,Middle Class,1740
+2355,United Kingdom,Middle Class,1580
+2356,United Kingdom,Elite,1780
+2357,United Kingdom,Middle Class,1600
+2358,United Kingdom,Middle Class,1760
+2359,United Kingdom,Middle Class,1740
+2360,United Kingdom,Middle Class,1880
+2361,United Kingdom,Middle Class,1880
+2362,United Kingdom,Middle Class,1780
+2363,United Kingdom,Middle Class,1800
+2364,United Kingdom,Elite,1760
+2365,United Kingdom,Elite,1790
+2366,United Kingdom,Elite,1820
+2367,United Kingdom,Elite,1820
+2368,United Kingdom,Middle Class,1810
+2369,United Kingdom,Middle Class,1860
+2370,United Kingdom,Middle Class,1850
+2371,United Kingdom,Middle Class,1880
+2372,United Kingdom,Middle Class,1870
+2373,United Kingdom,Middle Class,1850
+2374,United Kingdom,Middle Class,1860
+2375,United Kingdom,Middle Class,1850
+2376,United Kingdom,Middle Class,1810
+2377,United Kingdom,Middle Class,1860
+2378,United Kingdom,Elite,1580
+2379,United Kingdom,Middle Class,1860
+2380,United Kingdom,Middle Class,1810
+2381,United Kingdom,Middle Class,1710
+2382,United Kingdom,Middle Class,1860
+2383,United Kingdom,Middle Class,1810
+2384,United Kingdom,Middle Class,1860
+2385,United Kingdom,Middle Class,1830
+2386,United Kingdom,Middle Class,1720
+2387,United Kingdom,Middle Class,1840
+2388,United Kingdom,Middle Class,1860
+2389,United Kingdom,Middle Class,1840
+2390,United Kingdom,Elite,1840
+2391,United Kingdom,Elite,1780
+2392,United Kingdom,Elite,1880
+2393,United Kingdom,Middle Class,1650
+2394,United Kingdom,Middle Class,1820
+2395,United Kingdom,Elite,1770
+2396,United Kingdom,Middle Class,1720
+2397,United Kingdom,Middle Class,1840
+2398,United Kingdom,Middle Class,1720
+2399,United Kingdom,Middle Class,1730
+2400,United Kingdom,Middle Class,1840
+2401,United Kingdom,Subsistence,1760
+2402,United Kingdom,Middle Class,1760
+2403,United Kingdom,Middle Class,1810
+2404,United Kingdom,Middle Class,1880
+2405,United Kingdom,Elite,1850
+2406,United Kingdom,Middle Class,1850
+2407,United Kingdom,Middle Class,1820
+2408,United Kingdom,Middle Class,1840
+2409,United Kingdom,Middle Class,1830
+2410,United Kingdom,Middle Class,1710
+2411,United Kingdom,Middle Class,1800
+2412,United Kingdom,Middle Class,1820
+2413,United Kingdom,Middle Class,1760
+2414,United Kingdom,Middle Class,1790
+2415,United Kingdom,Middle Class,1790
+2416,United Kingdom,Middle Class,1760
+2417,United Kingdom,Middle Class,1760
+2418,United Kingdom,Middle Class,1830
+2419,United Kingdom,Middle Class,1810
+2420,United Kingdom,Middle Class,1810
+2421,United Kingdom,Middle Class,1850
+2422,United Kingdom,Middle Class,1710
+2423,United Kingdom,Middle Class,1850
+2424,United Kingdom,Elite,1670
+2425,United Kingdom,Middle Class,1880
+2426,United Kingdom,Middle Class,1730
+2427,United Kingdom,Middle Class,1730
+2428,United Kingdom,Subsistence,1880
+2429,United Kingdom,Middle Class,1860
+2430,United Kingdom,Middle Class,1840
+2431,United Kingdom,Middle Class,1640
+2432,United Kingdom,Middle Class,1840
+2433,United Kingdom,Middle Class,1870
+2434,United Kingdom,Middle Class,1780
+2435,United Kingdom,Middle Class,1860
+2436,United Kingdom,Middle Class,1740
+2437,United Kingdom,Middle Class,1880
+2438,United Kingdom,Middle Class,1850
+2439,United Kingdom,Middle Class,1600
+2440,United Kingdom,Middle Class,1810
+2441,United Kingdom,Middle Class,1590
+2442,United Kingdom,Middle Class,1800
+2443,United Kingdom,Middle Class,1870
+2444,United Kingdom,Middle Class,1760
+2445,United Kingdom,Middle Class,1850
+2446,United Kingdom,Middle Class,1740
+2447,United Kingdom,Middle Class,1860
+2448,United Kingdom,Middle Class,1630
+2449,United Kingdom,Middle Class,1590
+2450,United Kingdom,Middle Class,1880
+2451,United Kingdom,Elite,1720
+2452,United Kingdom,Middle Class,1850
+2453,United Kingdom,Middle Class,1860
+2454,United Kingdom,Middle Class,1780
+2455,United Kingdom,Middle Class,1570
+2456,United Kingdom,Middle Class,1860
+2457,United Kingdom,Middle Class,1860
+2458,United Kingdom,Middle Class,1790
+2459,United Kingdom,Elite,1590
+2460,United Kingdom,Elite,1870
+2461,United Kingdom,Middle Class,1870
+2462,United Kingdom,Middle Class,1550
+2463,United Kingdom,Elite,1880
+2464,United Kingdom,Middle Class,1860
+2465,United Kingdom,Elite,1860
+2466,United Kingdom,Middle Class,1850
+2467,United Kingdom,Middle Class,1860
+2468,United Kingdom,Middle Class,1580
+2469,United Kingdom,Middle Class,1760
+2470,United Kingdom,Middle Class,1760
+2471,United Kingdom,Middle Class,1730
+2472,United Kingdom,Middle Class,1790
+2473,United Kingdom,Middle Class,1610
+2474,United Kingdom,Middle Class,1760
+2475,United Kingdom,Middle Class,1720
+2476,United Kingdom,Middle Class,1820
+2477,United Kingdom,Middle Class,1800
+2478,United Kingdom,Middle Class,1780
+2479,United Kingdom,Middle Class,1760
+2480,United Kingdom,Middle Class,1740
+2481,United Kingdom,Middle Class,1850
+2482,United Kingdom,Middle Class,1840
+2483,United Kingdom,Middle Class,1700
+2484,United Kingdom,Middle Class,1720
+2485,United Kingdom,Middle Class,1840
+2486,United Kingdom,Middle Class,1850
+2487,United Kingdom,Middle Class,1680
+2488,United Kingdom,Middle Class,1560
+2489,United Kingdom,Elite,1650
+2490,United Kingdom,Middle Class,1760
+2491,United Kingdom,Middle Class,1870
+2492,United Kingdom,Elite,1630
+2493,United Kingdom,Middle Class,1880
+2494,United Kingdom,Middle Class,1730
+2495,United Kingdom,Middle Class,1790
+2496,United Kingdom,Middle Class,1680
+2497,United Kingdom,Middle Class,1880
+2498,United Kingdom,Middle Class,1820
+2499,United Kingdom,Middle Class,1710
+2500,United Kingdom,Middle Class,1880
+2501,United Kingdom,Elite,1650
+2502,United Kingdom,Middle Class,1610
+2503,United Kingdom,Middle Class,1600
+2504,United Kingdom,Middle Class,1840
+2505,United Kingdom,Middle Class,1850
+2506,United Kingdom,Middle Class,1810
+2507,United Kingdom,Middle Class,1660
+2508,United Kingdom,Elite,1840
+2509,United Kingdom,Middle Class,1650
+2510,United Kingdom,Elite,1580
+2511,United Kingdom,Middle Class,1840
+2512,United Kingdom,Middle Class,1740
+2513,United Kingdom,Elite,1680
+2514,United Kingdom,Middle Class,1840
+2515,United Kingdom,Middle Class,1860
+2516,United Kingdom,Middle Class,1860
+2517,United Kingdom,Middle Class,1860
+2518,United Kingdom,Middle Class,1810
+2519,United Kingdom,Elite,1720
+2520,United Kingdom,Middle Class,1590
+2521,United Kingdom,Middle Class,1690
+2522,United Kingdom,Middle Class,1880
+2523,United Kingdom,Middle Class,1880
+2524,United Kingdom,Middle Class,1670
+2525,United Kingdom,Middle Class,1740
+2526,United Kingdom,Elite,1800
+2527,United Kingdom,Middle Class,1840
+2528,United Kingdom,Middle Class,1770
+2529,United Kingdom,Subsistence,1800
+2530,United Kingdom,Middle Class,1870
+2531,United Kingdom,Middle Class,1880
+2532,United Kingdom,Middle Class,1870
+2533,United Kingdom,Middle Class,1870
+2534,United Kingdom,Middle Class,1810
+2535,United Kingdom,Elite,1660
+2536,United Kingdom,Middle Class,1850
+2537,United Kingdom,Middle Class,1860
+2538,United Kingdom,Middle Class,1790
+2539,United Kingdom,Middle Class,1730
+2540,United Kingdom,Middle Class,1750
+2541,United Kingdom,Middle Class,1800
+2542,United Kingdom,Middle Class,1810
+2543,United Kingdom,Middle Class,1690
+2544,United Kingdom,Middle Class,1870
+2545,United Kingdom,Middle Class,1750
+2546,United Kingdom,Elite,1660
+2547,United Kingdom,Middle Class,1680
+2548,United Kingdom,Middle Class,1610
+2549,United Kingdom,Middle Class,1620
+2550,United Kingdom,Middle Class,1860
+2551,United Kingdom,Middle Class,1840
+2552,United Kingdom,Elite,1850
+2553,United Kingdom,Subsistence,1830
+2554,United Kingdom,Middle Class,1880
+2555,United Kingdom,Subsistence,1860
+2556,United Kingdom,Middle Class,1680
+2557,United Kingdom,Middle Class,1800
+2558,United Kingdom,Middle Class,1860
+2559,United Kingdom,Middle Class,1840
+2560,United Kingdom,Middle Class,1860
+2561,United Kingdom,Middle Class,1770
+2562,United Kingdom,Subsistence,1680
+2563,United Kingdom,Middle Class,1880
+2564,United Kingdom,Middle Class,1840
+2565,United Kingdom,Middle Class,1860
+2566,United Kingdom,Subsistence,1790
+2567,United Kingdom,Middle Class,1670
+2568,United Kingdom,Elite,1720
+2569,United Kingdom,Middle Class,1860
+2570,United Kingdom,Elite,1790
+2571,United Kingdom,Middle Class,1850
+2572,United Kingdom,Elite,1820
+2573,United Kingdom,Middle Class,1780
+2574,United Kingdom,Middle Class,1760
+2575,United Kingdom,Elite,1790
+2576,United Kingdom,Middle Class,1860
+2577,United Kingdom,Middle Class,1780
+2578,United Kingdom,Middle Class,1800
+2579,United Kingdom,Elite,1860
+2580,United Kingdom,Elite,1800
+2581,United Kingdom,Elite,1590
+2582,United Kingdom,Middle Class,1830
+2583,United Kingdom,Middle Class,1880
+2584,United Kingdom,Middle Class,1860
+2585,United Kingdom,Middle Class,1770
+2586,United Kingdom,Middle Class,1570
+2587,United Kingdom,Middle Class,1850
+2588,United Kingdom,Middle Class,1800
+2589,United Kingdom,Middle Class,1840
+2590,United Kingdom,Middle Class,1750
+2591,United Kingdom,Middle Class,1860
+2592,United Kingdom,Middle Class,1880
+2593,United Kingdom,Middle Class,1680
+2594,United Kingdom,Middle Class,1810
+2595,United Kingdom,Middle Class,1670
+2596,United Kingdom,Middle Class,1830
+2597,United Kingdom,Elite,1660
+2598,United Kingdom,Middle Class,1790
+2599,United Kingdom,Elite,1870
+2600,United Kingdom,Middle Class,1870
+2601,United Kingdom,Elite,1880
+2602,United Kingdom,Middle Class,1880
+2603,United Kingdom,Middle Class,1880
+2604,United Kingdom,Middle Class,1790
+2605,United Kingdom,Middle Class,1850
+2606,United Kingdom,Subsistence,1800
+2607,United Kingdom,Middle Class,1600
+2608,United Kingdom,Middle Class,1850
+2609,United Kingdom,Middle Class,1880
+2610,United Kingdom,Middle Class,1830
+2611,United Kingdom,Middle Class,1710
+2612,United Kingdom,Middle Class,1600
+2613,United Kingdom,Middle Class,1780
+2614,United Kingdom,Middle Class,1820
+2615,United Kingdom,Elite,1710
+2616,United Kingdom,Middle Class,1840
+2617,United Kingdom,Middle Class,1850
+2618,United Kingdom,Elite,1800
+2619,United Kingdom,Elite,1750
+2620,United Kingdom,Middle Class,1870
+2621,United Kingdom,Middle Class,1850
+2622,United Kingdom,Middle Class,1840
+2623,United Kingdom,Middle Class,1840
+2624,United Kingdom,Middle Class,1820
+2625,United Kingdom,Middle Class,1770
+2626,United Kingdom,Middle Class,1810
+2627,United Kingdom,Middle Class,1860
+2628,United Kingdom,Middle Class,1650
+2629,United Kingdom,Middle Class,1780
+2630,United Kingdom,Middle Class,1610
+2631,United Kingdom,Middle Class,1820
+2632,United Kingdom,Middle Class,1790
+2633,United Kingdom,Subsistence,1870
+2634,United Kingdom,Elite,1670
+2635,United Kingdom,Middle Class,1750
+2636,United Kingdom,Middle Class,1780
+2637,United Kingdom,Middle Class,1590
+2638,United Kingdom,Elite,1830
+2639,United Kingdom,Middle Class,1760
+2640,United Kingdom,Middle Class,1880
+2641,United Kingdom,Middle Class,1770
+2642,United Kingdom,Middle Class,1820
+2643,United Kingdom,Middle Class,1810
+2644,United Kingdom,Middle Class,1790
+2645,United Kingdom,Elite,1830
+2646,United Kingdom,Middle Class,1850
+2647,United Kingdom,Middle Class,1820
+2648,United Kingdom,Elite,1750
+2649,United Kingdom,Middle Class,1760
+2650,United Kingdom,Middle Class,1670
+2651,United Kingdom,Middle Class,1780
+2652,United Kingdom,Middle Class,1650
+2653,United Kingdom,Middle Class,1760
+2654,United Kingdom,Middle Class,1830
+2655,United Kingdom,Middle Class,1840
+2656,United Kingdom,Middle Class,1840
+2657,United Kingdom,Elite,1670
+2658,United Kingdom,Middle Class,1860
+2659,United Kingdom,Middle Class,1670
+2660,United Kingdom,Elite,1860
+2661,United Kingdom,Middle Class,1810
+2662,United Kingdom,Elite,1830
+2663,United Kingdom,Middle Class,1860
+2664,United Kingdom,Middle Class,1830
+2665,United Kingdom,Middle Class,1760
+2666,United Kingdom,Elite,1850
+2667,United Kingdom,Middle Class,1860
+2668,United Kingdom,Elite,1680
+2669,United Kingdom,Middle Class,1850
+2670,United Kingdom,Middle Class,1850
+2671,United Kingdom,Middle Class,1620
+2672,United Kingdom,Middle Class,1830
+2673,United Kingdom,Middle Class,1850
+2674,United Kingdom,Middle Class,1870
+2675,United Kingdom,Middle Class,1760
+2676,United Kingdom,Subsistence,1800
+2677,United Kingdom,Middle Class,1880
+2678,United Kingdom,Middle Class,1660
+2679,United Kingdom,Middle Class,1870
+2680,United Kingdom,Middle Class,1810
+2681,United Kingdom,Elite,1820
+2682,United Kingdom,Middle Class,1720
+2683,United Kingdom,Middle Class,1830
+2684,United Kingdom,Elite,1780
+2685,United Kingdom,Middle Class,1860
+2686,United Kingdom,Middle Class,1880
+2687,United Kingdom,Elite,1840
+2688,United Kingdom,Elite,1880
+2689,United Kingdom,Middle Class,1800
+2690,United Kingdom,Middle Class,1860
+2691,United Kingdom,Middle Class,1870
+2692,United Kingdom,Middle Class,1720
+2693,United Kingdom,Middle Class,1770
+2694,United Kingdom,Elite,1760
+2695,United Kingdom,Middle Class,1870
+2696,United Kingdom,Middle Class,1590
+2697,United Kingdom,Elite,1620
+2698,United Kingdom,Middle Class,1780
+2699,United Kingdom,Elite,1750
+2700,United Kingdom,Middle Class,1630
+2701,United Kingdom,Elite,1660
+2702,United Kingdom,Middle Class,1610
+2703,United Kingdom,Middle Class,1720
+2704,United Kingdom,Middle Class,1800
+2705,United Kingdom,Elite,1840
+2706,United Kingdom,Middle Class,1780
+2707,United Kingdom,Elite,1830
+2708,United Kingdom,Middle Class,1840
+2709,United Kingdom,Middle Class,1810
+2710,United Kingdom,Middle Class,1700
+2711,United Kingdom,Elite,1840
+2712,United Kingdom,Middle Class,1810
+2713,United Kingdom,Middle Class,1880
+2714,United Kingdom,Middle Class,1820
+2715,United Kingdom,Middle Class,1860
+2716,United Kingdom,Middle Class,1880
+2717,United Kingdom,Middle Class,1650
+2718,United Kingdom,Middle Class,1810
+2719,United Kingdom,Middle Class,1670
+2720,United Kingdom,Elite,1840
+2721,United Kingdom,Middle Class,1740
+2722,United Kingdom,Middle Class,1760
+2723,United Kingdom,Subsistence,1860
+2724,United Kingdom,Elite,1750
+2725,United Kingdom,Middle Class,1790
+2726,United Kingdom,Middle Class,1850
+2727,United Kingdom,Middle Class,1830
+2728,United Kingdom,Middle Class,1860
+2729,United Kingdom,Elite,1760
+2730,United Kingdom,Elite,1760
+2731,United Kingdom,Middle Class,1850
+2732,United Kingdom,Middle Class,1850
+2733,United Kingdom,Middle Class,1700
+2734,United Kingdom,Middle Class,1660
+2735,United Kingdom,Middle Class,1790
+2736,United Kingdom,Middle Class,1850
+2737,United Kingdom,Middle Class,1800
+2738,United Kingdom,Middle Class,1790
+2739,United Kingdom,Middle Class,1680
+2740,United Kingdom,Middle Class,1820
+2741,United Kingdom,Middle Class,1650
+2742,United Kingdom,Middle Class,1610
+2743,United Kingdom,Middle Class,1580
+2744,United Kingdom,Middle Class,1620
+2745,United Kingdom,Elite,1710
+2746,United Kingdom,Middle Class,1800
+2747,United Kingdom,Middle Class,1730
+2748,United Kingdom,Middle Class,1820
+2749,United Kingdom,Middle Class,1610
+2750,United Kingdom,Elite,1870
+2751,United Kingdom,Middle Class,1870
+2752,United Kingdom,Middle Class,1770
+2753,United Kingdom,Middle Class,1760
+2754,United Kingdom,Middle Class,1780
+2755,United Kingdom,Middle Class,1870
+2756,United Kingdom,Elite,1800
+2757,United Kingdom,Middle Class,1750
+2758,United Kingdom,Middle Class,1790
+2759,United Kingdom,Middle Class,1880
+2760,United Kingdom,Middle Class,1680
+2761,United Kingdom,Middle Class,1850
+2762,United Kingdom,Middle Class,1800
+2763,United Kingdom,Elite,1780
+2764,United Kingdom,Middle Class,1820
+2765,United Kingdom,Middle Class,1770
+2766,United Kingdom,Middle Class,1800
+2767,United Kingdom,Middle Class,1840
+2768,United Kingdom,Middle Class,1670
+2769,United Kingdom,Middle Class,1640
+2770,United Kingdom,Elite,1620
+2771,United Kingdom,Middle Class,1810
+2772,United Kingdom,Middle Class,1750
+2773,United Kingdom,Elite,1540
+2774,United Kingdom,Middle Class,1730
+2775,United Kingdom,Middle Class,1810
+2776,United Kingdom,Middle Class,1600
+2777,United Kingdom,Middle Class,1800
+2778,United Kingdom,Elite,1870
+2779,United Kingdom,Middle Class,1750
+2780,United Kingdom,Elite,1770
+2781,United Kingdom,Middle Class,1840
+2782,United Kingdom,Middle Class,1770
+2783,United Kingdom,Middle Class,1830
+2784,United Kingdom,Middle Class,1750
+2785,United Kingdom,Middle Class,1780
+2786,United Kingdom,Middle Class,1810
+2787,United Kingdom,Middle Class,1740
+2788,United Kingdom,Middle Class,1660
+2789,United Kingdom,Middle Class,1820
+2790,United Kingdom,Middle Class,1720
+2791,United Kingdom,Elite,1630
+2792,United Kingdom,Middle Class,1580
+2793,United Kingdom,Middle Class,1870
+2794,United Kingdom,Subsistence,1840
+2795,United Kingdom,Middle Class,1850
+2796,United Kingdom,Elite,1840
+2797,United Kingdom,Middle Class,1790
+2798,United Kingdom,Middle Class,1690
+2799,United Kingdom,Middle Class,1550
+2800,United Kingdom,Middle Class,1760
+2801,United Kingdom,Middle Class,1800
+2802,United Kingdom,Middle Class,1860
+2803,United Kingdom,Middle Class,1880
+2804,United Kingdom,Middle Class,1860
+2805,United Kingdom,Middle Class,1820
+2806,United Kingdom,Middle Class,1880
+2807,United Kingdom,Elite,1840
+2808,United Kingdom,Middle Class,1750
+2809,United Kingdom,Middle Class,1800
+2810,United Kingdom,Middle Class,1720
+2811,United Kingdom,Middle Class,1860
+2812,United Kingdom,Middle Class,1700
+2813,United Kingdom,Middle Class,1870
+2814,United Kingdom,Middle Class,1860
+2815,United Kingdom,Middle Class,1880
+2816,United Kingdom,Middle Class,1830
+2817,United Kingdom,Middle Class,1790
+2818,United Kingdom,Middle Class,1820
+2819,United Kingdom,Middle Class,1860
+2820,United Kingdom,Middle Class,1630
+2821,United Kingdom,Elite,1880
+2822,United Kingdom,Middle Class,1860
+2823,United Kingdom,Middle Class,1870
+2824,United Kingdom,Middle Class,1610
+2825,United Kingdom,Middle Class,1830
+2826,United Kingdom,Middle Class,1790
+2827,United Kingdom,Middle Class,1700
+2828,United Kingdom,Middle Class,1650
+2829,United Kingdom,Middle Class,1860
+2830,United Kingdom,Middle Class,1820
+2831,United Kingdom,Middle Class,1850
+2832,United Kingdom,Middle Class,1850
+2833,United Kingdom,Middle Class,1840
+2834,United Kingdom,Middle Class,1840
+2835,United Kingdom,Middle Class,1750
+2836,United Kingdom,Subsistence,1820
+2837,United Kingdom,Middle Class,1650
+2838,United Kingdom,Middle Class,1780
+2839,United Kingdom,Middle Class,1860
+2840,United Kingdom,Elite,1620
+2841,United Kingdom,Middle Class,1600
+2842,United Kingdom,Middle Class,1760
+2843,United Kingdom,Elite,1710
+2844,United Kingdom,Middle Class,1830
+2845,United Kingdom,Middle Class,1860
+2846,United Kingdom,Elite,1820
+2847,United Kingdom,Middle Class,1840
+2848,United Kingdom,Middle Class,1710
+2849,United Kingdom,Middle Class,1840
+2850,United Kingdom,Middle Class,1880
+2851,United Kingdom,Elite,1740
+2852,United Kingdom,Middle Class,1700
+2853,United Kingdom,Elite,1620
+2854,United Kingdom,Elite,1560
+2855,United Kingdom,Middle Class,1770
+2856,United Kingdom,Middle Class,1800
+2857,United Kingdom,Middle Class,1850
+2858,United Kingdom,Middle Class,1870
+2859,United Kingdom,Middle Class,1840
+2860,United Kingdom,Elite,1870
+2861,United Kingdom,Middle Class,1830
+2862,United Kingdom,Elite,1860
+2863,United Kingdom,Elite,1650
+2864,United Kingdom,Middle Class,1780
+2865,United Kingdom,Middle Class,1720
+2866,United Kingdom,Elite,1770
+2867,United Kingdom,Elite,1780
+2868,United Kingdom,Middle Class,1600
+2869,United Kingdom,Middle Class,1810
+2870,United Kingdom,Middle Class,1830
+2871,United Kingdom,Subsistence,1700
+2872,United Kingdom,Elite,1870
+2873,United Kingdom,Elite,1660
+2874,United Kingdom,Middle Class,1850
+2875,United Kingdom,Middle Class,1790
+2876,United Kingdom,Middle Class,1870
+2877,United Kingdom,Elite,1740
+2878,United Kingdom,Middle Class,1590
+2879,United Kingdom,Middle Class,1660
+2880,United Kingdom,Middle Class,1870
+2881,United Kingdom,Middle Class,1870
+2882,United Kingdom,Elite,1790
+2883,United Kingdom,Elite,1880
+2884,United Kingdom,Middle Class,1630
+2885,United Kingdom,Elite,1880
+2886,United Kingdom,Elite,1830
+2887,United Kingdom,Middle Class,1700
+2888,United Kingdom,Middle Class,1770
+2889,United Kingdom,Elite,1660
+2890,United Kingdom,Middle Class,1590
+2891,United Kingdom,Elite,1620
+2892,United Kingdom,Subsistence,1800
+2893,United Kingdom,Subsistence,1740
+2894,United Kingdom,Elite,1660
+2895,United Kingdom,Middle Class,1790
+2896,United Kingdom,Middle Class,1620
+2897,United Kingdom,Middle Class,1850
+2898,United Kingdom,Middle Class,1840
+2899,United Kingdom,Middle Class,1770
+2900,United Kingdom,Middle Class,1800
+2901,United Kingdom,Middle Class,1810
+2902,United Kingdom,Middle Class,1870
+2903,United Kingdom,Middle Class,1860
+2904,United Kingdom,Middle Class,1860
+2905,United Kingdom,Middle Class,1820
+2906,United Kingdom,Elite,1760
+2907,United Kingdom,Middle Class,1870
+2908,United Kingdom,Elite,1850
+2909,United Kingdom,Middle Class,1740
+2910,United Kingdom,Middle Class,1880
+2911,United Kingdom,Middle Class,1880
+2912,United Kingdom,Middle Class,1800
+2913,United Kingdom,Middle Class,1850
+2914,United Kingdom,Middle Class,1770
+2915,United Kingdom,Middle Class,1830
+2916,United Kingdom,Elite,1800
+2917,United Kingdom,Middle Class,1880
+2918,United Kingdom,Middle Class,1870
+2919,United Kingdom,Middle Class,1790
+2920,United Kingdom,Elite,1830
+2921,United Kingdom,Middle Class,1850
+2922,United Kingdom,Middle Class,1820
+2923,United Kingdom,Elite,1880
+2924,United Kingdom,Elite,1690
+2925,United Kingdom,Elite,1880
+2926,United Kingdom,Elite,1880
+2927,United Kingdom,Middle Class,1760
+2928,United Kingdom,Elite,1660
+2929,United Kingdom,Middle Class,1760
+2930,United Kingdom,Middle Class,1650
+2931,United Kingdom,Middle Class,1870
+2932,United Kingdom,Middle Class,1780
+2933,United Kingdom,Middle Class,1680
+2934,United Kingdom,Middle Class,1780
+2935,United Kingdom,Middle Class,1760
+2936,United Kingdom,Middle Class,1850
+2937,United Kingdom,Middle Class,1780
+2938,United Kingdom,Middle Class,1810
+2939,United Kingdom,Elite,1680
+2940,United Kingdom,Middle Class,1820
+2941,United Kingdom,Middle Class,1880
+2942,United Kingdom,Middle Class,1830
+2943,United Kingdom,Middle Class,1860
+2944,United Kingdom,Elite,1800
+2945,United Kingdom,Middle Class,1880
+2946,United Kingdom,Middle Class,1880
+2947,United Kingdom,Elite,1830
+2948,United Kingdom,Middle Class,1810
+2949,United Kingdom,Middle Class,1590
+2950,United Kingdom,Middle Class,1720
+2951,United Kingdom,Subsistence,1580
+2952,United Kingdom,Middle Class,1610
+2953,United Kingdom,Middle Class,1760
+2954,United Kingdom,Middle Class,1660
+2955,United Kingdom,Middle Class,1790
+2956,United Kingdom,Elite,1810
+2957,United Kingdom,Middle Class,1700
+2958,United Kingdom,Middle Class,1700
+2959,United Kingdom,Middle Class,1600
+2960,United Kingdom,Middle Class,1860
+2961,United Kingdom,Middle Class,1860
+2962,United Kingdom,Middle Class,1870
+2963,United Kingdom,Middle Class,1880
+2964,United Kingdom,Middle Class,1830
+2965,United Kingdom,Middle Class,1860
+2966,United Kingdom,Elite,1770
+2967,United Kingdom,Elite,1860
+2968,United Kingdom,Middle Class,1770
+2969,United Kingdom,Middle Class,1750
+2970,United Kingdom,Middle Class,1700
+2971,United Kingdom,Middle Class,1830
+2972,United Kingdom,Elite,1550
+2973,United Kingdom,Middle Class,1700
+2974,United Kingdom,Middle Class,1810
+2975,United Kingdom,Elite,1600
+2976,United Kingdom,Elite,1880
+2977,United Kingdom,Middle Class,1830
+2978,United Kingdom,Middle Class,1860
+2979,United Kingdom,Middle Class,1620
+2980,United Kingdom,Middle Class,1800
+2981,United Kingdom,Middle Class,1820
+2982,United Kingdom,Elite,1870
+2983,United Kingdom,Middle Class,1830
+2984,United Kingdom,Middle Class,1880
+2985,United Kingdom,Middle Class,1740
+2986,United Kingdom,Middle Class,1700
+2987,United Kingdom,Middle Class,1620
+2988,United Kingdom,Middle Class,1830
+2989,United Kingdom,Subsistence,1770
+2990,United Kingdom,Middle Class,1870
+2991,United Kingdom,Subsistence,1790
+2992,United Kingdom,Middle Class,1710
+2993,United Kingdom,Middle Class,1550
+2994,United Kingdom,Middle Class,1650
+2995,United Kingdom,Middle Class,1710
+2996,United Kingdom,Middle Class,1650
+2997,United Kingdom,Middle Class,1760
+2998,United Kingdom,Middle Class,1870
+2999,United Kingdom,Middle Class,1820
+3000,United Kingdom,Subsistence,1850
+3001,United Kingdom,Middle Class,1800
+3002,United Kingdom,Middle Class,1850
+3003,United Kingdom,Middle Class,1740
+3004,United Kingdom,Middle Class,1780
+3005,United Kingdom,Middle Class,1810
+3006,United Kingdom,Middle Class,1810
+3007,United Kingdom,Middle Class,1770
+3008,United Kingdom,Middle Class,1860
+3009,United Kingdom,Middle Class,1810
+3010,United Kingdom,Middle Class,1780
+3011,United Kingdom,Middle Class,1700
+3012,United Kingdom,Middle Class,1800
+3013,United Kingdom,Middle Class,1790
+3014,United Kingdom,Middle Class,1780
+3015,United Kingdom,Middle Class,1780
+3016,United Kingdom,Middle Class,1850
+3017,United Kingdom,Elite,1830
+3018,United Kingdom,Middle Class,1630
+3019,United Kingdom,Middle Class,1880
+3020,United Kingdom,Middle Class,1850
+3021,United Kingdom,Elite,1880
+3022,United Kingdom,Middle Class,1840
+3023,United Kingdom,Middle Class,1670
+3024,United Kingdom,Middle Class,1870
+3025,United Kingdom,Middle Class,1860
+3026,United Kingdom,Middle Class,1840
+3027,United Kingdom,Middle Class,1840
+3028,United Kingdom,Middle Class,1590
+3029,United Kingdom,Middle Class,1780
+3030,United Kingdom,Elite,1660
+3031,United Kingdom,Middle Class,1760
+3032,United Kingdom,Middle Class,1840
+3033,United Kingdom,Middle Class,1870
+3034,United Kingdom,Middle Class,1590
+3035,United Kingdom,Middle Class,1700
+3036,United Kingdom,Middle Class,1590
+3037,United Kingdom,Elite,1840
+3038,United Kingdom,Elite,1760
+3039,United Kingdom,Middle Class,1860
+3040,United Kingdom,Middle Class,1870
+3041,United Kingdom,Middle Class,1730
+3042,United Kingdom,Middle Class,1870
+3043,United Kingdom,Middle Class,1790
+3044,United Kingdom,Middle Class,1880
+3045,United Kingdom,Middle Class,1730
+3046,United Kingdom,Elite,1780
+3047,United Kingdom,Middle Class,1590
+3048,United Kingdom,Elite,1590
+3049,United Kingdom,Middle Class,1840
+3050,United Kingdom,Middle Class,1710
+3051,United Kingdom,Middle Class,1760
+3052,United Kingdom,Middle Class,1880
+3053,United Kingdom,Elite,1780
+3054,United Kingdom,Middle Class,1600
+3055,United Kingdom,Middle Class,1840
+3056,United Kingdom,Elite,1680
+3057,United Kingdom,Middle Class,1590
+3058,United Kingdom,Elite,1660
+3059,United Kingdom,Middle Class,1830
+3060,United Kingdom,Middle Class,1880
+3061,United Kingdom,Middle Class,1840
+3062,United Kingdom,Middle Class,1880
+3063,United Kingdom,Middle Class,1850
+3064,United Kingdom,Middle Class,1720
+3065,United Kingdom,Middle Class,1840
+3066,United Kingdom,Middle Class,1640
+3067,United Kingdom,Middle Class,1810
+3068,United Kingdom,Middle Class,1850
+3069,United Kingdom,Middle Class,1610
+3070,United Kingdom,Middle Class,1640
+3071,United Kingdom,Middle Class,1770
+3072,United Kingdom,Middle Class,1720
+3073,United Kingdom,Elite,1660
+3074,United Kingdom,Middle Class,1810
+3075,United Kingdom,Middle Class,1700
+3076,United Kingdom,Middle Class,1660
+3077,United Kingdom,Middle Class,1880
+3078,United Kingdom,Elite,1610
+3079,United Kingdom,Middle Class,1880
+3080,United Kingdom,Middle Class,1850
+3081,United Kingdom,Middle Class,1660
+3082,United Kingdom,Middle Class,1760
+3083,United Kingdom,Middle Class,1810
+3084,United Kingdom,Middle Class,1800
+3085,United Kingdom,Middle Class,1820
+3086,United Kingdom,Middle Class,1600
+3087,United Kingdom,Middle Class,1810
+3088,United Kingdom,Middle Class,1830
+3089,United Kingdom,Middle Class,1860
+3090,United Kingdom,Middle Class,1790
+3091,United Kingdom,Elite,1640
+3092,United Kingdom,Middle Class,1880
+3093,United Kingdom,Middle Class,1820
+3094,United Kingdom,Middle Class,1740
+3095,United Kingdom,Middle Class,1760
+3096,United Kingdom,Middle Class,1780
+3097,United Kingdom,Middle Class,1880
+3098,United Kingdom,Middle Class,1740
+3099,United Kingdom,Middle Class,1800
+3100,United Kingdom,Middle Class,1750
+3101,United Kingdom,Middle Class,1860
+3102,United Kingdom,Middle Class,1870
+3103,United Kingdom,Elite,1860
+3104,United Kingdom,Middle Class,1830
+3105,United Kingdom,Elite,1830
+3106,United Kingdom,Middle Class,1790
+3107,United Kingdom,Elite,1740
+3108,United Kingdom,Middle Class,1860
+3109,United Kingdom,Middle Class,1670
+3110,United Kingdom,Elite,1600
+3111,United Kingdom,Middle Class,1790
+3112,United Kingdom,Middle Class,1810
+3113,United Kingdom,Middle Class,1870
+3114,United Kingdom,Middle Class,1750
+3115,United Kingdom,Middle Class,1650
+3116,United Kingdom,Middle Class,1830
+3117,United Kingdom,Elite,1650
+3118,United Kingdom,Middle Class,1830
+3119,United Kingdom,Middle Class,1770
+3120,United Kingdom,Middle Class,1880
+3121,United Kingdom,Middle Class,1850
+3122,United Kingdom,Middle Class,1840
+3123,United Kingdom,Middle Class,1880
+3124,United Kingdom,Middle Class,1820
+3125,United Kingdom,Middle Class,1690
+3126,United Kingdom,Elite,1680
+3127,United Kingdom,Elite,1870
+3128,United Kingdom,Elite,1860
+3129,United Kingdom,Middle Class,1870
+3130,United Kingdom,Middle Class,1850
+3131,United Kingdom,Middle Class,1790
+3132,United Kingdom,Middle Class,1800
+3133,United Kingdom,Middle Class,1850
+3134,United Kingdom,Middle Class,1710
+3135,United Kingdom,Middle Class,1740
+3136,United Kingdom,Middle Class,1730
+3137,United Kingdom,Middle Class,1850
+3138,United Kingdom,Elite,1640
+3139,United Kingdom,Middle Class,1840
+3140,United Kingdom,Middle Class,1620
+3141,United Kingdom,Middle Class,1800
+3142,United Kingdom,Middle Class,1880
+3143,United Kingdom,Elite,1870
+3144,United Kingdom,Middle Class,1880
+3145,United Kingdom,Middle Class,1760
+3146,United Kingdom,Middle Class,1850
+3147,United Kingdom,Middle Class,1760
+3148,United Kingdom,Middle Class,1720
+3149,United Kingdom,Middle Class,1810
+3150,United Kingdom,Middle Class,1680
+3151,United Kingdom,Elite,1860
+3152,United Kingdom,Middle Class,1820
+3153,United Kingdom,Middle Class,1810
+3154,United Kingdom,Middle Class,1760
+3155,United Kingdom,Middle Class,1830
+3156,United Kingdom,Middle Class,1850
+3157,United Kingdom,Elite,1730
+3158,United Kingdom,Elite,1740
+3159,United Kingdom,Middle Class,1840
+3160,United Kingdom,Middle Class,1830
+3161,United Kingdom,Elite,1650
+3162,United Kingdom,Middle Class,1840
+3163,United Kingdom,Middle Class,1800
+3164,United Kingdom,Elite,1670
+3165,United Kingdom,Middle Class,1840
+3166,United Kingdom,Middle Class,1730
+3167,United Kingdom,Middle Class,1840
+3168,United Kingdom,Middle Class,1860
+3169,United Kingdom,Middle Class,1820
+3170,United Kingdom,Middle Class,1710
+3171,United Kingdom,Middle Class,1840
+3172,United Kingdom,Subsistence,1790
+3173,United Kingdom,Middle Class,1880
+3174,United Kingdom,Middle Class,1790
+3175,United Kingdom,Middle Class,1880
+3176,United Kingdom,Middle Class,1670
+3177,United Kingdom,Middle Class,1650
+3178,United Kingdom,Middle Class,1870
+3179,United Kingdom,Middle Class,1650
+3180,United Kingdom,Middle Class,1650
+3181,United Kingdom,Middle Class,1770
+3182,United Kingdom,Middle Class,1880
+3183,United Kingdom,Middle Class,1830
+3184,United Kingdom,Middle Class,1870
+3185,United Kingdom,Middle Class,1790
+3186,United Kingdom,Elite,1840
+3187,United Kingdom,Middle Class,1870
+3188,United Kingdom,Elite,1830
+3189,United Kingdom,Middle Class,1670
+3190,United Kingdom,Middle Class,1600
+3191,United Kingdom,Middle Class,1800
+3192,United Kingdom,Middle Class,1830
+3193,United Kingdom,Middle Class,1850
+3194,United Kingdom,Middle Class,1800
+3195,United Kingdom,Middle Class,1710
+3196,United Kingdom,Middle Class,1880
+3197,United Kingdom,Elite,1830
+3198,United Kingdom,Middle Class,1870
+3199,United Kingdom,Middle Class,1840
+3200,United Kingdom,Elite,1870
+3201,United Kingdom,Middle Class,1770
+3202,United Kingdom,Middle Class,1640
+3203,United Kingdom,Elite,1860
+3204,United Kingdom,Elite,1620
+3205,United Kingdom,Elite,1760
+3206,United Kingdom,Middle Class,1660
+3207,United Kingdom,Middle Class,1880
+3208,United Kingdom,Middle Class,1760
+3209,United Kingdom,Middle Class,1580
+3210,United Kingdom,Middle Class,1760
+3211,United Kingdom,Middle Class,1680
+3212,United Kingdom,Middle Class,1770
+3213,United Kingdom,Middle Class,1780
+3214,United Kingdom,Middle Class,1540
+3215,United Kingdom,Middle Class,1830
+3216,United Kingdom,Middle Class,1740
+3217,United Kingdom,Middle Class,1880
+3218,United Kingdom,Middle Class,1880
+3219,United Kingdom,Middle Class,1850
+3220,United Kingdom,Middle Class,1880
+3221,United Kingdom,Middle Class,1790
+3222,United Kingdom,Elite,1650
+3223,United Kingdom,Middle Class,1650
+3224,United Kingdom,Middle Class,1770
+3225,United Kingdom,Middle Class,1760
+3226,United Kingdom,Middle Class,1830
+3227,United Kingdom,Middle Class,1880
+3228,United Kingdom,Middle Class,1630
+3229,United Kingdom,Middle Class,1760
+3230,United Kingdom,Middle Class,1840
+3231,United Kingdom,Middle Class,1840
+3232,United Kingdom,Middle Class,1800
+3233,United Kingdom,Middle Class,1860
+3234,United Kingdom,Middle Class,1610
+3235,United Kingdom,Middle Class,1820
+3236,United Kingdom,Middle Class,1880
+3237,United Kingdom,Middle Class,1880
+3238,United Kingdom,Elite,1610
+3239,United Kingdom,Middle Class,1880
+3240,United Kingdom,Elite,1860
+3241,United Kingdom,Middle Class,1620
+3242,United Kingdom,Middle Class,1730
+3243,United Kingdom,Middle Class,1740
+3244,United Kingdom,Elite,1730
+3245,United Kingdom,Middle Class,1880
+3246,United Kingdom,Middle Class,1830
+3247,United Kingdom,Middle Class,1800
+3248,United Kingdom,Middle Class,1870
+3249,United Kingdom,Middle Class,1830
+3250,United Kingdom,Subsistence,1740
+3251,United Kingdom,Middle Class,1800
+3252,United Kingdom,Middle Class,1880
+3253,United Kingdom,Middle Class,1840
+3254,United Kingdom,Middle Class,1750
+3255,United Kingdom,Middle Class,1760
+3256,United Kingdom,Middle Class,1820
+3257,United Kingdom,Middle Class,1780
+3258,United Kingdom,Middle Class,1790
+3259,United Kingdom,Middle Class,1840
+3260,United Kingdom,Middle Class,1630
+3261,United Kingdom,Elite,1590
+3262,United Kingdom,Middle Class,1820
+3263,United Kingdom,Middle Class,1780
+3264,United Kingdom,Elite,1870
+3265,United Kingdom,Middle Class,1590
+3266,United Kingdom,Middle Class,1820
+3267,United Kingdom,Middle Class,1850
+3268,United Kingdom,Elite,1840
+3269,United Kingdom,Elite,1790
+3270,United Kingdom,Middle Class,1870
+3271,United Kingdom,Middle Class,1840
+3272,United Kingdom,Middle Class,1810
+3273,United Kingdom,Middle Class,1850
+3274,United Kingdom,Middle Class,1860
+3275,United Kingdom,Elite,1790
+3276,United Kingdom,Middle Class,1710
+3277,United Kingdom,Middle Class,1860
+3278,United Kingdom,Middle Class,1870
+3279,United Kingdom,Middle Class,1860
+3280,United Kingdom,Middle Class,1770
+3281,United Kingdom,Middle Class,1820
+3282,United Kingdom,Elite,1630
+3283,United Kingdom,Middle Class,1810
+3284,United Kingdom,Middle Class,1780
+3285,United Kingdom,Middle Class,1860
+3286,United Kingdom,Middle Class,1800
+3287,United Kingdom,Middle Class,1580
+3288,United Kingdom,Elite,1560
+3289,United Kingdom,Middle Class,1680
+3290,United Kingdom,Elite,1820
+3291,United Kingdom,Elite,1850
+3292,United Kingdom,Middle Class,1860
+3293,United Kingdom,Middle Class,1860
+3294,United Kingdom,Middle Class,1870
+3295,United Kingdom,Middle Class,1820
+3296,United Kingdom,Middle Class,1760
+3297,United Kingdom,Middle Class,1670
+3298,United Kingdom,Middle Class,1720
+3299,United Kingdom,Middle Class,1860
+3300,United Kingdom,Middle Class,1840
+3301,United Kingdom,Middle Class,1850
+3302,United Kingdom,Middle Class,1790
+3303,United Kingdom,Middle Class,1810
+3304,United Kingdom,Middle Class,1790
+3305,United Kingdom,Middle Class,1630
+3306,United Kingdom,Middle Class,1870
+3307,United Kingdom,Middle Class,1790
+3308,United Kingdom,Middle Class,1760
+3309,United Kingdom,Elite,1810
+3310,United Kingdom,Middle Class,1860
+3311,United Kingdom,Middle Class,1770
+3312,United Kingdom,Middle Class,1690
+3313,United Kingdom,Middle Class,1840
+3314,United Kingdom,Middle Class,1730
+3315,United Kingdom,Middle Class,1840
+3316,United Kingdom,Middle Class,1850
+3317,United Kingdom,Middle Class,1840
+3318,United Kingdom,Middle Class,1780
+3319,United Kingdom,Middle Class,1830
+3320,United Kingdom,Elite,1760
+3321,United Kingdom,Middle Class,1700
+3322,United Kingdom,Middle Class,1840
+3323,United Kingdom,Middle Class,1840
+3324,United Kingdom,Elite,1860
+3325,United Kingdom,Middle Class,1790
+3326,United Kingdom,Middle Class,1800
+3327,United Kingdom,Middle Class,1840
+3328,United Kingdom,Middle Class,1880
+3329,United Kingdom,Middle Class,1730
+3330,United Kingdom,Middle Class,1850
+3331,United Kingdom,Middle Class,1850
+3332,United Kingdom,Middle Class,1840
+3333,United Kingdom,Middle Class,1690
+3334,United Kingdom,Middle Class,1790
+3335,United Kingdom,Middle Class,1800
+3336,United Kingdom,Elite,1870
+3337,United Kingdom,Middle Class,1630
+3338,United Kingdom,Middle Class,1780
+3339,United Kingdom,Middle Class,1790
+3340,United Kingdom,Middle Class,1740
+3341,United Kingdom,Middle Class,1880
+3342,United Kingdom,Middle Class,1760
+3343,United Kingdom,Middle Class,1870
+3344,United Kingdom,Middle Class,1780
+3345,United Kingdom,Middle Class,1880
+3346,United Kingdom,Middle Class,1880
+3347,United Kingdom,Middle Class,1870
+3348,United Kingdom,Elite,1600
+3349,United Kingdom,Middle Class,1880
+3350,United Kingdom,Middle Class,1880
+3351,United Kingdom,Middle Class,1870
+3352,United Kingdom,Elite,1850
+3353,United Kingdom,Middle Class,1680
+3354,United Kingdom,Middle Class,1720
+3355,United Kingdom,Middle Class,1820
+3356,United Kingdom,Middle Class,1860
+3357,United Kingdom,Middle Class,1720
+3358,United Kingdom,Middle Class,1880
+3359,United Kingdom,Middle Class,1750
+3360,United Kingdom,Middle Class,1830
+3361,United Kingdom,Middle Class,1700
+3362,United Kingdom,Middle Class,1590
+3363,United Kingdom,Middle Class,1650
+3364,United Kingdom,Elite,1660
+3365,United Kingdom,Middle Class,1800
+3366,United Kingdom,Middle Class,1870
+3367,United Kingdom,Elite,1570
+3368,United Kingdom,Middle Class,1780
+3369,United Kingdom,Middle Class,1840
+3370,United Kingdom,Middle Class,1880
+3371,United Kingdom,Middle Class,1810
+3372,United Kingdom,Elite,1870
+3373,United Kingdom,Middle Class,1810
+3374,United Kingdom,Middle Class,1800
+3375,United Kingdom,Middle Class,1880
+3376,United Kingdom,Middle Class,1650
+3377,United Kingdom,Middle Class,1850
+3378,United Kingdom,Elite,1860
+3379,United Kingdom,Middle Class,1610
+3380,United Kingdom,Middle Class,1780
+3381,United Kingdom,Middle Class,1860
+3382,United Kingdom,Middle Class,1880
+3383,United Kingdom,Middle Class,1820
+3384,United Kingdom,Elite,1850
+3385,United Kingdom,Middle Class,1670
+3386,United Kingdom,Middle Class,1600
+3387,United Kingdom,Middle Class,1820
+3388,United Kingdom,Elite,1660
+3389,United Kingdom,Middle Class,1770
+3390,United Kingdom,Middle Class,1860
+3391,United Kingdom,Elite,1830
+3392,United Kingdom,Subsistence,1820
+3393,United Kingdom,Middle Class,1590
+3394,United Kingdom,Middle Class,1860
+3395,United Kingdom,Elite,1880
+3396,United Kingdom,Middle Class,1660
+3397,United Kingdom,Middle Class,1860
+3398,United Kingdom,Middle Class,1860
+3399,United Kingdom,Middle Class,1800
+3400,United Kingdom,Middle Class,1780
+3401,United Kingdom,Middle Class,1870
+3402,United Kingdom,Middle Class,1830
+3403,United Kingdom,Middle Class,1800
+3404,United Kingdom,Middle Class,1620
+3405,United Kingdom,Elite,1580
+3406,United Kingdom,Middle Class,1780
+3407,United Kingdom,Middle Class,1700
+3408,United Kingdom,Elite,1760
+3409,United Kingdom,Elite,1620
+3410,United Kingdom,Middle Class,1830
+3411,United Kingdom,Middle Class,1880
+3412,United Kingdom,Middle Class,1800
+3413,United Kingdom,Middle Class,1680
+3414,United Kingdom,Middle Class,1600
+3415,United Kingdom,Middle Class,1540
+3416,United Kingdom,Middle Class,1860
+3417,United Kingdom,Middle Class,1880
+3418,United Kingdom,Middle Class,1860
+3419,United Kingdom,Middle Class,1870
+3420,United Kingdom,Middle Class,1870
+3421,United Kingdom,Middle Class,1810
+3422,United Kingdom,Subsistence,1850
+3423,United Kingdom,Middle Class,1860
+3424,United Kingdom,Middle Class,1830
+3425,United Kingdom,Middle Class,1860
+3426,United Kingdom,Middle Class,1680
+3427,United Kingdom,Middle Class,1830
+3428,United Kingdom,Middle Class,1840
+3429,United Kingdom,Middle Class,1650
+3430,United Kingdom,Elite,1780
+3431,United Kingdom,Middle Class,1790
+3432,United Kingdom,Middle Class,1810
+3433,United Kingdom,Elite,1840
+3434,United Kingdom,Middle Class,1880
+3435,United Kingdom,Middle Class,1850
+3436,United Kingdom,Middle Class,1800
+3437,United Kingdom,Middle Class,1830
+3438,United Kingdom,Elite,1850
+3439,United Kingdom,Middle Class,1870
+3440,United Kingdom,Elite,1610
+3441,United Kingdom,Middle Class,1720
+3442,United Kingdom,Middle Class,1620
+3443,United Kingdom,Subsistence,1770
+3444,United Kingdom,Middle Class,1880
+3445,United Kingdom,Middle Class,1820
+3446,United Kingdom,Middle Class,1710
+3447,United Kingdom,Middle Class,1720
+3448,United Kingdom,Middle Class,1820
+3449,United Kingdom,Middle Class,1780
+3450,United Kingdom,Middle Class,1840
+3451,United Kingdom,Middle Class,1790
+3452,United Kingdom,Elite,1770
+3453,United Kingdom,Middle Class,1880
+3454,United Kingdom,Middle Class,1770
+3455,United Kingdom,Middle Class,1840
+3456,United Kingdom,Middle Class,1820
+3457,United Kingdom,Middle Class,1870
+3458,United Kingdom,Elite,1810
+3459,United Kingdom,Middle Class,1740
+3460,United Kingdom,Middle Class,1870
+3461,United Kingdom,Middle Class,1650
+3462,United Kingdom,Middle Class,1540
+3463,United Kingdom,Middle Class,1790
+3464,United Kingdom,Middle Class,1820
+3465,United Kingdom,Middle Class,1840
+3466,United Kingdom,Middle Class,1750
+3467,United Kingdom,Middle Class,1750
+3468,United Kingdom,Middle Class,1880
+3469,United Kingdom,Middle Class,1870
+3470,United Kingdom,Middle Class,1770
+3471,United Kingdom,Middle Class,1880
+3472,United Kingdom,Middle Class,1780
+3473,United Kingdom,Middle Class,1840
+3474,United Kingdom,Middle Class,1850
+3475,United Kingdom,Middle Class,1790
+3476,United Kingdom,Middle Class,1700
+3477,United Kingdom,Elite,1820
+3478,United Kingdom,Elite,1690
+3479,United Kingdom,Elite,1880
+3480,United Kingdom,Middle Class,1580
+3481,United Kingdom,Middle Class,1820
+3482,United Kingdom,Middle Class,1880
+3483,United Kingdom,Elite,1650
+3484,United Kingdom,Middle Class,1870
+3485,United Kingdom,Middle Class,1760
+3486,United Kingdom,Middle Class,1620
+3487,United Kingdom,Middle Class,1610
+3488,United Kingdom,Middle Class,1870
+3489,United Kingdom,Middle Class,1780
+3490,United Kingdom,Middle Class,1780
+3491,United Kingdom,Elite,1780
+3492,United Kingdom,Middle Class,1830
+3493,United Kingdom,Middle Class,1840
+3494,United Kingdom,Middle Class,1820
+3495,United Kingdom,Middle Class,1860
+3496,United Kingdom,Middle Class,1700
+3497,United Kingdom,Middle Class,1810
+3498,United Kingdom,Middle Class,1880
+3499,United Kingdom,Middle Class,1640
+3500,United Kingdom,Elite,1600
+3501,United Kingdom,Middle Class,1810
+3502,United Kingdom,Middle Class,1810
+3503,United Kingdom,Middle Class,1880
+3504,United Kingdom,Middle Class,1780
+3505,United Kingdom,Middle Class,1740
+3506,United Kingdom,Middle Class,1830
+3507,United Kingdom,Middle Class,1800
+3508,United Kingdom,Middle Class,1860
+3509,United Kingdom,Middle Class,1820
+3510,United Kingdom,Middle Class,1850
+3511,United Kingdom,Middle Class,1870
+3512,United Kingdom,Elite,1780
+3513,United Kingdom,Middle Class,1870
+3514,United Kingdom,Middle Class,1770
+3515,United Kingdom,Middle Class,1810
+3516,United Kingdom,Middle Class,1570
+3517,United Kingdom,Middle Class,1880
+3518,United Kingdom,Middle Class,1850
+3519,United Kingdom,Middle Class,1820
+3520,United Kingdom,Middle Class,1870
+3521,United Kingdom,Middle Class,1760
+3522,United Kingdom,Subsistence,1790
+3523,United Kingdom,Middle Class,1840
+3524,United Kingdom,Middle Class,1720
+3525,United Kingdom,Middle Class,1840
+3526,United Kingdom,Elite,1880
+3527,United Kingdom,Middle Class,1810
+3528,United Kingdom,Middle Class,1730
+3529,United Kingdom,Elite,1880
+3530,United Kingdom,Elite,1780
+3531,United Kingdom,Middle Class,1860
+3532,United Kingdom,Elite,1840
+3533,United Kingdom,Middle Class,1830
+3534,United Kingdom,Middle Class,1870
+3535,United Kingdom,Subsistence,1830
+3536,United Kingdom,Middle Class,1730
+3537,United Kingdom,Middle Class,1720
+3538,United Kingdom,Middle Class,1830
+3539,United Kingdom,Middle Class,1850
+3540,United Kingdom,Middle Class,1770
+3541,United Kingdom,Middle Class,1860
+3542,United Kingdom,Middle Class,1810
+3543,United Kingdom,Middle Class,1820
+3544,United Kingdom,Middle Class,1790
+3545,United Kingdom,Middle Class,1770
+3546,United Kingdom,Middle Class,1850
+3547,United Kingdom,Elite,1750
+3548,United Kingdom,Elite,1870
+3549,United Kingdom,Elite,1810
+3550,United Kingdom,Middle Class,1640
+3551,United Kingdom,Middle Class,1770
+3552,United Kingdom,Middle Class,1610
+3553,United Kingdom,Middle Class,1710
+3554,United Kingdom,Middle Class,1860
+3555,United Kingdom,Middle Class,1780
+3556,United Kingdom,Middle Class,1760
+3557,United Kingdom,Middle Class,1880
+3558,United Kingdom,Middle Class,1610
+3559,United Kingdom,Elite,1830
+3560,United Kingdom,Middle Class,1750
+3561,United Kingdom,Middle Class,1880
+3562,United Kingdom,Middle Class,1730
+3563,United Kingdom,Middle Class,1720
+3564,United Kingdom,Middle Class,1700
+3565,United Kingdom,Middle Class,1610
+3566,United Kingdom,Middle Class,1790
+3567,United Kingdom,Middle Class,1680
+3568,United Kingdom,Middle Class,1670
+3569,United Kingdom,Middle Class,1820
+3570,United Kingdom,Middle Class,1760
+3571,United Kingdom,Middle Class,1670
+3572,United Kingdom,Subsistence,1800
+3573,United Kingdom,Middle Class,1860
+3574,United Kingdom,Middle Class,1750
+3575,United Kingdom,Middle Class,1820
+3576,United Kingdom,Elite,1770
+3577,United Kingdom,Elite,1850
+3578,United Kingdom,Middle Class,1760
+3579,United Kingdom,Middle Class,1870
+3580,United Kingdom,Middle Class,1850
+3581,United Kingdom,Elite,1840
+3582,United Kingdom,Elite,1660
+3583,United Kingdom,Middle Class,1600
+3584,United Kingdom,Middle Class,1830
+3585,United Kingdom,Middle Class,1680
+3586,United Kingdom,Middle Class,1850
+3587,United Kingdom,Middle Class,1690
+3588,United Kingdom,Middle Class,1870
+3589,United Kingdom,Middle Class,1750
+3590,United Kingdom,Middle Class,1870
+3591,United Kingdom,Middle Class,1830
+3592,United Kingdom,Middle Class,1800
+3593,United Kingdom,Middle Class,1840
+3594,United Kingdom,Elite,1810
+3595,United Kingdom,Middle Class,1610
+3596,United Kingdom,Elite,1650
+3597,United Kingdom,Elite,1850
+3598,United Kingdom,Middle Class,1820
+3599,United Kingdom,Middle Class,1690
+3600,United Kingdom,Middle Class,1870
+3601,United Kingdom,Middle Class,1860
+3602,United Kingdom,Middle Class,1680
+3603,United Kingdom,Middle Class,1800
+3604,United Kingdom,Subsistence,1830
+3605,United Kingdom,Elite,1880
+3606,United Kingdom,Middle Class,1840
+3607,United Kingdom,Middle Class,1840
+3608,United Kingdom,Middle Class,1590
+3609,United Kingdom,Middle Class,1800
+3610,United Kingdom,Middle Class,1700
+3611,United Kingdom,Elite,1880
+3612,United Kingdom,Middle Class,1880
+3613,United Kingdom,Middle Class,1720
+3614,Japan,Elite,1190
+3615,Japan,Middle Class,1790
+3616,Japan,Middle Class,1800
+3617,Japan,Middle Class,1580
+3618,Japan,Middle Class,1810
+3619,Japan,Subsistence,1880
+3620,Japan,Middle Class,1650
+3621,Japan,Middle Class,1870
+3622,Japan,Middle Class,1780
+3623,Japan,Middle Class,1830
+3624,Japan,Elite,1560
+3625,Japan,Elite,1000
+3626,Japan,Middle Class,1640
+3627,Japan,Middle Class,1870
+3628,Japan,Elite,1510
+3629,Japan,Elite,1270
+3630,Japan,Middle Class,1880
+3631,Japan,Elite,1880
+3632,Japan,Elite,1260
+3633,Japan,Middle Class,1390
+3634,Japan,Middle Class,1840
+3635,Japan,Middle Class,1660
+3636,Japan,Elite,1860
+3637,Japan,Middle Class,1820
+3638,Japan,Middle Class,1790
+3639,Japan,Middle Class,1880
+3640,Japan,Middle Class,1660
+3641,Japan,Elite,1310
+3642,Japan,Middle Class,1780
+3643,Japan,Middle Class,1740
+3644,Japan,Elite,1490
+3645,Japan,Middle Class,1830
+3646,Japan,Middle Class,1840
+3647,Japan,Middle Class,1870
+3648,Japan,Middle Class,1880
+3649,Japan,Middle Class,1870
+3650,Japan,Middle Class,1880
+3651,Japan,Middle Class,1880
+3652,Japan,Middle Class,1870
+3653,Japan,Middle Class,1880
+3654,Japan,Middle Class,1820
+3655,Japan,Middle Class,1800
+3656,Japan,Elite,1600
+3657,Japan,Elite,1480
+3658,Japan,Middle Class,1840
+3659,Japan,Middle Class,1870
+3660,Japan,Middle Class,1750
+3661,Japan,Middle Class,1880
+3662,Japan,Middle Class,1880
+3663,Japan,Middle Class,1810
+3664,Japan,Middle Class,1840
+3665,Japan,Middle Class,1880
+3666,Japan,Middle Class,1840
+3667,Japan,Middle Class,1810
+3668,Japan,Elite,1280
+3669,Japan,Elite,1320
+3670,Japan,Middle Class,1860
+3671,Japan,Elite,1280
+3672,Japan,Middle Class,1880
+3673,Japan,Elite,1180
+3674,Japan,Elite,1840
+3675,Japan,Elite,1200
+3676,Japan,Elite,1670
+3677,Japan,Middle Class,1880
+3678,Japan,Elite,1880
+3679,Japan,Elite,1860
+3680,Japan,Elite,1880
+3681,Japan,Middle Class,1740
+3682,Japan,Elite,1190
+3683,Japan,Middle Class,1800
+3684,Japan,Elite,1620
+3685,Japan,Middle Class,1780
+3686,Japan,Middle Class,1870
+3687,Japan,Middle Class,1780
+3688,Japan,Middle Class,1840
+3689,Japan,Middle Class,1730
+3690,Japan,Middle Class,1880
+3691,Japan,Middle Class,1760
+3692,Japan,Middle Class,1830
+3693,Japan,Middle Class,1800
+3694,Japan,Middle Class,1830
+3695,Japan,Middle Class,1830
+3696,Japan,Middle Class,1810
+3697,Japan,Middle Class,1790
+3698,Japan,Middle Class,1840
+3699,Japan,Middle Class,1690
+3700,Japan,Middle Class,1870
+3701,Japan,Middle Class,1850
+3702,Japan,Middle Class,1820
+3703,Japan,Elite,1590
+3704,Japan,Middle Class,1880
+3705,Japan,Middle Class,1820
+3706,Japan,Middle Class,1780
+3707,Japan,Middle Class,1760
+3708,Japan,Elite,1640
+3709,Japan,Middle Class,1750
+3710,Japan,Middle Class,1860
+3711,Japan,Middle Class,1680
+3712,Japan,Elite,1880
+3713,Japan,Middle Class,1800
+3714,Japan,Middle Class,1810
+3715,Japan,Middle Class,1830
+3716,Japan,Middle Class,1780
+3717,Japan,Middle Class,1840
+3718,Japan,Middle Class,1860
+3719,Japan,Middle Class,1670
+3720,Japan,Middle Class,1820
+3721,Japan,Middle Class,1870
+3722,Japan,Middle Class,1800
+3723,Japan,Middle Class,1860
+3724,Japan,Middle Class,1820
+3725,Japan,Middle Class,1880
+3726,Japan,Middle Class,1760
+3727,Japan,Middle Class,1880
+3728,Japan,Middle Class,1740
+3729,Japan,Elite,1750
+3730,Japan,Elite,1780
+3731,Japan,Middle Class,1800
+3732,Japan,Middle Class,1850
+3733,Japan,Middle Class,1880
+3734,Japan,Middle Class,1880
+3735,Japan,Middle Class,1860
+3736,Japan,Middle Class,1880
+3737,Japan,Middle Class,1730
+3738,Japan,Middle Class,1850
+3739,Japan,Middle Class,1730
+3740,Japan,Middle Class,1810
+3741,Japan,Middle Class,1850
+3742,Japan,Elite,1190
+3743,Japan,Elite,1190
+3744,Japan,Middle Class,1810
+3745,Japan,Elite,1570
+3746,Japan,Elite,1310
+3747,Japan,Middle Class,1710
+3748,Japan,Elite,1320
+3749,Japan,Middle Class,1880
+3750,Japan,Middle Class,1780
+3751,Japan,Middle Class,1780
+3752,Japan,Middle Class,1760
+3753,Japan,Middle Class,1840
+3754,Japan,Middle Class,1840
+3755,Japan,Middle Class,1880
+3756,Japan,Middle Class,1460
+3757,Japan,Middle Class,1850
+3758,Japan,Middle Class,1770
+3759,Japan,Middle Class,1800
+3760,Japan,Middle Class,1710
+3761,Japan,Elite,1850
+3762,Japan,Middle Class,1810
+3763,Japan,Middle Class,1850
+3764,Japan,Middle Class,1800
+3765,Japan,Elite,1860
+3766,Japan,Middle Class,1800
+3767,Japan,Middle Class,1860
+3768,Japan,Middle Class,1860
+3769,Japan,Middle Class,1800
+3770,Japan,Middle Class,1840
+3771,Japan,Elite,1870
+3772,Japan,Middle Class,1820
+3773,Japan,Middle Class,1870
+3774,Japan,Middle Class,1780
+3775,Japan,Middle Class,1750
+3776,Japan,Middle Class,1800
+3777,Japan,Middle Class,1840
+3778,Japan,Middle Class,1690
+3779,Japan,Middle Class,1850
+3780,Japan,Middle Class,1830
+3781,Japan,Middle Class,1780
+3782,Japan,Middle Class,1790
+3783,Japan,Middle Class,1710
+3784,Japan,Middle Class,1860
+3785,Japan,Middle Class,1870
+3786,Japan,Middle Class,1830
+3787,Japan,Middle Class,1870
+3788,Japan,Middle Class,1830
+3789,Japan,Middle Class,1870
+3790,Japan,Middle Class,1860
+3791,Japan,Middle Class,1860
+3792,Japan,Middle Class,1840
+3793,Japan,Middle Class,1870
+3794,Japan,Middle Class,1880
+3795,Japan,Middle Class,1880
+3796,Japan,Middle Class,1870
+3797,Japan,Middle Class,1880
+3798,Japan,Middle Class,1830
+3799,Japan,Middle Class,1870
+3800,Japan,Middle Class,1860
+3801,Japan,Middle Class,1860
+3802,Japan,Middle Class,1860
+3803,Japan,Middle Class,1850
+3804,Japan,Middle Class,1870
+3805,Japan,Middle Class,1860
+3806,Japan,Middle Class,1870
+3807,Japan,Middle Class,1860
+3808,Japan,Middle Class,1860
+3809,Japan,Middle Class,1880
+3810,Japan,Middle Class,1880
+3811,Japan,Middle Class,1870
+3812,Japan,Middle Class,1820
+3813,Japan,Elite,1840
+3814,Japan,Middle Class,1780
+3815,Japan,Middle Class,1820
+3816,Japan,Middle Class,1820
+3817,Japan,Elite,1520
+3818,Japan,Middle Class,1670
+3819,Japan,Middle Class,1810
+3820,Japan,Middle Class,1790
+3821,Japan,Middle Class,1770
+3822,Japan,Middle Class,1760
+3823,Japan,Elite,1680
+3824,Japan,Elite,1160
+3825,Japan,Elite,1730
+3826,Japan,Middle Class,1820
+3827,Japan,Middle Class,1810
+3828,Japan,Middle Class,1800
+3829,Japan,Middle Class,1720
+3830,Japan,Middle Class,1780
+3831,Japan,Elite,1070
+3832,Japan,Middle Class,1750
+3833,Japan,Middle Class,1790
+3834,Japan,Middle Class,1720
+3835,Japan,Middle Class,1750
+3836,Japan,Middle Class,1790
+3837,Japan,Middle Class,1840
+3838,Japan,Middle Class,1830
+3839,Japan,Middle Class,1870
+3840,Japan,Middle Class,1810
+3841,Japan,Middle Class,1880
+3842,Japan,Middle Class,1850
+3843,Japan,Middle Class,1880
+3844,Japan,Elite,1590
+3845,Japan,Middle Class,1790
+3846,Japan,Middle Class,1820
+3847,Japan,Middle Class,1810
+3848,Japan,Elite,1850
+3849,Japan,Middle Class,1620
+3850,Japan,Elite,1670
+3851,Japan,Elite,1620
+3852,Japan,Elite,1610
+3853,Japan,Middle Class,1830
+3854,Japan,Middle Class,1730
+3855,Japan,Middle Class,1700
+3856,Japan,Middle Class,1880
+3857,Japan,Elite,1670
+3858,Japan,Middle Class,1850
+3859,Japan,Middle Class,1730
+3860,Japan,Middle Class,1800
+3861,Japan,Middle Class,1620
+3862,Japan,Middle Class,1850
+3863,Japan,Middle Class,1870
+3864,Japan,Middle Class,1870
+3865,Japan,Middle Class,1820
+3866,Japan,Middle Class,1850
+3867,Japan,Elite,1330
+3868,Japan,Middle Class,1860
+3869,Japan,Middle Class,1770
+3870,Japan,Middle Class,1820
+3871,Japan,Middle Class,1770
+3872,Japan,Middle Class,1840
+3873,Japan,Middle Class,1840
+3874,Japan,Middle Class,1860
+3875,Japan,Middle Class,1880
+3876,Japan,Elite,1120
+3877,Japan,Elite,1170
+3878,Japan,Middle Class,1850
+3879,Japan,Middle Class,1880
+3880,Japan,Elite,1880
+3881,Japan,Middle Class,1730
+3882,Japan,Middle Class,1880
+3883,Japan,Middle Class,1610
+3884,Japan,Middle Class,1800
+3885,Japan,Middle Class,1820
+3886,Japan,Middle Class,1810
+3887,Japan,Elite,1800
+3888,Japan,Middle Class,1880
+3889,Japan,Middle Class,1810
+3890,Japan,Middle Class,1760
+3891,Japan,Middle Class,1840
+3892,Japan,Middle Class,1810
+3893,Japan,Middle Class,1800
+3894,Japan,Middle Class,1640
+3895,Japan,Elite,1180
+3896,Japan,Elite,1530
+3897,Japan,Middle Class,1840
+3898,Japan,Middle Class,1880
+3899,Japan,Middle Class,1860
+3900,Japan,Middle Class,1780
+3901,Japan,Middle Class,1880
+3902,Japan,Middle Class,1880
+3903,Japan,Middle Class,1800
+3904,Japan,Middle Class,1790
+3905,Japan,Elite,1040
+3906,Japan,Middle Class,1840
+3907,Japan,Elite,1880
+3908,Japan,Middle Class,1810
+3909,Japan,Middle Class,1730
+3910,Japan,Middle Class,1870
+3911,Japan,Middle Class,1840
+3912,Japan,Middle Class,1700
+3913,Japan,Middle Class,1840
+3914,Japan,Elite,1640
+3915,Japan,Elite,1820
+3916,Japan,Middle Class,1820
+3917,Japan,Middle Class,1820
+3918,Japan,Middle Class,1870
+3919,Japan,Middle Class,1870
+3920,Japan,Elite,1780
+3921,Japan,Middle Class,1880
+3922,Japan,Middle Class,1790
+3923,Japan,Elite,1570
+3924,Japan,Elite,1880
+3925,Japan,Subsistence,1860
+3926,Japan,Elite,1570
+3927,Japan,Middle Class,1750
+3928,Japan,Middle Class,1780
+3929,Japan,Middle Class,1600
+3930,Japan,Middle Class,1370
+3931,Japan,Middle Class,1720
+3932,Japan,Elite,1840
+3933,Japan,Middle Class,1860
+3934,Japan,Middle Class,1610
+3935,Japan,Elite,1200
+3936,Japan,Elite,1700
+3937,Japan,Middle Class,1680
+3938,Japan,Middle Class,1360
+3939,Japan,Middle Class,1730
+3940,Japan,Elite,1130
+3941,Japan,Middle Class,1810
+3942,Japan,Middle Class,1760
+3943,Japan,Middle Class,1780
+3944,Japan,Elite,1320
+3945,Japan,Middle Class,1780
+3946,Japan,Middle Class,1800
+3947,Japan,Middle Class,1870
+3948,Japan,Middle Class,1770
+3949,Japan,Middle Class,1820
+3950,Japan,Elite,1870
+3951,Japan,Elite,1630
+3952,Japan,Middle Class,1760
+3953,Japan,Middle Class,1820
+3954,Japan,Middle Class,1690
+3955,Japan,Middle Class,1720
+3956,Japan,Middle Class,1680
+3957,Japan,Middle Class,1820
+3958,Japan,Middle Class,1880
+3959,Japan,Middle Class,1790
+3960,Japan,Middle Class,1480
+3961,Japan,Middle Class,1680
+3962,Japan,Elite,1140
+3963,Japan,Middle Class,1870
+3964,Japan,Elite,1280
+3965,Japan,Elite,1170
+3966,Japan,Middle Class,1760
+3967,Japan,Elite,1420
+3968,Japan,Elite,1400
+3969,Japan,Middle Class,1880
+3970,Japan,Middle Class,1860
+3971,Japan,Middle Class,1800
+3972,Japan,Middle Class,1660
+3973,Japan,Elite,1610
+3974,Japan,Middle Class,1870
+3975,Japan,Middle Class,1810
+3976,Japan,Middle Class,1870
+3977,Japan,Middle Class,1860
+3978,Japan,Middle Class,1880
+3979,Japan,Middle Class,1670
+3980,Japan,Middle Class,1820
+3981,Japan,Middle Class,1800
+3982,Japan,Middle Class,1860
+3983,Japan,Middle Class,1850
+3984,Japan,Elite,1220
+3985,Japan,Middle Class,1760
+3986,Japan,Middle Class,1660
+3987,Japan,Middle Class,1720
+3988,Japan,Middle Class,1440
+3989,Japan,Elite,1440
+3990,Japan,Middle Class,1630
+3991,Japan,Middle Class,1870
+3992,Japan,Middle Class,1740
+3993,Japan,Elite,1830
+3994,Japan,Middle Class,1770
+3995,Japan,Middle Class,1710
+3996,Japan,Middle Class,1640
+3997,Japan,Middle Class,1660
+3998,Japan,Middle Class,1620
+3999,Japan,Elite,1210
+4000,Japan,Middle Class,1640
+4001,Japan,Middle Class,1870
+4002,Japan,Middle Class,1880
+4003,Japan,Middle Class,1730
+4004,Japan,Elite,1560
+4005,Japan,Middle Class,1860
+4006,Japan,Middle Class,1580
+4007,Japan,Middle Class,1860
+4008,Japan,Middle Class,1720
+4009,Japan,Middle Class,1830
+4010,Japan,Middle Class,1190
+4011,Japan,Middle Class,1830
+4012,Japan,Middle Class,1800
+4013,Japan,Middle Class,1820
+4014,Japan,Elite,1310
+4015,Japan,Middle Class,1700
+4016,Japan,Middle Class,1870
+4017,Japan,Middle Class,1600
+4018,Japan,Middle Class,1820
+4019,Japan,Elite,1880
+4020,Japan,Middle Class,1840
+4021,Japan,Elite,1860
+4022,Japan,Middle Class,1700
+4023,Japan,Middle Class,1700
+4024,Japan,Middle Class,1800
+4025,Japan,Middle Class,1770
+4026,Japan,Middle Class,1830
+4027,Japan,Elite,1180
+4028,Japan,Middle Class,1760
+4029,Japan,Middle Class,1710
+4030,Japan,Middle Class,1760
+4031,Japan,Elite,1270
+4032,Japan,Middle Class,1860
+4033,Japan,Elite,1280
+4034,Japan,Middle Class,1840
+4035,Japan,Middle Class,1750
+4036,Japan,Middle Class,1690
+4037,Japan,Middle Class,1870
+4038,Japan,Middle Class,1770
+4039,Japan,Middle Class,1700
+4040,Japan,Middle Class,1860
+4041,Japan,Middle Class,1670
+4042,Japan,Middle Class,1740
+4043,Japan,Elite,1180
+4044,Japan,Middle Class,1740
+4045,Japan,Elite,1610
+4046,Japan,Middle Class,1790
+4047,Japan,Middle Class,1870
+4048,Japan,Middle Class,1840
+4049,Japan,Middle Class,1880
+4050,Japan,Middle Class,1790
+4051,Japan,Middle Class,1810
+4052,Japan,Elite,1720
+4053,Japan,Elite,1000
+4054,Japan,Middle Class,1820
+4055,Japan,Middle Class,1870
+4056,Japan,Middle Class,1810
+4057,Japan,Middle Class,1810
+4058,Japan,Middle Class,1760
+4059,Japan,Middle Class,1210
+4060,Japan,Middle Class,1780
+4061,Japan,Middle Class,1790
+4062,Japan,Middle Class,1870
+4063,Japan,Middle Class,1720
+4064,Japan,Middle Class,1830
+4065,Japan,Elite,1490
+4066,Japan,Middle Class,1680
+4067,Japan,Middle Class,1880
+4068,Japan,Middle Class,1780
+4069,Japan,Middle Class,1730
+4070,Japan,Middle Class,1680
+4071,Japan,Middle Class,1830
+4072,Japan,Elite,1360
+4073,Japan,Middle Class,1870
+4074,Japan,Middle Class,1870
+4075,Japan,Elite,1790
+4076,Japan,Middle Class,1740
+4077,Japan,Middle Class,1650
+4078,Japan,Middle Class,1870
+4079,Japan,Elite,1870
+4080,Japan,Middle Class,1680
+4081,Japan,Elite,1180
+4082,Japan,Elite,1470
+4083,Japan,Elite,1200
+4084,Japan,Elite,1190
+4085,Japan,Middle Class,1880
+4086,Japan,Middle Class,1810
+4087,Japan,Middle Class,1740
+4088,Japan,Elite,1790
+4089,Japan,Middle Class,1550
+4090,Japan,Middle Class,1880
+4091,Japan,Elite,1000
+4092,Japan,Middle Class,1830
+4093,Japan,Elite,1840
+4094,Japan,Middle Class,1770
+4095,Japan,Middle Class,1880
+4096,Japan,Middle Class,1750
+4097,Japan,Elite,1470
+4098,Japan,Middle Class,1830
+4099,Japan,Elite,1310
+4100,Japan,Middle Class,1760
+4101,Japan,Middle Class,1280
+4102,Japan,Middle Class,1560
+4103,Japan,Middle Class,1590
+4104,Japan,Elite,1040
+4105,Japan,Middle Class,1780
+4106,Japan,Elite,1650
+4107,Japan,Elite,1240
+4108,Japan,Middle Class,1780
+4109,Japan,Middle Class,1800
+4110,Japan,Middle Class,1780
+4111,Japan,Middle Class,1770
+4112,Japan,Middle Class,1810
+4113,Japan,Middle Class,1870
+4114,Japan,Middle Class,1780
+4115,Japan,Elite,1210
+4116,Japan,Middle Class,1860
+4117,Japan,Elite,1830
+4118,Japan,Elite,1320
+4119,Japan,Elite,1090
+4120,Japan,Middle Class,1760
+4121,Japan,Middle Class,1790
+4122,Japan,Middle Class,1240
+4123,Japan,Elite,1880
+4124,Japan,Middle Class,1820
+4125,Japan,Elite,1870
+4126,Japan,Elite,1200
+4127,Japan,Elite,1120
+4128,Japan,Elite,1090
+4129,Japan,Elite,1210
+4130,Japan,Elite,1100
+4131,Japan,Elite,1220
+4132,Japan,Elite,1210
+4133,Japan,Middle Class,1780
+4134,Japan,Elite,1590
+4135,Japan,Middle Class,1470
+4136,Japan,Middle Class,1870
+4137,Japan,Middle Class,1710
+4138,Japan,Elite,1240
+4139,Japan,Middle Class,1690
+4140,Japan,Middle Class,1770
+4141,Japan,Middle Class,1710
+4142,Japan,Elite,1240
+4143,Japan,Middle Class,1260
+4144,Japan,Middle Class,1880
+4145,Japan,Middle Class,1870
+4146,Japan,Middle Class,1730
+4147,Japan,Middle Class,1830
+4148,Japan,Elite,1090
+4149,Japan,Middle Class,1800
+4150,Japan,Elite,1210
+4151,Japan,Middle Class,1710
+4152,Japan,Middle Class,1800
+4153,Japan,Elite,1540
+4154,Japan,Middle Class,1810
+4155,Japan,Middle Class,1870
+4156,Japan,Elite,1840
+4157,Japan,Middle Class,1650
+4158,Japan,Elite,1870
+4159,Japan,Middle Class,1790
+4160,Japan,Middle Class,1680
+4161,Japan,Middle Class,1800
+4162,Japan,Middle Class,1790
+4163,Japan,Elite,1770
+4164,Japan,Middle Class,1720
+4165,Japan,Middle Class,1830
+4166,Japan,Elite,1750
+4167,Japan,Elite,1220
+4168,Japan,Elite,1080
+4169,Japan,Middle Class,1770
+4170,Japan,Middle Class,1810
+4171,Japan,Middle Class,1720
+4172,Japan,Middle Class,1790
+4173,Japan,Middle Class,1880
+4174,Japan,Middle Class,1590
+4175,Japan,Middle Class,1780
+4176,Japan,Middle Class,1730
+4177,Japan,Elite,1640
+4178,Japan,Elite,1180
+4179,Japan,Elite,1160
+4180,Japan,Middle Class,1750
+4181,Japan,Middle Class,1760
+4182,Japan,Middle Class,1770
+4183,Japan,Middle Class,1610
+4184,Japan,Elite,1220
+4185,Japan,Middle Class,1830
+4186,Japan,Middle Class,1860
+4187,Japan,Middle Class,1700
+4188,Japan,Middle Class,1650
+4189,Japan,Elite,1240
+4190,Japan,Elite,1780
+4191,Japan,Elite,1220
+4192,Japan,Middle Class,1680
+4193,Japan,Middle Class,1680
+4194,Japan,Middle Class,1710
+4195,Japan,Middle Class,1570
+4196,Japan,Middle Class,1180
+4197,Japan,Elite,1480
+4198,Japan,Elite,1600
+4199,Japan,Elite,1640
+4200,Japan,Elite,1860
+4201,Japan,Middle Class,1620
+4202,Japan,Elite,1610
+4203,Japan,Elite,1650
+4204,Japan,Elite,1670
+4205,Japan,Middle Class,1800
+4206,Japan,Elite,1180
+4207,Japan,Middle Class,1830
+4208,Japan,Middle Class,1800
+4209,Japan,Elite,1220
+4210,Japan,Elite,1160
+4211,Japan,Middle Class,1790
+4212,Japan,Elite,1240
+4213,Japan,Elite,1700
+4214,Japan,Middle Class,1660
+4215,Japan,Elite,1240
+4216,Japan,Elite,1240
+4217,Japan,Middle Class,1880
+4218,Japan,Elite,1280
+4219,Japan,Middle Class,1690
+4220,Japan,Middle Class,1650
+4221,Japan,Middle Class,1630
+4222,Japan,Middle Class,1750
+4223,Japan,Elite,1880
+4224,Japan,Elite,1140
+4225,Japan,Middle Class,1760
+4226,Japan,Middle Class,1720
+4227,Japan,Middle Class,1690
+4228,Japan,Subsistence,1750
+4229,Japan,Middle Class,1780
+4230,Japan,Middle Class,1790
+4231,Japan,Elite,1180
+4232,Japan,Elite,1700
+4233,Japan,Elite,1420
+4234,Japan,Middle Class,1430
+4235,Japan,Middle Class,1780
+4236,Japan,Middle Class,1750
+4237,Japan,Middle Class,1720
+4238,Japan,Elite,1240
+4239,Japan,Elite,1860
+4240,Japan,Elite,1230
+4241,Japan,Elite,1240
+4242,Japan,Elite,1210
+4243,Japan,Elite,1230
+4244,Japan,Middle Class,1850
+4245,Japan,Elite,1800
+4246,Japan,Middle Class,1860
+4247,Japan,Middle Class,1870
+4248,Japan,Elite,1150
+4249,Japan,Middle Class,1620
+4250,Japan,Elite,1150
+4251,Japan,Middle Class,1870
+4252,Japan,Elite,1070
+4253,Japan,Middle Class,1750
+4254,Japan,Elite,1280
+4255,Japan,Elite,1180
+4256,Japan,Middle Class,1860
+4257,Japan,Elite,1860
+4258,Japan,Elite,1330
+4259,Japan,Elite,1260
+4260,Japan,Middle Class,1860
+4261,Japan,Elite,1560
+4262,Japan,Elite,1450
+4263,Japan,Middle Class,1680
+4264,Japan,Elite,1170
+4265,Japan,Elite,1530
+4266,Japan,Elite,1560
+4267,Japan,Elite,1680
+4268,Japan,Elite,1570
+4269,Japan,Elite,1380
+4270,Japan,Middle Class,1840
+4271,Japan,Elite,1280
+4272,Japan,Elite,1860
+4273,Japan,Middle Class,1880
+4274,Japan,Middle Class,1840
+4275,Japan,Middle Class,1840
+4276,Japan,Middle Class,1880
+4277,Japan,Middle Class,1880
+4278,Japan,Middle Class,1870
+4279,Japan,Middle Class,1820
+4280,Japan,Middle Class,1740
+4281,Japan,Elite,1230
+4282,Japan,Elite,1080
+4283,Japan,Elite,1230
+4284,Japan,Middle Class,1850
+4285,Japan,Elite,1010
+4286,Japan,Middle Class,1720
+4287,Japan,Elite,1870
+4288,Japan,Middle Class,1760
+4289,Japan,Elite,1600
+4290,Japan,Middle Class,1700
+4291,Japan,Elite,1320
+4292,Japan,Elite,1300
+4293,Japan,Elite,1600
+4294,Japan,Elite,1200
+4295,Japan,Middle Class,1760
+4296,Japan,Middle Class,1860
+4297,Japan,Middle Class,1770
+4298,Japan,Elite,1090
+4299,Japan,Middle Class,1850
+4300,Japan,Middle Class,1760
+4301,Japan,Elite,1310
+4302,Japan,Elite,1470
+4303,Japan,Middle Class,1780
+4304,Japan,Middle Class,1880
+4305,Japan,Middle Class,1880
+4306,Japan,Middle Class,1650
+4307,Japan,Middle Class,1770
+4308,Japan,Middle Class,1770
+4309,Japan,Middle Class,1790
+4310,Japan,Middle Class,1780
+4311,Japan,Elite,1880
+4312,Japan,Middle Class,1830
+4313,Japan,Middle Class,1790
+4314,Japan,Middle Class,1760
+4315,Japan,Middle Class,1660
+4316,Japan,Subsistence,1360
+4317,Japan,Elite,1870
+4318,Japan,Middle Class,1750
+4319,Japan,Elite,1180
+4320,Japan,Middle Class,1690
+4321,Japan,Middle Class,1860
+4322,Japan,Elite,1040
+4323,Japan,Middle Class,1800
+4324,Japan,Middle Class,1870
+4325,Japan,Middle Class,1820
+4326,Japan,Elite,1430
+4327,Japan,Middle Class,1690
+4328,Japan,Middle Class,1680
+4329,Japan,Middle Class,1460
+4330,Japan,Middle Class,1880
+4331,Japan,Middle Class,1810
+4332,Japan,Middle Class,1850
+4333,Japan,Middle Class,1800
+4334,Japan,Elite,1680
+4335,Japan,Middle Class,1870
+4336,Japan,Middle Class,1880
+4337,Japan,Middle Class,1710
+4338,Japan,Middle Class,1730
+4339,Japan,Elite,1120
+4340,Japan,Middle Class,1790
+4341,Japan,Middle Class,1700
+4342,Japan,Elite,1100
+4343,Japan,Elite,1200
+4344,Japan,Elite,1230
+4345,Japan,Middle Class,1750
+4346,Japan,Middle Class,1700
+4347,Japan,Elite,1580
+4348,Japan,Middle Class,1800
+4349,Japan,Elite,1290
+4350,Japan,Middle Class,1610
+4351,Japan,Elite,1050
+4352,Japan,Middle Class,1690
+4353,Japan,Elite,1360
+4354,Japan,Middle Class,1820
+4355,Japan,Elite,1610
+4356,Japan,Elite,1350
+4357,Japan,Middle Class,1850
+4358,Japan,Elite,1320
+4359,Japan,Elite,1690
+4360,Japan,Middle Class,1880
+4361,Japan,Middle Class,1770
+4362,Japan,Elite,1770
+4363,Japan,Elite,1070
+4364,Japan,Middle Class,1820
+4365,Japan,Middle Class,1790
+4366,Japan,Middle Class,1870
+4367,Japan,Middle Class,1620
+4368,Japan,Middle Class,1800
+4369,Japan,Middle Class,1860
+4370,Japan,Middle Class,1870
+4371,Japan,Middle Class,1870
+4372,Japan,Middle Class,1680
+4373,Japan,Middle Class,1880
+4374,Japan,Middle Class,1840
+4375,Japan,Elite,1840
+4376,Japan,Middle Class,1740
+4377,Japan,Middle Class,1700
+4378,Japan,Middle Class,1720
+4379,Japan,Elite,1830
+4380,Japan,Elite,1850
+4381,Japan,Middle Class,1820
+4382,Japan,Middle Class,1870
+4383,Japan,Middle Class,1880
+4384,Japan,Elite,1570
+4385,Japan,Middle Class,1790
+4386,Japan,Middle Class,1810
+4387,Japan,Middle Class,1680
+4388,Japan,Middle Class,1860
+4389,Japan,Middle Class,1850
+4390,Japan,Middle Class,1790
+4391,Japan,Elite,1510
+4392,Japan,Elite,1280
+4393,Japan,Middle Class,1850
+4394,Japan,Middle Class,1860
+4395,Japan,Middle Class,1460
+4396,Japan,Middle Class,1660
+4397,Japan,Subsistence,1860
+4398,Japan,Middle Class,1830
+4399,Japan,Elite,1490
+4400,Japan,Middle Class,1810
+4401,Japan,Middle Class,1780
+4402,Japan,Middle Class,1810
+4403,Japan,Middle Class,1870
+4404,Japan,Elite,1850
+4405,Japan,Middle Class,1780
+4406,Japan,Middle Class,1820
+4407,Japan,Middle Class,1840
+4408,Japan,Middle Class,1840
+4409,Japan,Middle Class,1800
+4410,Japan,Middle Class,1860
+4411,Japan,Middle Class,1870
+4412,Japan,Middle Class,1830
+4413,Japan,Middle Class,1770
+4414,Japan,Middle Class,1750
+4415,Japan,Middle Class,1870
+4416,Japan,Elite,1850
+4417,Japan,Elite,1830
+4418,Japan,Middle Class,1860
+4419,Japan,Middle Class,1860
+4420,Japan,Middle Class,1800
+4421,Japan,Middle Class,1870
+4422,Japan,Middle Class,1780
+4423,Japan,Middle Class,1870
+4424,Japan,Middle Class,1800
+4425,Japan,Middle Class,1660
+4426,Japan,Middle Class,1880
+4427,Japan,Middle Class,1600
+4428,Japan,Middle Class,1880
+4429,Japan,Middle Class,1700
+4430,Japan,Middle Class,1790
+4431,Japan,Middle Class,1660
+4432,Japan,Middle Class,1690
+4433,Japan,Middle Class,1860
+4434,Japan,Middle Class,1840
+4435,Japan,Middle Class,1720
+4436,Japan,Middle Class,1780
+4437,Japan,Middle Class,1770
+4438,Japan,Middle Class,1810
+4439,Japan,Middle Class,1660
+4440,Japan,Middle Class,1810
+4441,Japan,Middle Class,1840
+4442,Japan,Middle Class,1830
+4443,Japan,Middle Class,1690
+4444,Japan,Middle Class,1760
+4445,Japan,Middle Class,1690
+4446,Japan,Middle Class,1780
+4447,Japan,Middle Class,1650
+4448,Japan,Middle Class,1840
+4449,Japan,Middle Class,1830
+4450,Japan,Middle Class,1780
+4451,Japan,Middle Class,1880
+4452,Japan,Middle Class,1700
+4453,Japan,Middle Class,1790
+4454,Japan,Elite,1840
+4455,Japan,Middle Class,1880
+4456,Japan,Elite,1590
+4457,Japan,Elite,1870
+4458,Japan,Elite,1330
+4459,Japan,Middle Class,1880
+4460,Japan,Elite,1810
+4461,Japan,Middle Class,1790
+4462,Japan,Middle Class,1750
+4463,Japan,Middle Class,1810
+4464,Japan,Middle Class,1830
+4465,Japan,Middle Class,1820
+4466,Japan,Middle Class,1860
+4467,Japan,Middle Class,1860
+4468,Japan,Middle Class,1840
+4469,Japan,Middle Class,1880
+4470,Japan,Middle Class,1840
+4471,Japan,Middle Class,1630
+4472,Japan,Middle Class,1550
+4473,Japan,Middle Class,1870
+4474,Japan,Elite,1270
+4475,Japan,Middle Class,1820
+4476,Japan,Middle Class,1880
+4477,Japan,Elite,1180
+4478,Japan,Elite,1180
+4479,Japan,Middle Class,1770
+4480,Japan,Elite,1190
+4481,Japan,Middle Class,1570
+4482,Japan,Middle Class,1770
+4483,Japan,Elite,1120
+4484,Japan,Elite,1850
+4485,Japan,Elite,1870
+4486,Japan,Elite,1180
+4487,Japan,Middle Class,1780
+4488,Japan,Middle Class,1850
+4489,Japan,Middle Class,1790
+4490,Japan,Middle Class,1680
+4491,Japan,Elite,1880
+4492,Japan,Elite,1580
+4493,Japan,Middle Class,1580
+4494,Japan,Elite,1610
+4495,Japan,Middle Class,1660
+4496,Japan,Middle Class,1650
+4497,Japan,Middle Class,1870
+4498,Japan,Middle Class,1880
+4499,Japan,Middle Class,1650
+4500,Japan,Middle Class,1630
+4501,Japan,Elite,1850
+4502,Japan,Middle Class,1850
+4503,Japan,Elite,1880
+4504,Japan,Elite,1880
+4505,Japan,Middle Class,1880
+4506,Japan,Middle Class,1670
+4507,Japan,Middle Class,1830
+4508,Japan,Middle Class,1710
+4509,Japan,Middle Class,1760
+4510,Japan,Middle Class,1810
+4511,Japan,Elite,1140
+4512,Japan,Elite,1580
+4513,Japan,Elite,1660
+4514,Japan,Elite,1780
+4515,Japan,Elite,1610
+4516,Japan,Elite,1870
+4517,Japan,Elite,1500
+4518,Japan,Middle Class,1880
+4519,Japan,Middle Class,1840
+4520,Japan,Middle Class,1880
+4521,Japan,Middle Class,1860
+4522,Japan,Elite,1880
+4523,Japan,Subsistence,1870
+4524,Japan,Middle Class,1700
+4525,Japan,Middle Class,1460
+4526,Japan,Elite,1700
+4527,Japan,Elite,1630
+4528,Japan,Middle Class,1870
+4529,Japan,Elite,1150
+4530,Japan,Middle Class,1800
+4531,Japan,Middle Class,1790
+4532,Japan,Middle Class,1820
+4533,Japan,Middle Class,1800
+4534,Japan,Middle Class,1820
+4535,Japan,Middle Class,1690
+4536,Japan,Middle Class,1790
+4537,Japan,Middle Class,1640
+4538,Japan,Middle Class,1790
+4539,Japan,Middle Class,1760
+4540,Japan,Subsistence,1820
+4541,Japan,Middle Class,1840
+4542,Japan,Middle Class,1840
