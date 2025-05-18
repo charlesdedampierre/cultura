@@ -1,131 +1,118 @@
 ,measure,OLS Without FE,MixedLM With FE,Variable,MixedLM With FE & Pop
-0,Coef,0.01,0.01,Gender_equality_num,0.01
-1,Coef_CI,"(0.01, 0.02)","(-0.00, 0.02)",Gender_equality_num,"(-0.01, 0.02)"
-2,Coef_SE,0.00,0.01,Gender_equality_num,0.01
-3,Coef_p-value,0.001,0.142,Gender_equality_num,0.270
-4,Coef_t-value,3.42,1.47,Gender_equality_num,1.10
-5,Correlation,0.36,0.16,Gender_equality_num,0.16
-6,Intercept,0.99,0.99,Gender_equality_num,0.98
-7,Intercept_CI,"(0.98, 1.00)","(0.98, 1.00)",Gender_equality_num,"(0.95, 1.01)"
-8,Intercept_SE,0.00,0.01,Gender_equality_num,0.02
-9,Intercept_t-value,260.72,155.74,Gender_equality_num,65.14
-10,Log-Likelihood,278.91,284.32,Gender_equality_num,281.31
+0,Coef,0.28,0.21,Gender_equality_num,0.17
+1,Coef_CI,"(0.12, 0.45)","(-0.06, 0.48)",Gender_equality_num,"(-0.13, 0.47)"
+2,Coef_SE,0.08,0.14,Gender_equality_num,0.15
+3,Coef_p-value,0.001,0.131,Gender_equality_num,0.258
+4,Coef_t-value,3.46,1.51,Gender_equality_num,1.13
+5,Correlation,0.37,0.16,Gender_equality_num,0.16
+6,Intercept,0.22,0.14,Gender_equality_num,0.13
+7,Intercept_CI,"(0.08, 0.37)","(-0.19, 0.48)",Gender_equality_num,"(-0.23, 0.49)"
+8,Intercept_SE,0.07,0.17,Gender_equality_num,0.18
+9,Intercept_t-value,3.04,0.83,Gender_equality_num,0.71
+10,Log-Likelihood,-75.19,-61.58,Gender_equality_num,-62.25
 11,N,78,78,Gender_equality_num,78
-12,R-squared,0.13,,Gender_equality_num,
-13,Coef,0.00,0.00,height,0.00
-14,Coef_CI,"(0.00, 0.00)","(-0.00, 0.00)",height,"(-0.00, 0.00)"
-15,Coef_SE,0.00,0.00,height,0.00
+12,R-squared,0.14,,Gender_equality_num,
+13,Coef,0.26,0.04,height,0.11
+14,Coef_CI,"(0.08, 0.43)","(-0.21, 0.30)",height,"(-0.17, 0.39)"
+15,Coef_SE,0.09,0.13,height,0.14
 16,Coef_p-value,0.004,0.749,height,0.441
 17,Coef_t-value,2.94,0.32,height,0.77
 18,Correlation,0.22,-0.13,height,-0.13
-19,Intercept,1.00,1.00,height,1.00
-20,Intercept_CI,"(1.00, 1.00)","(1.00, 1.00)",height,"(1.00, 1.01)"
-21,Intercept_SE,0.00,0.00,height,0.00
-22,Intercept_t-value,1230.46,770.61,height,273.41
-23,Log-Likelihood,763.97,790.64,height,786.56
+19,Intercept,0.06,-0.21,height,-0.18
+20,Intercept_CI,"(-0.09, 0.21)","(-0.75, 0.33)",height,"(-0.68, 0.32)"
+21,Intercept_SE,0.08,0.27,height,0.26
+22,Intercept_t-value,0.80,-0.77,height,-0.70
+23,Log-Likelihood,-234.52,-197.23,height,-197.33
 24,N,168,168,height,168
 25,R-squared,0.05,,height,
-26,Coef,-1.02,-0.28,homicide_rate,-0.44
-27,Coef_CI,"(-2.21, 0.18)","(-0.92, 0.36)",homicide_rate,"(-1.38, 0.50)"
-28,Coef_SE,0.60,0.32,homicide_rate,0.48
+26,Coef,-0.21,-0.06,homicide_rate,-0.09
+27,Coef_CI,"(-0.45, 0.04)","(-0.19, 0.07)",homicide_rate,"(-0.28, 0.10)"
+28,Coef_SE,0.12,0.07,homicide_rate,0.10
 29,Coef_p-value,0.093,0.391,homicide_rate,0.358
 30,Coef_t-value,-1.70,-0.86,homicide_rate,-0.92
 31,Correlation,-0.20,-0.38,homicide_rate,-0.38
-32,Intercept,1.90,1.19,homicide_rate,0.69
-33,Intercept_CI,"(0.74, 3.07)","(0.38, 2.01)",homicide_rate,"(-1.57, 2.96)"
-34,Intercept_SE,0.58,0.41,homicide_rate,1.16
-35,Intercept_t-value,3.27,2.88,homicide_rate,0.60
-36,Log-Likelihood,-79.35,11.14,homicide_rate,12.48
+32,Intercept,-0.15,-0.11,homicide_rate,-0.12
+33,Intercept_CI,"(-0.39, 0.09)","(-0.83, 0.60)",homicide_rate,"(-0.82, 0.58)"
+34,Intercept_SE,0.12,0.36,homicide_rate,0.36
+35,Intercept_t-value,-1.27,-0.31,homicide_rate,-0.34
+36,Log-Likelihood,-99.70,-10.52,homicide_rate,-11.26
 37,N,72,72,homicide_rate,72
 38,R-squared,0.04,,homicide_rate,
-39,Coef,0.10,-0.13,infant_mortality,-0.09
-40,Coef_CI,"(0.02, 0.19)","(-0.27, 0.01)",infant_mortality,"(-0.26, 0.09)"
-41,Coef_SE,0.04,0.07,infant_mortality,0.09
-42,Coef_p-value,0.019,0.066,infant_mortality,0.320
-43,Coef_t-value,2.44,-1.84,infant_mortality,-0.99
-44,Correlation,0.35,-0.41,infant_mortality,-0.41
-45,Intercept,0.90,1.12,infant_mortality,1.27
-46,Intercept_CI,"(0.82, 0.98)","(0.98, 1.27)",infant_mortality,"(0.93, 1.61)"
-47,Intercept_SE,0.04,0.07,infant_mortality,0.17
-48,Intercept_t-value,22.38,15.50,infant_mortality,7.27
-49,Log-Likelihood,79.74,92.14,infant_mortality,91.80
+39,Coef,0.47,-0.35,infant_mortality,-0.23
+40,Coef_CI,"(0.15, 0.79)","(-0.89, 0.19)",infant_mortality,"(-0.89, 0.43)"
+41,Coef_SE,0.16,0.28,infant_mortality,0.33
+42,Coef_p-value,0.005,0.199,infant_mortality,0.493
+43,Coef_t-value,2.95,-1.28,infant_mortality,-0.69
+44,Correlation,0.41,-0.42,infant_mortality,-0.42
+45,Intercept,0.05,-0.14,infant_mortality,-0.10
+46,Intercept_CI,"(-0.25, 0.36)","(-1.16, 0.88)",infant_mortality,"(-1.25, 1.04)"
+47,Intercept_SE,0.15,0.52,infant_mortality,0.58
+48,Intercept_t-value,0.36,-0.26,infant_mortality,-0.18
+49,Log-Likelihood,-59.94,-43.20,infant_mortality,-42.82
 50,N,44,44,infant_mortality,44
-51,R-squared,0.12,,infant_mortality,
-52,Coef,0.05,0.11,life_expectancy,0.09
-53,Coef_CI,"(0.01, 0.09)","(0.05, 0.16)",life_expectancy,"(0.01, 0.17)"
-54,Coef_SE,0.02,0.03,life_expectancy,0.04
-55,Coef_p-value,0.010,0.000,life_expectancy,0.030
-56,Coef_t-value,2.64,3.91,life_expectancy,2.16
-57,Correlation,0.30,0.76,life_expectancy,0.76
-58,Intercept,0.96,0.89,life_expectancy,0.86
-59,Intercept_CI,"(0.92, 0.99)","(0.83, 0.95)",life_expectancy,"(0.76, 0.96)"
-60,Intercept_SE,0.02,0.03,life_expectancy,0.05
-61,Intercept_t-value,53.51,29.08,life_expectancy,16.61
-62,Log-Likelihood,175.61,172.24,life_expectancy,170.73
+51,R-squared,0.17,,infant_mortality,
+52,Coef,0.40,0.88,life_expectancy,0.73
+53,Coef_CI,"(0.12, 0.69)","(0.45, 1.30)",life_expectancy,"(0.10, 1.36)"
+54,Coef_SE,0.14,0.22,life_expectancy,0.32
+55,Coef_p-value,0.007,0.000,life_expectancy,0.023
+56,Coef_t-value,2.79,4.00,life_expectancy,2.27
+57,Correlation,0.31,0.76,life_expectancy,0.76
+58,Intercept,0.27,0.02,life_expectancy,-0.05
+59,Intercept_CI,"(0.03, 0.51)","(-0.86, 0.91)",life_expectancy,"(-1.01, 0.91)"
+60,Intercept_SE,0.12,0.45,life_expectancy,0.49
+61,Intercept_t-value,2.27,0.05,life_expectancy,-0.10
+62,Log-Likelihood,-103.73,-101.37,life_expectancy,-101.43
 63,N,75,75,life_expectancy,75
-64,R-squared,0.09,,life_expectancy,
-65,Coef,0.22,0.21,numeracy,0.13
-66,Coef_CI,"(0.15, 0.29)","(0.17, 0.26)",numeracy,"(0.07, 0.19)"
-67,Coef_SE,0.04,0.02,numeracy,0.03
+64,R-squared,0.10,,life_expectancy,
+65,Coef,0.66,0.81,numeracy,0.34
+66,Coef_CI,"(0.49, 0.83)","(0.67, 0.95)",numeracy,"(0.16, 0.52)"
+67,Coef_SE,0.09,0.07,numeracy,0.09
 68,Coef_p-value,0.000,0.000,numeracy,0.000
-69,Coef_t-value,6.16,9.12,numeracy,4.16
-70,Correlation,0.41,0.68,numeracy,0.68
-71,Intercept,0.77,0.78,numeracy,0.40
-72,Intercept_CI,"(0.70, 0.84)","(0.69, 0.86)",numeracy,"(0.19, 0.61)"
-73,Intercept_SE,0.04,0.04,numeracy,0.11
-74,Intercept_t-value,21.10,18.31,numeracy,3.74
-75,Log-Likelihood,114.07,292.00,numeracy,297.89
+69,Coef_t-value,7.76,11.28,numeracy,3.70
+70,Correlation,0.50,0.69,numeracy,0.69
+71,Intercept,-0.08,-0.05,numeracy,-0.12
+72,Intercept_CI,"(-0.22, 0.07)","(-0.65, 0.55)",numeracy,"(-0.93, 0.68)"
+73,Intercept_SE,0.07,0.31,numeracy,0.41
+74,Intercept_t-value,-1.07,-0.17,numeracy,-0.30
+75,Log-Likelihood,-260.07,-124.44,numeracy,-101.60
 76,N,185,185,numeracy,185
-77,R-squared,0.17,,numeracy,
-78,Coef,-0.25,-0.25,urbanization,-0.25
-79,Coef_CI,"(-0.44, -0.06)","(-0.38, -0.12)",urbanization,"(-0.41, -0.09)"
-80,Coef_SE,0.10,0.06,urbanization,0.08
+77,R-squared,0.25,,numeracy,
+78,Coef,0.33,0.33,urbanization,0.33
+79,Coef_CI,"(0.07, 0.59)","(0.17, 0.50)",urbanization,"(0.12, 0.55)"
+80,Coef_SE,0.13,0.09,urbanization,0.11
 81,Coef_p-value,0.012,0.000,urbanization,0.002
-82,Coef_t-value,-2.57,-3.87,urbanization,-3.08
-83,Correlation,-0.27,-0.27,urbanization,-0.27
-84,Intercept,1.22,1.26,urbanization,1.26
-85,Intercept_CI,"(1.02, 1.42)","(1.07, 1.45)",urbanization,"(0.72, 1.80)"
-86,Intercept_SE,0.10,0.10,urbanization,0.27
-87,Intercept_t-value,12.02,13.18,urbanization,4.60
-88,Log-Likelihood,-12.94,50.07,urbanization,49.74
+82,Coef_t-value,2.57,3.87,urbanization,3.08
+83,Correlation,0.27,0.27,urbanization,0.27
+84,Intercept,0.10,-0.03,urbanization,-0.03
+85,Intercept_CI,"(-0.12, 0.32)","(-0.55, 0.49)",urbanization,"(-0.56, 0.50)"
+86,Intercept_SE,0.11,0.27,urbanization,0.27
+87,Intercept_t-value,0.87,-0.12,urbanization,-0.12
+88,Log-Likelihood,-127.17,-62.57,urbanization,-63.47
 89,N,88,88,urbanization,88
 90,R-squared,0.07,,urbanization,
-91,Coef,2.64,2.05,wellbeing,1.66
-92,Coef_CI,"(1.81, 3.47)","(0.70, 3.39)",wellbeing,"(0.03, 3.29)"
-93,Coef_SE,0.42,0.69,wellbeing,0.83
+91,Coef,0.71,0.55,wellbeing,0.45
+92,Coef_CI,"(0.49, 0.94)","(0.19, 0.91)",wellbeing,"(0.01, 0.89)"
+93,Coef_SE,0.11,0.18,wellbeing,0.22
 94,Coef_p-value,0.000,0.003,wellbeing,0.047
 95,Coef_t-value,6.32,2.99,wellbeing,1.99
 96,Correlation,0.53,0.28,wellbeing,0.28
-97,Intercept,-1.70,-1.09,wellbeing,-5.21
-98,Intercept_CI,"(-2.58, -0.81)","(-2.59, 0.42)",wellbeing,"(-12.41, 1.99)"
-99,Intercept_SE,0.45,0.77,wellbeing,3.67
-100,Intercept_t-value,-3.79,-1.42,wellbeing,-1.42
-101,Log-Likelihood,-176.21,-132.89,wellbeing,-130.06
+97,Intercept,-0.04,-0.03,wellbeing,0.09
+98,Intercept_CI,"(-0.23, 0.15)","(-0.48, 0.42)",wellbeing,"(-0.51, 0.68)"
+99,Intercept_SE,0.10,0.23,wellbeing,0.30
+100,Intercept_t-value,-0.42,-0.13,wellbeing,0.29
+101,Log-Likelihood,-145.28,-103.56,wellbeing,-103.02
 102,N,105,105,wellbeing,105
 103,R-squared,0.28,,wellbeing,
-0,Intercept,0.93,0.92,gdp,0.74
-1,Intercept_SE,0.01,0.01,gdp,0.03
-2,Intercept_CI,"(0.92, 0.94)","(0.90, 0.94)",gdp,"(0.68, 0.80)"
-3,Intercept_t-value,168.23,90.74,gdp,22.97
-4,Coef,0.07,0.06,gdp,0.03
-5,Coef_SE,0.01,0.00,gdp,0.01
-6,Coef_CI,"(0.06, 0.08)","(0.06, 0.07)",gdp,"(0.02, 0.04)"
+0,Intercept,0.00,-0.25,gdp,-0.35
+1,Intercept_SE,0.04,0.19,gdp,0.32
+2,Intercept_CI,"(-0.08, 0.08)","(-0.63, 0.12)",gdp,"(-0.97, 0.27)"
+3,Intercept_t-value,0.00,-1.32,gdp,-1.10
+4,Coef,0.50,0.47,gdp,0.24
+5,Coef_SE,0.04,0.03,gdp,0.04
+6,Coef_CI,"(0.42, 0.57)","(0.41, 0.53)",gdp,"(0.15, 0.33)"
 7,Coef_t-value,13.04,15.80,gdp,5.40
 8,Coef_p-value,0.000,0.000,gdp,0.000
-9,Log-Likelihood,893.08,1127.51,gdp,1145.61
-10,Correlation,0.50,0.46,gdp,0.46
-11,N,514,514,gdp,514
-12,R-squared,0.25,,gdp,
-0,Intercept,0.93,0.92,gdp,0.74
-1,Intercept_SE,0.01,0.01,gdp,0.03
-2,Intercept_CI,"(0.92, 0.94)","(0.90, 0.94)",gdp,"(0.68, 0.80)"
-3,Intercept_t-value,168.23,90.74,gdp,22.97
-4,Coef,0.07,0.06,gdp,0.03
-5,Coef_SE,0.01,0.00,gdp,0.01
-6,Coef_CI,"(0.06, 0.08)","(0.06, 0.07)",gdp,"(0.02, 0.04)"
-7,Coef_t-value,13.04,15.80,gdp,5.40
-8,Coef_p-value,0.000,0.000,gdp,0.000
-9,Log-Likelihood,893.08,1127.51,gdp,1145.61
+9,Log-Likelihood,-655.67,-416.23,gdp,-396.95
 10,Correlation,0.50,0.46,gdp,0.46
 11,N,514,514,gdp,514
 12,R-squared,0.25,,gdp,
