@@ -1,0 +1,59 @@
+,region_code,region_name
+0,re_german_world,German world
+42085,re_germany,Germany
+73800,re_northwestern_europe,Northwestern Europe
+181390,re_western_europe,Western Europe
+316070,re_balkans,Balkans
+317967,re_eastern_europe,Eastern Europe
+339198,re_greece,Greece
+339831,re_greek_world,Greek World
+341522,re_mediterreanean,mediterranean World
+343469,re_ottoman_world,Ottoman world
+345976,re_low_countries,Low countries
+358236,re_netherlands,Netherlands
+366114,re_east_slavic,East Slavic
+371671,re_north_america,North America
+381318,re_north_france,Northern France
+397320,re_france,France
+423196,re_british_islands,British Islands
+441180,re_united_kingdom,United Kingdom
+458436,re_switzerland,Switzerland
+461953,re_portugal,Portugal
+463026,re_southwestern_europe,Southwestern Europe
+490116,re_japan,Japan
+491888,re_nordic_countries,Nordic countries
+501198,re_sweden,Sweden
+505928,re_austria,Austria
+512785,re_spain,Spain
+520060,re_south_america,South America
+521672,re_central_europe,Central Europe
+533824,re_north_italy,Northern Italy
+547345,re_italy,Italy
+566081,re_south_japan,Southern Japan
+566554,re_norway,Norway
+567281,re_south_italy,Southern Italy
+571053,re_belgium,Belgium
+575433,re_south_france,Southern France
+580830,re_chinese_world,Chinese world
+583092,re_denmark,Denmark
+585942,re_arabic_world,Arabic world
+587686,re_muslim_world,Muslim world
+590063,re_central_america,Central America
+590823,re_finland,Finland
+591667,re_oceania,Oceania
+592854,re_africa,Africa
+593118,re_latin,Latin World
+593571,re_indian_world,Indian world
+594314,re_north_india,Northern India
+594776,re_persian_world,Persian world
+595469,re_north_japan,Northern Japan
+595759,re_south_east_asia,South East Asia
+596045,re_ireland,Ireland
+596848,re_south_india,Southern India
+596967,re_ottoman_turkey,Ottoman Turkey
+597151,re_south_china,Southern China
+597741,re_yangtze,Yangtze
+598131,re_north_china,Northern China
+598490,re_arabian_peninsula,Arabian peninsula
+598664,re_korea,Korea
+598884,re_iceland,Iceland
