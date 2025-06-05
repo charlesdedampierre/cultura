@@ -3,8 +3,9 @@
 
 *raw_data.zip
 *raw_data
-*old_script
+*old_script/
 *.db
+*old_script_05_06
 
 
 # Byte-compiled / optimized / DLL files
