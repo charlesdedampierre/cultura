@@ -49,6 +49,7 @@ Cultura mainly depends on few packages:
 - scipy
 - copia
 - sparqlwrapper
+- pydantic
 
 ### Installation
 
@@ -58,8 +59,8 @@ git clone https://github.com/charlesdedampierre/cultura.git
 cd cultura
 
 # Create and activate a virtual environment (recommended)
-python -m venv .venv
-source .venv/bin/activate  # On Windows, use: .venv\Scripts\activate
+python3 -m venv cultura_env
+source cultura_env/bin/activate  # On Windows, use: .venv\Scripts\activate
 
 # Install dependencies
 pip install -r requirements.txt
