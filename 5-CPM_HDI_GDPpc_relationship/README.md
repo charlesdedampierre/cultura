@@ -19,3 +19,8 @@ This directory contains notebooks that analyze the relationships between Cultura
 
 4. **4-merged_hdi_tables_population.ipynb**  
    Merges HDI data with population statistics to control for demographic factors in the analysis.
+
+5. **5-Bayesian_analsysis.ipynb**  
+  relationship between GDP per capita and Cultural production using Bayesian methods
+
+The Bayesian Analysis requires a GPU for speeding up the process.

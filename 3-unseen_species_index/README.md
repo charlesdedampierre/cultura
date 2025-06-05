@@ -15,7 +15,7 @@ This directory contains notebooks implementing the unseen species model, which i
 2. **2-run_generalized_chao_model.ipynb**  
    Implements and runs the generalized Chao model for estimating unseen species. This notebook applies statistical methods to estimate the number of "unseen" cultural productions based on observed patterns.
 
-3. **3-extract_model_table.ipynb**  
+3. **3-extract_model_table_corrected.ipynb**  
    This notebook generates the key metrics and findings from the model.
 
 4. **4-estimator_robustness_analysis.ipynb**  
