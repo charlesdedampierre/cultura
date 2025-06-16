@@ -17,8 +17,6 @@ from tqdm import tqdm
 load_dotenv()
 import os
 
-DATA_ENV_PATH = os.getenv("DATA_ENV_PATH")
-
 
 adapted_country = {
     "Arab Countries": ["re_arabic_world", "re_muslim_world"],
@@ -71,7 +69,7 @@ def pipeline_manual_cleaning_region_global(
     df_wiki = df_wiki.explode("region_code")
 
     # Get new data
-    df_wiki_new_region = _manual_cleaning_of_individuals(DATA_ENV_PATH)
+    df_wiki_new_region = _manual_cleaning_of_individuals()
 
     df_wiki_not_change = df_wiki[
         ~df_wiki["wikidata_id"].isin(list(set(df_wiki_new_region.wikidata_id)))
@@ -88,9 +86,7 @@ def pipeline_manual_cleaning_region_global(
     )
 
     # Add manual cleaning
-    manual_cleaning = pd.read_csv(
-        DATA_ENV_PATH
-        + "/manual_individuals_check/ENS - Cultural Index - Countries Databases - individuals_cleaned.csv"
+    manual_cleaning = pd.read_csv("manual_individuals_check/ENS - Cultural Index - Countries Databases - individuals_cleaned.csv"
     )
 
     manual_cleaning = manual_cleaning[["wikidata_id", "region_code_corrected"]]
@@ -133,9 +129,8 @@ def pipeline_manual_cleaning_region_global(
     return individuals
 
 
-def _manual_cleaning_of_individuals(env_path=DATA_ENV_PATH):
-    excel_file = pd.ExcelFile(
-        env_path + "/manual_individuals_check/Golden Age - Individuals Check.xlsx"
+def _manual_cleaning_of_individuals():
+    excel_file = pd.ExcelFile("manual_individuals_check/Golden Age - Individuals Check.xlsx"
     )
     all_data = pd.DataFrame()
 

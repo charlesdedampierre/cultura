@@ -1,14 +1,14 @@
 ,OLS Without FE,MixedLM With FE,Variable
-Intercept,0.00,-0.25,gdp
-Intercept_SE,0.04,0.19,gdp
-Intercept_CI,"(-0.08, 0.08)","(-0.63, 0.12)",gdp
-Intercept_t-value,0.00,-1.32,gdp
-Coef,0.50,0.47,gdp
+Intercept,-0.00,-0.31,gdp
+Intercept_SE,0.04,0.22,gdp
+Intercept_CI,"(-0.08, 0.08)","(-0.74, 0.11)",gdp
+Intercept_t-value,-0.00,-1.43,gdp
+Coef,0.45,0.40,gdp
 Coef_SE,0.04,0.03,gdp
-Coef_CI,"(0.42, 0.57)","(0.41, 0.53)",gdp
-Coef_t-value,13.04,15.80,gdp
+Coef_CI,"(0.37, 0.53)","(0.35, 0.46)",gdp
+Coef_t-value,11.02,13.30,gdp
 Coef_p-value,0.000,0.000,gdp
-Log-Likelihood,-655.67,-416.23,gdp
-Correlation,0.50,0.46,gdp
-N,514,514,gdp
-R-squared,0.25,N/A,gdp
+Log-Likelihood,-629.54,-377.43,gdp
+Correlation,0.45,0.23,gdp
+N,482,482,gdp
+R-squared,0.20,N/A,gdp

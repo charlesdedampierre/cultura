@@ -13,3 +13,6 @@ copia
 sparqlwrapper
 pydantic==1.10.12
 dotenv
+scikit-learn
+shapely
+geopandas
