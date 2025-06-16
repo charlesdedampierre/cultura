@@ -19,11 +19,6 @@ from dotenv import load_dotenv
 load_dotenv()
 import os
 
-DATA_ENV_PATH = (
-    os.getenv("DATA_ENV_PATH")
-    + "/ENS - Cultural Index - Countries Databases - consolidate_table.csv"
-)
-
 
 def filter_space(row):
     if (
@@ -63,7 +58,7 @@ def add_country_filter(x):
     )
 
 
-def get_regions(path=DATA_ENV_PATH) -> t.List[Region]:
+def get_regions(path='ENS - Cultural Index - Countries Databases - consolidate_table.csv') -> t.List[Region]:
     df_region = pd.read_csv(path)
 
     df_region_model = (

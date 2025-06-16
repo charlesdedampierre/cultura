@@ -4,10 +4,6 @@
 CHECKPOINT_PATH=/raw_data/checkpoints_dev_2
 WIKIDATA_RAW_DATA=/raw_data/wikidata_data
 WIKIPEDIA_RAW_DATA=/raw_data/wikipedia_data
-MANUAL_DATA=/environnement_data/manual_individuals_check
-DATA_ENV_PATH=/environnement_data
-
 
 NEW_DB_PATH=${PROJECT_PATH}/cultura.db
 DB_PATH = ${PROJECT_PATH}/cultura.db
-DATA_PATH=${PROJECT_PATH}/data
