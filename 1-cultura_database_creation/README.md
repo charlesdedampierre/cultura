@@ -11,7 +11,7 @@ The data is organized in a SQLite3 format, making it easy to query and retrieve 
 On the OSF Forum, there are two files:
 
 - the Sqlite3 Database: 'cultura_03_2025.db' <https://osf.io/d78tw>
--raw_data.zip <https://osf.io/5c9xy>, the data scraped from wikidata and used to make the Cultura Database
+-raw_data.zip <https://osf.io/wkyxz>, the data scraped from wikidata and used to make the Cultura Database
 
 ## Database Structure
 
