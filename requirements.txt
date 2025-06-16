@@ -16,3 +16,4 @@ dotenv
 scikit-learn
 shapely
 geopandas
+loguru

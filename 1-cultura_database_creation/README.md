@@ -96,11 +96,34 @@ The processus of extraction has been carried as followed:
 4) Extraction of sitelinks information (link to wikipedia pages).
 
 Data have been extracted using [SPARQLWrapper](https://sparqlwrapper.readthedocs.io/en/latest/) given that Wikidata can be queried as a SPARQL database. The output is a list of CSV files.
+
 The Zip file 'raw_data.zip' can be found on OSF: containing raw data from Wikidata and Wikipedia (data can be a bit messy given the numerous evolutions of the project, but they give a fair idea of the format when they are downloaded from the Wikidata & Wikipedia API).
 
 The ETL Process is in the directory [raw_to_db](raw_to_db/) where the main function is in the [enricher_pipeline.py](raw_to_db/raw_to_json/enricher_pipeline.py). This pipeline takes the different CSV files extracted from Wikidata and creates a unified Pydantic Datamodel (saved as JSON).
 
-Those files muse be added in raw_to_db. They can be found here (<https://osf.io/wkyxz>) and the repo needs to be unzipped.
+Those files muse be added in raw_to_db/raw_to_json. They can be found here (<https://osf.io/wkyxz>) and the repo needs to be unzipped.
+
+You end up with:
+
+cultura/1-cultura_database_creation/raw_to_db/raw_data
+
+The wikidata and Wikipedia files can be found in:
+
+- cultura/1-cultura_database_creation/raw_to_db/raw_data/wikidata_data
+- cultura/1-cultura_database_creation/raw_to_db/raw_data/wikipedia_data
+
+In order to run the pipeline that create the database, go to
+
+```bash
+cd raw_to_db/raw_to_json
+cp env .env
+python enricher_pipeline.py
+```
+
+The pipeline creates the following files:
+
+- cultura/1-cultura_database_creation/raw_to_db/raw_data/checkpoints_dev_2/individuals.jsonl
+- cultura/1-cultura_database_creation/raw_to_db/raw_data/checkpoints_dev_2/regions.jsonl
 
 Then the Pydantic model is transformed into a structured database. The transformation from JSON Pydantic Datamodel to the final SQLite3 Database is in the notebook [json_to_db.ipynb](raw_to_db/1.%20json_to_db.ipynb).
 
