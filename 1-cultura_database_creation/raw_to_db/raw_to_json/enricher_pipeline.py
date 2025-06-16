@@ -22,6 +22,7 @@ from sys_utils import save_model
 load_dotenv()
 import os
 
+
 CHECKPOINT_PATH = os.getenv("CHECKPOINT_PATH")
 
 

@@ -100,6 +100,8 @@ The Zip file 'raw_data.zip' can be found on OSF: containing raw data from Wikida
 
 The ETL Process is in the directory [raw_to_db](raw_to_db/) where the main function is in the [enricher_pipeline.py](raw_to_db/raw_to_json/enricher_pipeline.py). This pipeline takes the different CSV files extracted from Wikidata and creates a unified Pydantic Datamodel (saved as JSON).
 
+Those files muse be added in raw_to_db. They can be found here (<https://osf.io/wkyxz>) and the repo needs to be unzipped.
+
 Then the Pydantic model is transformed into a structured database. The transformation from JSON Pydantic Datamodel to the final SQLite3 Database is in the notebook [json_to_db.ipynb](raw_to_db/1.%20json_to_db.ipynb).
 
 Then the subset of individuals kept is made thought the following notebook: [json_to_db.ipynb](raw_to_db/2.%20clean_individuals.ipynb)

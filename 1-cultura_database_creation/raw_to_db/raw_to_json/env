@@ -1,9 +1,9 @@
 
 
 # Paths used for the creation of the Cultura Database
-CHECKPOINT_PATH=/raw_data/checkpoints_dev_2
-WIKIDATA_RAW_DATA=/raw_data/wikidata_data
-WIKIPEDIA_RAW_DATA=/raw_data/wikipedia_data
+CHECKPOINT_PATH=raw_data/checkpoints_dev_2
+WIKIDATA_RAW_DATA=raw_data/wikidata_data
+WIKIPEDIA_RAW_DATA=raw_data/wikipedia_data
 
-NEW_DB_PATH=${PROJECT_PATH}/cultura.db
-DB_PATH = ${PROJECT_PATH}/cultura.db
+NEW_DB_PATH=cultura.db
+DB_PATH=cultura.db
